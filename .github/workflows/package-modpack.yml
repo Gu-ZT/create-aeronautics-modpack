@@ -1,0 +1,59 @@
+name: Build Modpack Package
+
+on:
+  push:
+    paths:
+      - 'modpack/**'
+      - 'translate/**'
+  pull_request:
+    paths:
+      - 'modpack/**'
+      - 'translate/**'
+  workflow_dispatch: {}
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Read versionId from modrinth.index.json
+        id: version
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          path = Path('modpack/modrinth.index.json')
+          obj = json.loads(path.read_text(encoding='utf-8'))
+          print(f"::set-output name=version::{obj['versionId']}")
+          PY
+
+      - name: Ensure resourcepacks folder exists
+        run: |
+          mkdir -p modpack/overrides/resourcepacks
+
+      - name: Pack translate folder into 汉化包
+        run: |
+          cd translate
+          mkdir -p ../modpack/overrides/resourcepacks
+          zip -r ../modpack/overrides/resourcepacks/航空学汉化包.zip .
+
+      - name: Package modpack into .zip
+        run: |
+          version="${{ steps.version.outputs.version }}"
+          cd modpack
+          zip -r "../机械动力航空学整合包 ${version}.zip" .
+
+      - name: Rename pack extension to .mrpack
+        run: |
+          version="${{ steps.version.outputs.version }}"
+          mv "机械动力航空学整合包 ${version}.zip" "机械动力航空学整合包 ${version}.mrpack"
+
+      - name: Upload assembled .mrpack artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: 机械动力航空学整合包-${{ steps.version.outputs.version }}
+          path: |
+            机械动力航空学整合包 ${{ steps.version.outputs.version }}.mrpack
