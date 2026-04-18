@@ -1,0 +1,17 @@
+[overlay]
+	enabled = true
+	# Default: 1.0
+	# Range: 0.0 ~ 1.7976931348623157E308
+	scale = 1.0
+
+	[overlay.position]
+		#Use negative values to position relative to the right/bottom of the screen
+		# Default: 6
+		# Range: > -2147483648
+		x = 6
+		# Default: 6
+		# Range: > -2147483648
+		y = 6
+
+[effects]
+	seasonal = true

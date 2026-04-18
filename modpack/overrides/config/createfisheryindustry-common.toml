@@ -1,0 +1,81 @@
+#Frame Trap entity capture settings
+[frameTrap]
+	#List of entity registry names to always allow catching (whitelist). Example: 'minecraft:squid'
+	whitelist = ["minecraft:phantom", "minecraft:squid", "minecraft:spider", "minecraft:cave_spider", "minecraft:silverfish"]
+	#List of entity registry names to never catch (blacklist). Example: 'minecraft:dolphin'
+	blacklist = ["minecraft:dolphin", "minecraft:axolotl", "minecraft:cat", "minecraft:allay"]
+
+#Trap Bearing fishing settings
+[trapBearingFishing]
+	#Enable fishing functionality for Trap Bearing
+	enableFishing = true
+	#Enable lava fishing functionality (requires lava environment)
+	enableLavaFishing = true
+	#Use Nether Depths Upgrade loot tables for lava fishing when available
+	#If false or NDU is not installed, will fall back to default fishing loot table
+	useNDULootTables = true
+
+#Diving Equipment settings
+[divingEquipment]
+
+	#Jump Enhancement settings
+	[divingEquipment.jump]
+		#Base jump power when wearing diving equipment in fluids
+		#Default: 1.0 (higher = stronger jump)
+		# Default: 1.0
+		# Range: 0.1 ~ 2.0
+		baseJumpPower = 1.0
+		#Jump power when sprinting with diving equipment in fluids
+		#Default: 1.0 (higher = stronger jump)
+		# Default: 1.0
+		# Range: 0.1 ~ 2.0
+		sprintJumpPower = 1.0
+		#Cooldown between enhanced jumps in ticks (20 ticks = 1 second)
+		#Default: 10
+		# Default: 10
+		# Range: 0 ~ 100
+		jumpCooldown = 10
+		#Hunger cost per enhanced jump
+		#Default: 0.05 (1.0 = 1 full hunger point)
+		# Default: 0.05
+		# Range: 0.0 ~ 1.0
+		jumpHungerCost = 0.05
+
+	#Sprint Enhancement settings
+	[divingEquipment.sprint]
+		#Sprint speed multiplier for Copper Diving Leggings
+		#Default: 0.01 (higher = faster movement)
+		# Default: 0.01
+		# Range: 0.0 ~ 0.5
+		copperSprintSpeed = 0.01
+		#Sprint speed multiplier for Netherite Diving Leggings
+		#Default: 0.01 (higher = faster movement)
+		# Default: 0.01
+		# Range: 0.0 ~ 0.5
+		netheriteSprintSpeed = 0.01
+		#Hunger cost per second while sprinting underwater
+		#Default: 0.1 (1.0 = 1 full hunger point per second)
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		sprintHungerCostPerSecond = 0.1
+		#Time window for double-clicking W to start sprint (in ticks)
+		#Default: 7
+		# Default: 7
+		# Range: 1 ~ 20
+		sprintDoubleClickWindow = 7
+
+	#General Diving Equipment settings
+	[divingEquipment.general]
+		#Prevent fall damage from enhanced jumps
+		#Default: true
+		preventFallDamage = true
+		#Minimum hunger level required for sprint/jump enhancements (0-20)
+		#Default: 6 (3 hunger bars)
+		# Default: 6
+		# Range: 0 ~ 20
+		minHungerLevel = 6
+		#FOV multiplier when underwater sprinting (1.0 = no effect, 1.01 = default sprint effect)
+		#Default: 1.01
+		# Default: 1.01
+		# Range: 1.0 ~ 2.0
+		sprintFovMultiplier = 1.01

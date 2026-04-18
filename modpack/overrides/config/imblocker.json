@@ -1,0 +1,31 @@
+{
+  "basicSettings": {
+    "screenWhitelist": [
+      "com.simibubi.create.content.equipment.clipboard.ClipboardScreen",
+      "net.mehvahdjukaar.supplementaries.client.screens.TextHolderEditScreen",
+      "net.minecraft.client.gui.screens.inventory.BookEditScreen",
+      "net.minecraft.client.gui.screens.inventory.AbstractSignEditScreen"
+    ],
+    "enableScreenRecovering": false,
+    "recoveredScreens": [],
+    "englishStateImpl": "CONVERSION_STATUS",
+    "primaryEnglishState": "CJK"
+  },
+  "advanceSettings": {
+    "enableCharSimulation": false
+  },
+  "windowsCompatibilitySettings": {
+    "enableConversionStatusApi": true,
+    "enableCursorPositionTracking": true,
+    "enableCompositionFontTweaks": true,
+    "enableIngameIME": false
+  },
+  "linuxCompatibilitySettings": {
+    "enableKeyboardPatch": true,
+    "ibusOnArgName": "libpinyin",
+    "ibusOffArgName": "xkb:us::eng",
+    "fcitx5OnArgName": "-o",
+    "fcitx5OffArgName": "-c",
+    "fcitx5OnStateName": "2"
+  }
+}

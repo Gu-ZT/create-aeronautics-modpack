@@ -1,0 +1,8 @@
+# Use Cloth Config mod for the descriptions.
+---
+vars:
+  Author: Snownee
+eval:
+  printExpression: false
+kSwitch:
+  creativeOnly: false

@@ -1,0 +1,52 @@
+#.
+#Mechanical Spawner
+["Mechanical Spawner"]
+	#.
+	#.
+	#Minimum required speed.
+	# Default: 100.0
+	# Range: 1.0 ~ 3.4028234663852886E38
+	minimumSpeed = 100.0
+	#.
+	#Processing time multiplier. Allows to change processing time without editing the recipes.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	timeMultiplier = 1.0
+	#.
+	#Input liquid capacity.
+	# Default: 1000
+	# Range: > 1
+	liquidCapacity = 1000
+	#.
+	#Max range
+	# Default: 2
+	# Range: 1 ~ 16
+	maxRange = 2
+	#.
+	#Allow any container as loot collector
+	allowAnyContainerForLootCollector = false
+	#.
+	#Allow Create Item Vault as loot collector
+	allowCreateItemVaultForLootCollector = true
+	#.
+	#Forces to require a loot collector for the spawner to work.
+	lootCollectorRequired = false
+	#.
+	#Loot collector capacity in stacks
+	# Default: 8
+	# Range: > 1
+	lootCollectorCapacity = 8
+	#.
+	#Enables alternative loot for spawner recipes.
+	customLootPerSpawnRecipeEnabled = true
+
+	#.
+	#Stress values
+	[stressValues.v1]
+
+		#.
+		#.
+		#[in Stress Units]
+		#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+		[stressValues.v1.impact]
+			mechanical_spawner = 16.0

@@ -1,0 +1,73 @@
+[datapack]
+	#COMPAT: Extensive compatibility with other mod items
+	#COMPAT: 与其他模组物品与配方提供大量兼容
+	#UNITE: Duplicate items of the unified module
+	#UNITE: 统一与其它模组重复的物品
+	#Allowed Values: COMPAT, UNITE
+	mode = "COMPAT"
+	#Enable soup base material
+	#是否启用汤锅材质拓展
+	soup_enabled = true
+
+[lunchBlacklist]
+	#Whether the lunch bag blacklist is enabled
+	#是否启用嬗变饭袋物品黑名单
+	blacklist_enabled = true
+	#List of item IDs that cannot be put into the Transmutation Lunch Bag
+	#黑名单物品
+	#Format: modid:item_id (e.g., artifacts:everlasting_beef, minecraft:apple)
+	blacklist = ["artifacts:eternal_steak", "kaleidoscope_nether:everlasting_flame_steak"]
+
+[satiatedShield]
+	#Whether the weakened satiated shield effect is enabled
+	#是否启用饱腹代偿削弱
+	#When enabled, satiated shield will be weakened according to config settings
+	weaken_enabled = false
+	#Damage reduction ratio for weakened satiated shield effect
+	#饱腹代偿承伤的百分比
+	#Value between 0.0 (no reduction) and 1.0 (100% reduction)
+	#Default: 0.5 (50% damage reduction)
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	damage_reduction_ratio = 0.5
+
+[nourishmentEffect]
+	#Whether Nourishment effect is blocked when player has Satiated Shield
+	#是否启用滋养和饱腹代偿修复
+	#When enabled, FarmersDelight's Nourishment effect will not work if player has Satiated Shield effect
+	block_enabled = true
+
+[transmutationLunchBag]
+	#Whether the modified Transmutation Lunch Bag behavior is enabled
+	#是否启用嬗变饭袋回调
+	#When enabled, the lunch bag will only consume the first food item but apply all effects from all items in the bag
+	#When disabled, the original Kaleidoscope Cookery behavior will be used
+	back_behavior_enabled = false
+
+[farmersdelight]
+	#Whether all FarmersDelight cooking pot recipes are disabled
+	#是否禁用农夫乐事厨锅配方
+	#When enabled, all cooking pot recipes will not work
+	cooking_pot_recipes_disabled = false
+	#Whether all FarmersDelight cutting board recipes are disabled
+	#是否禁用农夫乐事砧板配方
+	#When enabled, all cutting board recipes will not work
+	cutting_board_recipes_disabled = false
+
+[farm_and_charm]
+	#Whether all Farm and Charm cooking pot recipes are disabled
+	#是否禁用沉浸农艺厨锅配方
+	#When enabled, all Farm and Charm cooking pot recipes will not work
+	cooking_pot_recipes_disabled = false
+
+[vinery]
+	#Whether all Vinery fermentation barrel recipes are disabled
+	#是否禁用葡园酒香酿造桶配方
+	#When enabled, all Vinery fermentation barrel recipes will not work
+	barrel_recipes_disabled = false
+
+[scarecrow]
+	#Whether scarecrows can repel phantoms
+	#稻草人是否可以驱散幻翼
+	#When enabled, phantoms will avoid areas near scarecrows with heads
+	repel_phantoms = true

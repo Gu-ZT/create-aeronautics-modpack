@@ -1,0 +1,44 @@
+#Enable Voxy LOD rendering system
+enabled = true
+#Enable LOD terrain rendering (can be disabled while keeping data ingestion)
+enableRendering = true
+#Enable automatic chunk data ingestion for LOD generation
+ingestEnabled = true
+#LOD section render distance (multiplied by 32 for actual chunk distance)
+#Example: 16 = 512 chunks render distance
+# Default: 16
+# Range: 2 ~ 64
+sectionRenderDistance = 16
+#Number of background threads for LOD processing
+#Default is based on CPU core count.
+# Default: 5
+# Range: 1 ~ 8
+serviceThreads = 5
+#Subdivision size for LOD rendering (28-256)
+#Lower = more detailed LODs but more GPU load
+# Default: 64.0
+# Range: 28.0 ~ 256.0
+subDivisionSize = 64.0
+#Apply environmental fog to LOD terrain
+useEnvironmentalFog = true
+#Don't share threads with Sodium's chunk builder
+dontUseSodiumBuilderThreads = false
+#LOD boundary overlap in blocks (like DH's overdraw prevention)
+#Controls how much LODs overlap with vanilla chunk edges.
+#Higher values = more overlap = smoother transitions but slight overdraw.
+#0 = exact match (may have gaps), 1 = minimal overlap, 2-4 = smoother for fast flight
+# Default: 1
+# Range: 0 ~ 4
+lodBoundaryBuffer = 1
+#World curvature effect - simulates standing on a spherical planet
+#0 = disabled (flat world)
+#1 = real Earth curvature (6371km radius)
+#Higher values = more extreme curvature (smaller planet effect)
+#Valid range: 0 (off), or 50-5000. Values 1-49 are auto-corrected to 50.
+#Inspired by Distant Horizons' earth curvature feature
+# Default: 0
+# Range: 0 ~ 5000
+earthCurveRatio = 0
+#Show render statistics in F3 debug screen
+#Displays LOD traversal counts, visible sections, and quad counts
+renderStatistics = false

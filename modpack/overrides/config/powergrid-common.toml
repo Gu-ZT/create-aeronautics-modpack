@@ -1,0 +1,8 @@
+#.
+#Enables extensive logging in different segments of the mod (can cause larger log files and log spam)
+lotsOfLogs = false
+#.
+#Periodic state synchronization sent by the server. This option makes sure that the clients are always close to the server simulation state, it will send the NBT data of all block entities in an electrical network to all clients (0 = disabled)
+# Default: 100
+# Range: > 0
+fullStateSynchronizationInterval = 100

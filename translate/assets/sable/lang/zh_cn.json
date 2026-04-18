@@ -1,0 +1,147 @@
+{
+  "menu.savingSubLevels": "正在保存子层级",
+
+  "commands.sable.helper.missing_sub_level_container": "找不到该层级的子层级容器！",
+  "commands.sable.helper.missing_physics_system": "找不到该层级的子层级物理系统！",
+
+  "commands.sable.sub_level": "子层级",
+  "commands.sable.sub_levels": "%s个子层级",
+
+  "commands.sable.physics.global": "全局",
+  "commands.sable.physics.local": "局部",
+
+  "commands.sable.spawn.success": "已生成%s",
+  "commands.sable.spawn.clone.success": "已克隆子层级",
+
+  "commands.sable.physics.impulse.angular.success": "已向%3$s的%2$s施加%1$s角冲量",
+  "commands.sable.physics.impulse.linear.success": "已向%3$s的%2$s施加%1$s线性冲量",
+  "commands.sable.physics.rotation.add.success": "已为%3$s的%2$s增加%1$s旋转",
+  "commands.sable.physics.rotation.set.success": "已将%2$s的旋转设置为%1$s",
+  "commands.sable.physics.translation.add.success": "已为%3$s的%2$s增加%1$s平移",
+  "commands.sable.physics.translation.set.success": "已将%2$s的平移设置为%1$s",
+
+  "commands.sable.joint.missing_sublevel_target": "找不到用于关节的子层级目标",
+  "commands.sable.joint.success": "成功创建关节",
+
+  "commands.sable.sub_level.set_name.success_singular": "已将子层级的名称设为%s",
+  "commands.sable.sub_level.set_name.success_multiple": "已将%1$s个子层级的名称设为%2$s",
+
+  "commands.sable.sub_level.get_name.success": "子层级的名称为%s",
+  "commands.sable.sub_level.get_name.failure_unnamed": "该子层级没有名称",
+
+  "commands.sable.sub_level.clear_name.success_singular": "已清除子层级的名称",
+  "commands.sable.sub_level.clear_name.success_multiple": "已清除%1$s个子层级的名称",
+
+  "commands.sable.sub_level.teleport_with_orientation.success": "已将%1$s传送至%2$.2f, %3$.2f, %4$.2f，朝向%5$.2f, %6$.2f",
+  "commands.sable.sub_level.teleport.success": "已将%1$s传送至%2$.2f, %3$.2f, %4$.2f",
+  "commands.sable.sub_level.remove.success": "已移除%s",
+  "commands.sable.sub_level.assemble.no_blocks": "无法组装子层级，未找到有效方块",
+  "commands.sable.sub_level.assemble.connected.too_many_blocks": "无法组装子层级，方块过多（最多%s个）",
+  "commands.sable.sub_level.shatter.no_blocks": "无法打碎为子层级，未找到有效方块",
+  "commands.sable.sub_level.shatter.connected.too_many_blocks": "无法打碎为子层级，方块过多（最多%s个）",
+  "commands.sable.sub_level.shatter.region.success": "已将包含%1$s个方块的区域打碎为新的子层级",
+  "commands.sable.sub_level.shatter.connected.success": "已将%1$s个相连方块打碎为新的子层级",
+  "commands.sable.sub_level.shatter.range.success": "已将包含%1$s个方块的范围打碎为新的子层级",
+  "commands.sable.sub_level.shatter.radius.success": "已将包含%1$s个方块的半径范围打碎为新的子层级",
+  "commands.sable.sub_level.shatter.sub_level.success": "已将%1$s打碎为%2$s个新的子层级",
+  "commands.sable.sub_level.shatter.sub_level.only_single_block": "无法打碎单方块子层级",
+  "commands.sable.sub_level.assemble.region.success": "已将包含%1$s个方块的区域组装为新子层级",
+  "commands.sable.sub_level.assemble.connected.success": "已将%1$s个相连方块组装为新子层级",
+  "commands.sable.sub_level.assemble.radius.success": "已将包含%1$s个方块的半径范围组装为新子层级",
+  "commands.sable.sub_level.assemble.range.success": "已将包含%1$s个方块的范围组装为新子层级",
+
+  "commands.sable.physics.paused.success": "已将物理暂停状态设为%s",
+  "commands.sable.physics.paused_toggled.success": "已切换物理暂停状态为%s",
+
+  "commands.sable.place_schematic.failure": "找不到结构蓝图！",
+  "commands.sable.place_schematic.success": "已放置结构蓝图！",
+
+  "commands.sable.fail.not_inside_sub_level": "位置不在子层级地块内",
+  "commands.sable.fail.no_sub_levels": "未找到子层级",
+  "commands.sable.fail.unmodified": "没有子层级被修改",
+  "commands.sable.fail.no_axis_for_rotation": "没有旋转轴",
+
+  "commands.sable.info.count": "找到%1$s个子层级：",
+  "commands.sable.info.name": "%s:",
+  "commands.sable.info.name.tooltip": "序列化指针：%s",
+  "commands.sable.info.position": "    位置：%.2f %.2f %.2f",
+  "commands.sable.info.orientation": "    朝向：%.2f %.2f %.2f %.2f",
+  "commands.sable.info.linear_velocity": "    线速度：%.2f %.2f %.2f",
+  "commands.sable.info.angular_velocity": "    角速度：%.2f %.2f %.2f",
+  "commands.sable.info.mass": "    质量：%.2f",
+
+  "commands.data.sub_level.get": "子层级%2$s上经过%3$s倍缩放的%1$s为%4$s",
+  "commands.data.sub_level.modified": "已修改%1$s的子层级辅助数据",
+  "commands.data.sub_level.query": "%1$s拥有以下辅助子层级数据：%2$s",
+
+  "argument.sable.body.selector.all": "所有子层级",
+  "argument.sable.body.selector.nearest": "最近的子层级",
+  "argument.sable.body.selector.random": "随机子层级",
+  "argument.sable.body.selector.viewed": "视角中的子层级",
+  "argument.sable.body.selector.latest": "最新的子层级",
+  "argument.sable.body.selector.tracking": "追踪中的子层级",
+  "argument.sable.body.selector.inside": "内部的子层级",
+  "argument.sable.body.static_world": "静态世界",
+
+  "argument.sable.sub_level.modifier.distance": "到子层级的距离",
+  "argument.sable.sub_level.modifier.x": "x坐标",
+  "argument.sable.sub_level.modifier.y": "y坐标",
+  "argument.sable.sub_level.modifier.z": "z坐标",
+  "argument.sable.sub_level.modifier.dx": "x与x+dx之间的子层级",
+  "argument.sable.sub_level.modifier.dy": "y与y+dy之间的子层级",
+  "argument.sable.sub_level.modifier.dz": "z与z+dz之间的子层级",
+  "argument.sable.sub_level.modifier.vx": "x轴速度",
+  "argument.sable.sub_level.modifier.vy": "y轴速度",
+  "argument.sable.sub_level.modifier.vz": "z轴速度",
+  "argument.sable.sub_level.modifier.speed": "子层级速率",
+  "argument.sable.sub_level.modifier.mass": "子层级重量",
+  "argument.sable.sub_level.modifier.volume": "子层级边界框体积",
+  "argument.sable.sub_level.modifier.width": "子层级边界框X轴尺寸",
+  "argument.sable.sub_level.modifier.height": "子层级边界框Y轴尺寸",
+  "argument.sable.sub_level.modifier.length": "子层级边界框Z轴尺寸",
+  "argument.sable.sub_level.modifier.limit": "返回的最大子层级数量",
+  "argument.sable.sub_level.modifier.name": "子层级名称",
+  "argument.sable.sub_level.modifier.sort": "按距离排序子层级",
+  "argument.sable.unexpected_end_of_input": "意外的输入结尾",
+  "argument.sable.single_sub_level_required": "只允许一个子层级，但提供的选择器允许超过一个",
+  "argument.sable.sub_level.invalid": "无效的子层级选择器",
+  "argument.sable.sub_level.expected_end_of_modifier": "预期修饰符结束",
+  "argument.sable.sub_level.expected_positive_integer": "预期一个正整数",
+  "argument.sable.sub_level.expected_positive_decimal": "预期一个正小数",
+  "argument.sable.sub_level.expected_positive_range": "预期一个正数范围",
+  "argument.sable.sub_level.expected_sorting": "预期排序类型为nearest或furthest",
+
+  "inspector.sable.sub_level_container.title": "子层级容器",
+
+  "attribute.name.player.sub_level_punch_strength": "推动强度",
+  "attribute.name.player.sub_level_punch_cooldown": "推动冷却",
+
+  "options.sable_menu": "子层级设置……  ",
+  "options.physics_steps": "物理步进",
+  "options.physics_steps_template": "%s 步/秒",
+  "options.physics_steps.tooltip": "每秒物理模拟进行的步进次数。数值越高对性能要求显著增加，但精确度更高。",
+
+  "sub_level.toast.checkLog": "查看日志了解更多细节",
+  "sub_level.toast.loadFailure": "加载位于%1$s的子层级失败",
+  "sub_level.toast.saveFailure": "保存位于%1$s的子层级失败",
+  "sub_level.toast.physicsFailure": "位于%1$s的子层级发生物理错误",
+  "sub_level.toast.attemptingRecovery": "尝试恢复",
+
+  "camera_type.sub_level_view": "进入装置视角",
+  "camera_type.sub_level_view_unlocked": "进入未锁定装置视角",
+
+  "force_group.sable.gravity": "重力",
+  "force_group.sable.drag": "阻力",
+  "force_group.sable.levitation": "飘浮",
+  "force_group.sable.balloon_lift": "气球升力",
+  "force_group.sable.propulsion": "推进力",
+  "force_group.sable.lift": "升力",
+  "force_group.sable.magnetic_force": "磁力",
+
+  "schematic.sable.mirror_not_supported": "无法镜像包含子层级的结构蓝图！",
+
+  "death.attack.fall.from_sublevel": "%1$s从%2$s上摔落",
+
+  "sable.create.mechanical_arm.points_removed_sublevel_and_range": "%1$s个选定的交互点因距离限制或未锚定而被移除。",
+  "sable.create.remove.points_removed_sublevel" : "%1$s个选定的交互点因未锚定而被移除"
+}

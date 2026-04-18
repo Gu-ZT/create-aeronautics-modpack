@@ -1,0 +1,16 @@
+#Controls how many trades a worker can perform in one work cycle
+# Default: 4
+# Range: > 1
+maxTradePerWork = 4
+#Controls whether villagers should be able to level up from trades made at depots
+shouldProduceVillagerExperience = true
+#Controls whether depots produce experience when trading
+shouldProduceExperience = false
+#The chance for each experience item to be produced when trading
+# Default: 0.2
+# Range: 0.0 ~ 1.0
+chancePerExperience = 0.2
+#Controls how many chances for experience to generate there are per work cycle
+# Default: 4
+# Range: 1 ~ 64
+generatedExperienceCount = 4

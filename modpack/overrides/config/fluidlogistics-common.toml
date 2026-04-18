@@ -1,0 +1,11 @@
+#Whether the Fluid Transporter is enabled
+fluidTransporterEnabled = true
+#The maximum amount of fluid (in mB) a compressed tank can hold
+# Default: 10000
+# Range: 1000 ~ 10000
+compressedTankCapacity = 10000
+#The maximum amount of fluid (in mB) a fluid package can hold
+#Effective maximum is clamped to 9x the configured compressed tank capacity
+# Default: 10000
+# Range: 1 ~ 90000
+fluidPackageCapacity = 10000

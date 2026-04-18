@@ -1,0 +1,15 @@
+#Currency Conversion
+[currencyConversion]
+	#When enabled, items that are freely converted to and from other items (for example, 9 Diamonds equal 1 Diamond Block) will be converted automatically to make shopping easier. Otherwise, only specifically defined currencies will work.
+	compression = true
+	#Allow Stock Tickers to perform Currency Conversion as well.
+	allowStockTickers = false
+
+#Train Network Monitor
+[trainNetworkMonitor]
+	#When enabled, a train's inventory and fluid contents can be read using a Train Network Monitor Peripheral. When disabled, only information about packages is available.
+	allowInventoryAccess = false
+	#When enabled, trains and stations can be modified using a Train Network Monitor Peripheral. When disabled, data can only be read.
+	allowWriting = false
+	#When enabled, Train Network Monitors will emit events whenever a train arrives or departs a station on the monitored train network.
+	arrivalEvents = true

@@ -1,0 +1,15 @@
+{
+  "renderers": {
+    "random_tickable_chunks": {
+      "pos": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "slime_chunks": {
+      "y_top": 0.0
+    }
+  },
+  "hud_data": {}
+}

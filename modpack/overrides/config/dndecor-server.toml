@@ -1,0 +1,127 @@
+#.
+#Parameters and abilities of DnDecor's kinetic mechanisms
+[kinetics]
+
+	#.
+	#.
+	#Fine tune the kinetic stats of individual components
+	[kinetics.stressValues]
+
+		#.
+		#.
+		#[in Stress Units]
+		#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+		[kinetics.stressValues.impact]
+			blue_large_cogwheel = 0.0
+			yellow_flywheel = 0.0
+			dripstone_crushing_wheel = 8.0
+			brown_flywheel = 0.0
+			tuff_millstone = 4.0
+			brown_large_cogwheel = 0.0
+			gabbro_millstone = 4.0
+			lime_display_board = 0.0
+			pink_cogwheel = 0.0
+			blue_display_board = 0.0
+			pink_display_board = 0.0
+			green_cogwheel = 0.0
+			netherrack_crushing_wheel = 8.0
+			cyan_flywheel = 0.0
+			calcite_crushing_wheel = 8.0
+			tuff_crushing_wheel = 8.0
+			dolomite_crushing_wheel = 8.0
+			black_cogwheel = 0.0
+			blue_flywheel = 0.0
+			red_display_board = 0.0
+			light_blue_flywheel = 0.0
+			gray_flywheel = 0.0
+			crimsite_crushing_wheel = 8.0
+			packed_mud_crushing_wheel = 8.0
+			green_display_board = 0.0
+			dripstone_millstone = 4.0
+			brown_display_board = 0.0
+			deepslate_crushing_wheel = 8.0
+			white_display_board = 0.0
+			asurine_millstone = 4.0
+			black_display_board = 0.0
+			granite_millstone = 4.0
+			asurine_crushing_wheel = 8.0
+			magenta_flywheel = 0.0
+			diorite_crushing_wheel = 8.0
+			scorchia_millstone = 4.0
+			basalt_millstone = 4.0
+			scoria_millstone = 4.0
+			limestone_crushing_wheel = 8.0
+			netherrack_millstone = 4.0
+			amethyst_millstone = 4.0
+			yellow_display_board = 0.0
+			limestone_millstone = 4.0
+			red_cogwheel = 0.0
+			blue_cogwheel = 0.0
+			stone_millstone = 4.0
+			light_gray_cogwheel = 0.0
+			purple_display_board = 0.0
+			scoria_crushing_wheel = 8.0
+			pink_large_cogwheel = 0.0
+			deepslate_millstone = 4.0
+			dark_metal_cogwheel = 0.0
+			magenta_display_board = 0.0
+			orange_display_board = 0.0
+			red_flywheel = 0.0
+			blackstone_crushing_wheel = 8.0
+			veridium_millstone = 4.0
+			cyan_display_board = 0.0
+			pink_flywheel = 0.0
+			ochrum_crushing_wheel = 8.0
+			orange_large_cogwheel = 0.0
+			red_large_cogwheel = 0.0
+			brown_cogwheel = 0.0
+			gabbro_crushing_wheel = 8.0
+			magenta_large_cogwheel = 0.0
+			yellow_large_cogwheel = 0.0
+			yellow_cogwheel = 0.0
+			diorite_millstone = 4.0
+			industrial_cogwheel = 0.0
+			crimsite_millstone = 4.0
+			scorchia_crushing_wheel = 8.0
+			ochrum_millstone = 4.0
+			weathered_limestone_millstone = 4.0
+			light_blue_cogwheel = 0.0
+			lime_large_cogwheel = 0.0
+			cyan_large_cogwheel = 0.0
+			weathered_limestone_crushing_wheel = 8.0
+			dolomite_millstone = 4.0
+			gray_cogwheel = 0.0
+			stone_crushing_wheel = 8.0
+			cyan_cogwheel = 0.0
+			black_flywheel = 0.0
+			light_gray_flywheel = 0.0
+			light_gray_display_board = 0.0
+			magenta_cogwheel = 0.0
+			calcite_millstone = 4.0
+			large_industrial_cogwheel = 0.0
+			white_large_cogwheel = 0.0
+			white_flywheel = 0.0
+			basalt_crushing_wheel = 8.0
+			black_large_cogwheel = 0.0
+			veridium_crushing_wheel = 8.0
+			packed_mud_millstone = 4.0
+			green_large_cogwheel = 0.0
+			white_cogwheel = 0.0
+			belt = 0.0
+			purple_large_cogwheel = 0.0
+			light_blue_display_board = 0.0
+			light_blue_large_cogwheel = 0.0
+			large_dark_metal_cogwheel = 0.0
+			granite_crushing_wheel = 8.0
+			green_flywheel = 0.0
+			orange_flywheel = 0.0
+			gray_large_cogwheel = 0.0
+			purple_flywheel = 0.0
+			orange_cogwheel = 0.0
+			lime_cogwheel = 0.0
+			gray_display_board = 0.0
+			purple_cogwheel = 0.0
+			lime_flywheel = 0.0
+			blackstone_millstone = 4.0
+			amethyst_crushing_wheel = 8.0
+			light_gray_large_cogwheel = 0.0

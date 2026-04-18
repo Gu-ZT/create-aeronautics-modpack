@@ -1,0 +1,5 @@
+#Stress impact configurations for createfisheryindustry
+#[in Stress Units]
+[impact]
+	trap_bearing = 4.0
+	mechanical_peeler = 4.0

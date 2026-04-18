@@ -1,0 +1,29 @@
+[star_dust_repair]
+	#Whether star dust repair functionality is enabled
+	enabled = true
+	#Star dust repair percentage (e.g., 25 means 25%)
+	# Default: 25
+	# Range: 1 ~ 100
+	percentage = 25
+	#Star dust flat repair value (additional durability points repaired)
+	# Default: 150
+	# Range: 1 ~ 1000
+	flat = 150
+
+[everlasting_flame_steak]
+	#Whether the Everlasting Flame Steak is enabled
+	enabled = true
+	#Cooldown in ticks for Everlasting Flame Steak (20 ticks = 1 second)
+	# Default: 300
+	# Range: 0 ~ 1200
+	cooldown = 300
+
+[warped_buff]
+	#List of mob entity IDs that are affected by Warped Buff (e.g., minecraft:piglin, minecraft:ghast)
+	affectedMobs = ["minecraft:piglin", "minecraft:piglin_brute", "minecraft:zombified_piglin", "minecraft:hoglin", "minecraft:zoglin", "minecraft:ghast", "minecraft:magma_cube", "minecraft:blaze", "minecraft:wither_skeleton", "minecraft:wither"]
+
+[blaze_heart]
+	#Whether Blaze Heart explosion destroys terrain blocks
+	destroyTerrain = false
+	#Whether Blaze Heart explosion can hurt the thrower/owner
+	hurtOwner = false

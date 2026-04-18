@@ -1,0 +1,33 @@
+[air]
+	# Default: 450
+	# Range: > 1
+	seconds_per_tank = 450
+	# Default: 900
+	# Range: > 1
+	seconds_per_tank_hover = 900
+
+[speed]
+	# Default: 0.02
+	# Range: 0.01 ~ 100.0
+	horizontal = 0.02
+	# Default: 0.4
+	# Range: 0.01 ~ 100.0
+	vertical = 0.4
+	# Default: 0.6
+	# Range: 0.01 ~ 100.0
+	acceleration = 0.6
+	# Default: -0.03
+	# Range: -100.0 ~ 0.0
+	hover_descend = -0.03
+	# Default: 1.8
+	# Range: 0.0 ~ 100.0
+	swim_modifier = 1.8
+
+[features]
+	# Default: 1.25
+	# Range: 1.0 ~ 100.0
+	elytra_boost = 1.25
+
+[enchantments]
+	list = []
+	is_blacklist = true

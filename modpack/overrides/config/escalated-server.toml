@@ -1,0 +1,22 @@
+#.
+#[in blocks]
+# Default: 128
+# Range: 3 ~ 1024
+maxWalkwayLength = 128
+#.
+#[in blocks]
+# Default: 32
+# Range: 2 ~ 1024
+maxEscalatorHeight = 32
+#.
+#[in blocks]
+# Default: 10
+# Range: 1 ~ 256
+maxWalkwayWidth = 10
+#.
+#[in blocks]
+# Default: 10
+# Range: 1 ~ 256
+maxEscalatorWidth = 10
+#.
+divingBootsPreventWalkwayMotion = false

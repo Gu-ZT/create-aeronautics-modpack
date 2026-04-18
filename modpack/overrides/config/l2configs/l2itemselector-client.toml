@@ -1,0 +1,12 @@
+#Background transparency for info text box overlay. 1 means opaque.
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+infoAlpha = 0.5
+#Allowed Values: TOP, CENTER, BOTTOM
+infoAnchor = "CENTER"
+#Max width for info box. 0.5 means half screen. default: 0.3
+# Default: 0.3
+# Range: 0.0 ~ 0.5
+infoMaxWidth = 0.3
+selectionDisplayRequireShift = false
+selectionScrollRequireShift = true

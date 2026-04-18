@@ -1,0 +1,10 @@
+#enables targeting depots with cardboard planes
+enablePlaneLocationLogistics = true
+#enables targeting players with cardboard planes
+enablePlanePlayerLogistics = true
+#allows/disables planes for transporting items to another dimension
+planeCrossDimTransport = true
+#enables integration with Create's Shop system that rewrites "<>" address to the ordering player's nick)
+enableShopAddressReplacement = true
+#enables integration with Create's Shop system that rewrites "@player" addresses to the ordering player's nick)
+atSignShopAddressReplacement = false

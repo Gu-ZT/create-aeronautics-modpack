@@ -1,0 +1,6 @@
+#Print damage trace tracked by damage tracker
+printDamageTrace = false
+#Save player attack damage trace to file under logs/damage_tracker/
+savePlayerAttack = false
+#Save player hurt damage trace to file under logs/damage_tracker/
+savePlayerDamaged = false

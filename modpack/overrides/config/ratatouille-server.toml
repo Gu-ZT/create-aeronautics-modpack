@@ -1,0 +1,18 @@
+#.
+#Ratatouille's Kinetic components and their properties
+[kinetics]
+
+		#.
+		#.
+		#Fine tune the kinetic stats of individual components
+		[kinetics.stressValues.ratatouille]
+
+			#.
+			#.
+			#[in Stress Units]
+			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+			[kinetics.stressValues.ratatouille.impact]
+				mechanical_demolder = 8.0
+				thresher = 4.0
+				oven_fan = 2.0
+				spreader = 2.0

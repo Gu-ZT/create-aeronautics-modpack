@@ -1,0 +1,15 @@
+# Default: 1.5
+# Range: 1.0 ~ 100.0
+smoothingHealingFactor = 1.5
+# Default: 60
+# Range: 0 ~ 10000
+teaHealingPeriod = 60
+# Default: 60
+# Range: 0 ~ 10000
+udumbaraHealingPeriod = 60
+# Default: 200
+# Range: 0 ~ 100000
+udumbaraDuration = 200
+# Default: 4
+# Range: 0 ~ 100
+udumbaraFullMoonReduction = 4

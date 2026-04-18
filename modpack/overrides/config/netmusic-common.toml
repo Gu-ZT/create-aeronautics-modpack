@@ -1,0 +1,26 @@
+[general]
+	#Whether stereo playback is enabled
+	EnableStereo = true
+	#Proxy Type, http and socks are supported
+	#Allowed Values: DIRECT, HTTP, SOCKS
+	ProxyType = "DIRECT"
+	#Proxy Address, such as 127.0.0.1:1080, empty is no proxy
+	ProxyAddress = ""
+	#Whether to enable lyrics display in the music player
+	EnablePlayerLyrics = true
+	#Whether to enable lyrics display for the maid
+	EnableMaidLyrics = true
+	#The color of the original lyrics in the music player, in #ARGB format
+	OriginalPlayerLyricsColor = "#FFAAAAAA"
+	#The color of the translated lyrics in the music player, in #ARGB format
+	TranslatedPlayerLyricsColor = "#FFFFFFFF"
+	#The color of the original lyrics for the maid, in #ARGB format
+	OriginalMaidLyricsColor = "#FFAAAAAA"
+	#The color of the translated lyrics for the maid, in #ARGB format
+	TranslatedMaidLyricsColor = "#FF000000"
+
+[sophisticated_backpacks]
+	#Whether NetMusic CDs can generate inside mob backpacks
+	EnableNetMusicCDGeneration = false
+	#Whether VIP NetMusic CDs can generate inside mob backpacks
+	EnableVIPNetMusicCDGeneration = false

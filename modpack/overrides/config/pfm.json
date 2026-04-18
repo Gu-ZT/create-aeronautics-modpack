@@ -1,0 +1,14 @@
+{
+  "checkForUpdates": true,
+  "shaderSolidFix": false,
+  "chairsFacePlayer": true,
+  "countersOfDifferentMaterialsConnect": false,
+  "foodPopsOffStove": false,
+  "tablesOfDifferentMaterialsConnect": false,
+  "enableBook": true,
+  "differentMirrorsConnect": false,
+  "mobsSitOnChairs": true,
+  "renderImmersivePortalsMirrors": true,
+  "spawnImmersivePortalsMirror": true,
+  "disableGeneratingScreen": false
+}

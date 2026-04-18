@@ -1,0 +1,5 @@
+[cookery]
+	#Whether enabling the Satiated Shield effect.
+	SatiatedShieldAbsorbEnabled = true
+	#Whether the Satiated Shield effect should absorb excess damage beyond its capacity.
+	SatiatedShieldAbsorbExcessDamage = true

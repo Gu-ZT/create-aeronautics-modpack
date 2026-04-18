@@ -1,0 +1,31 @@
+[Drinks]
+drinks = []
+
+[Foods]
+foods = [
+    ["kaleidoscope_cookery:pork_bone_soup", 4, 6],
+    ["kaleidoscope_cookery:seafood_miso_soup", 5, 7],
+    ["kaleidoscope_cookery:fearsome_thick_soup", 3, 5],
+    ["kaleidoscope_cookery:lamb_and_radish_soup", 5, 7],
+    ["kaleidoscope_cookery:braised_beef_with_potatoes", 3, 5],
+    ["kaleidoscope_cookery:wild_mushroom_rabbit_soup", 6, 8],
+    ["kaleidoscope_cookery:tomato_beef_brisket_soup", 5, 7],
+    ["kaleidoscope_cookery:pufferfish_soup", 2, 4],
+    ["kaleidoscope_cookery:borscht", 6, 8],
+    ["kaleidoscope_cookery:beef_meatball_soup", 4, 6],
+    ["kaleidoscope_cookery:chicken_and_mushroom_stew", 5, 7],
+    ["kaleidoscope_cookery:donkey_soup", 6, 8],
+    ["kaleidoscope_nether:blaze_soup", 5, 7],
+    ["kaleidoscope_nether:wither_bone_soup", 4, 6],
+    ["kaleidoscope_nether:star_stew", 3, 5],
+    ["kaleidoscope_nether:soul_soup", 3, 5],
+    ["kaleidoscope_nether:poisonous_soup", 3, 5],
+    ["kaleidoscope_nether:magma_cream_soup", 3, 5],
+    ["kaleidoscope_nether:glowing_soup", 3, 5],
+    ["kaleidoscope_end:dragon_breath_chorus_soup", 6, 8],
+    ["kaleidoscope_chinesefood:seaweed_egg_drop_soup", 6, 8],
+    ["kaleidoscope_chinesefood:tomato_egg_drop_soup", 6, 8],
+]
+
+[Blacklist]
+itemsBlacklist = []

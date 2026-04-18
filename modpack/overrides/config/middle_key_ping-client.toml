@@ -1,0 +1,17 @@
+generic_color = "#999999FF"
+generic_text_color = "#DDDDDDFF"
+warning_color = "#FFFF00FF"
+warning_text_color = "#0000FFFF"
+goto_color = "#00FF00FF"
+goto_text_color = "#FF00FFFF"
+enemy_color = "#FF0000FF"
+enemy_text_color = "#00FFFFFF"
+#If set to false, points that are beyond the specified distance or are not selected will not be marked
+allow_ping_empty = true
+#The maximum distance allowed for the creation of punctuation marks
+# Default: 200
+# Range: 16 ~ 1024
+max_ping_distance = 200
+# Default: 6
+# Range: 1 ~ 64
+max_ping_count = 6
