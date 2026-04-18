@@ -1,9 +1,9 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.0",
+  "versionId": "1.1.1",
   "name": "机械动力航空学整合包",
-  "summary": "正式版 1.21.1, NeoForge 21.1.226",
+  "summary": "机械动力航空学整合包-内置汉化",
   "files": [
     {
       "path": "mods/[A][FTB · 任务] ftb-quests-neoforge-2101.1.24.jar",
