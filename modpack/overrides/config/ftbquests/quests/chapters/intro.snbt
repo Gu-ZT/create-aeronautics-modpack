@@ -34,5 +34,41 @@
 			x: 3.0d
 			y: 0.0d
 		}
+		{
+			icon: {
+				id: "minecraft:pink_dye"
+			}
+			id: "76EE44B9A618AE4C"
+			tasks: [{
+				id: "337A21B9AD6DD480"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:orange_dye"
+			}
+			id: "56535CE4BF11612B"
+			tasks: [{
+				id: "50E32799645D48BA"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_doll:tweaks_tool"
+			}
+			id: "39593B24B0124883"
+			tasks: [{
+				id: "2EE34941618F682C"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
 	]
 }

@@ -1,7 +1,7 @@
 {
-	chapter.4768D92465F10FF3.title: "simulated"
-	chapter.5611A7EEFC896A91.title: "create"
-	chapter.6001249E10CBD524.title: "intro"
+	chapter.4768D92465F10FF3.title: "航空学"
+	chapter.5611A7EEFC896A91.title: "机械动力"
+	chapter.6001249E10CBD524.title: "整合包简介"
 	file.0000000000000001.title: "机械动力：航空学"
 	quest.00EC174CE65A4F3A.quest_desc: [
 		"结构移动时，会受到和运动方向相反的阻力"
@@ -21,6 +21,7 @@
 		""
 		"然后就可以合成&a电子管&r"
 	]
+	quest.0922F1F2D67E2AA4.quest_desc: ["检测&d目的地&r的方向"]
 	quest.095341F447027B99.quest_desc: [
 		"查看合成表可知对金板依次使用&a小齿轮、大齿轮、铁粒&r，并反复5次"
 		""
@@ -28,8 +29,12 @@
 	]
 	quest.095341F447027B99.title: "序列装配"
 	quest.0B9E3C660647C17A.title: "轮式载具"
+	quest.0C83FF2F34349F3D.quest_desc: ["自定义输出的红石强度"]
 	quest.0DB72E42E1E1BACD.quest_desc: ["蓝色和红色代表两极，同极相斥、异极相吸，距离越近，磁力越强"]
 	quest.0DB72E42E1E1BACD.title: "磁力"
+	quest.0E336146AE210F59.quest_desc: ["检测结构&d倾斜情况&r"]
+	quest.0EE438AA7894A017.quest_desc: ["对红石信号进行各种运算/无线传输"]
+	quest.10701911A767A5D7.quest_desc: ["将各种物理量转换为不同强度的红石信号"]
 	quest.11A745B93068C191.quest_desc: [
 		"将物品丢入其上方 / 或使用漏斗从任意方向输入"
 		""
@@ -37,6 +42,8 @@
 	]
 	quest.128A5A1B3E1B2BC9.quest_desc: ["总是竖直向上，且受到空气密度影响，海拔越高，力越小。因此，热气球最终会停留在一定高度。"]
 	quest.128A5A1B3E1B2BC9.title: "气球升力"
+	quest.1314461E771CE55B.quest_desc: ["检测&d距离&r 可以过滤方块"]
+	quest.135754F806BB3299.title: "自动喂食"
 	quest.1393D7BD6B546018.quest_desc: [
 		"这下你不用通过许多的大小齿轮来调整转速了"
 		""
@@ -47,7 +54,7 @@
 		""
 		"推荐长按&e[W]&r键，观看模组制作者官方的演示教程，比任务线更加生动活泼"
 		""
-		"还可以点击&e[L]&r，查看机械动力官方制作的科技树"
+		"还可以查看原版的&e进度系统&r，查看机械动力官方制作的科技树"
 	]
 	quest.15729F5DE8C6CE57.quest_desc: [
 		"{image:quests:textures/pic/work_block.png width:150 height:100 align:center}"
@@ -56,6 +63,7 @@
 		""
 		"如图所示的方块，如果转速为&e32 RPM&r， 则消耗应力&e 128 su&r"
 	]
+	quest.1613CA6F686E835F.quest_desc: ["使用激光传递&d红石信号&r"]
 	quest.16F79547701CB1AD.quest_desc: [
 		"可查看[W]查看用法"
 		""
@@ -77,6 +85,12 @@
 		""
 		"如果使用&a烈焰蛋糕&r，可以使其过热，"
 		"提供 &e64 RPM | 4096 su&r"
+	]
+	quest.19575E2CB2B76E7B.quest_desc: ["复刻游乐园中的所有设施&m&7，然后去服务器大赚一笔"]
+	quest.1D7C6B552ED09130.quest_desc: [
+		"旋转一定角度后停止传输应力，无应力控制时可以自动复位"
+		""
+		"常与其他元件配合，用于控制结构的&d偏转速度&r"
 	]
 	quest.1D956F158D611F0F.quest_desc: [
 		"可以横放/竖放/倒放"
@@ -136,10 +150,13 @@
 		"同个系统中如果有多个应力源，&d应力&r可以叠加，&d转速&r取最大值"
 	]
 	quest.284F8C0690A925AC.quest_desc: ["将&a去皮原木&r放置在地面上，再使用&a安山合金&r右键，获得安山机壳"]
+	quest.286000FDEA3EBA0A.quest_desc: ["将你的整个家变为模拟结构，并带着它遨游世界"]
+	quest.2895EAE6769E399F.quest_desc: ["提供巨量应力的紧凑结构"]
 	quest.2895EAE6769E399F.title: "蒸汽锅炉"
 	quest.2B6BB29D52ADC77B.title: "流体系统"
 	quest.2BBBEE2834D0185E.quest_desc: ["模拟结构上，如果传送带接触地面，其运动就可以带动结构运动"]
 	quest.2BBBEE2834D0185E.title: "履带式载具"
+	quest.2BE7C0848650B5C1.quest_desc: ["让你可以用不同强度的&d红石信号&r，调整&d转速&r的大小"]
 	quest.2CAFE744BECF8894.quest_desc: [
 		"持续右键&a手摇曲柄&r的过程中会消耗&d饥饿值&r"
 		""
@@ -164,6 +181,11 @@
 		""
 		"奖励会给你一些可研磨物"
 	]
+	quest.39593B24B0124883.quest_desc: [
+		"模组名 MiddleKeyPing"
+		""
+		"可自行关闭，或通过config配置"
+	]
 	quest.3CE296642EC070A4.quest_desc: [
 		"&d移动结构&r上的大部分方块会失去功能"
 		""
@@ -180,6 +202,13 @@
 		"动力收割机：收割并种植作物"
 		""
 		"机械手：模拟玩家使用方块"
+		""
+		"移动存储接口：移动结构上的接口与寻常放置的接口相对时会对接，此时外界可以向移动结构输入输出"
+	]
+	quest.3F361BD0D56B7A22.quest_desc: [
+		"&d热空气燃烧室&r的功率和气球容积共同决定升力"
+		""
+		"你可以通过调整功率最大值和输入红石信号，决定&d热空气燃烧室&r的功率"
 	]
 	quest.3F361BD0D56B7A22.title: "飞艇"
 	quest.40E3B933C1ADD68B.quest_desc: [
@@ -187,21 +216,25 @@
 		""
 		"通过磨石/粉碎轮将圆石->沙砾"
 		""
-		"通过磨石/粉碎轮将沙砾->沙子"
+		"通过粉碎轮将沙砾->沙子"
 		""
 		"通过鼓风机缠魂沙子->灵魂沙"
 		""
 		"通过鼓风机洗涤灵魂沙->石英"
 	]
+	quest.43A82CB32EF98503.quest_desc: ["检测结构所在y轴&d高度&r"]
 	quest.445DB6B1473EAB84.quest_desc: [
-		"是加载模拟结构上的各种力可以改变结构的速度"
+		"是加载模拟结构上的各种力可以改变结构的速度，方向，位置"
+		""
+		"请严谨分析各种力，防止结构意外发生倾斜，旋转"
 		""
 		"如果看不懂，可以询问你的科学老师"
 	]
+	quest.46AFD6478731FDE7.quest_desc: ["贴在模拟结构上，查看其物理量"]
 	quest.470DCD80315AAA2F.quest_desc: [
-		"所有运动锚点默认只让其有粘液贴图粘连的一个方块移动"
+		"所有&d运动锚点&r默认只让其有&d粘液贴图&r粘连的那一个方块移动"
 		""
-		"你需要使用强力胶将这个方块和其他方块框为一个整体、或者通过底盘(较为复杂，可通过[w]查看用法)"
+		"你需要使用强力胶将这个方块和其他方块框为一个整体、或者通过底盘(较为复杂，可通过[W]查看用法)"
 		""
 		"风车轴承：除了放置风帆之外，也可以驱动其他方块旋转，但仍需要至少8个风帆以启动"
 		""
@@ -209,19 +242,28 @@
 		""
 		"矿车装配站：放置于铁轨上，当内部放有矿车时，连接红石信号可形成跟随矿车移动的结构，不连接红石信号可卸下矿车上的移动结构，在侧边可以调整其模式"
 		"&7可用扳手shift+右击装有移动结构的矿车，使其变为物品形式&r"
-		""
-		"&cTps&r：&7将大结构矿车转入背包是危险的，在你下次登陆时很可能登陆失败&r"
+		"&cTps&r：&7将大结构矿车放在背包中是危险的，在你下次登陆时很可能登陆失败&r"
 		""
 		"动力活塞：在背部放置活塞杆（放置多少根就能将面前物体推动多少格），在一侧连接传动杆以驱动，通过传动杆旋转的方向觉得活塞臂伸出还是收回"
 		""
 		"运动锚点还有很多，可通过[w]自行学习探索"
 	]
-	quest.49E03C7D4CB2017F.quest_desc: ["&a浮空石&r可以以漂浮力的形式降低重力的影响，但此力不会超过重力，所以结构不会因此抬升，但能更容易得飞起来"]
+	quest.4892928D7FF99D9D.quest_desc: ["制造一个飞行物：具有采集，生产，战斗，建造功能，而且可以自行复制建造自己"]
+	quest.4892928D7FF99D9D.title: "冯诺伊曼机器集群"
+	quest.49E03C7D4CB2017F.quest_desc: ["&a浮空石&r可以以漂浮力的形式降低重力的影响，但此力不会超过重力，所以结构不会因此抬升，但更容易通过其他方式飞起来"]
+	quest.49E03C7D4CB2017F.title: "飘浮"
+	quest.4A33B612A7BA073B.quest_desc: [
+		"默认不传递应力，两侧的&d红石信号&r决定它正向/反向传递应力"
+		""
+		"常与其他元件配合，用于控制结构的&d偏转方向&r"
+	]
+	quest.4D77CC9B53A7ED11.quest_desc: ["建造无人货船&7（飞船）&r及其配套的装载/卸载港湾，可以自动地运输货物"]
 	quest.4D99BDBB2CE4C3C3.quest_desc: ["通过JEI查看如何制作"]
 	quest.4E1225F4D4D383E6.quest_desc: ["通过使用 动力锚点连接动力等原件，实现树木的自动砍伐"]
 	quest.4E1225F4D4D383E6.title: "树厂"
 	quest.5170430BD0DD9627.quest_desc: ["较轻的模拟结构可以浮在水上，此时用铲子点击水面就可以划船"]
 	quest.5170430BD0DD9627.title: "木筏"
+	quest.5238C448BD3F4AE4.quest_desc: ["全凭自觉勾选"]
 	quest.54A1A39A51AB8869.quest_desc: [
 		"虽然你可以通过对着模拟结构上的方块放置方块来扩展结构，但&a蜂蜜胶&r更加便捷"
 		""
@@ -230,6 +272,11 @@
 		"选定范围后，可以用&ectrl+鼠标滚轮&r调整范围"
 		""
 		"为了便于区分，建议将&a蜂蜜胶&r用于&d模拟结构&r；将&a强力胶&r用于&d移动结构&r"
+	]
+	quest.56535CE4BF11612B.quest_desc: [
+		"提供各种便捷功能"
+		""
+		"&eX+C&r 进行配置"
 	]
 	quest.5723777466E08E16.quest_desc: [
 		"{image:quests:textures/pic/windmill.png width:120 height:100 align:center}"
@@ -264,6 +311,7 @@
 		""
 		"对锅炉而言，此时的烈焰人将产生两倍的热量"
 	]
+	quest.5BCA0FAD6AB9AE59.quest_desc: ["其输出的红石信号将缓慢变化，最终等同于其背部受到的信号"]
 	quest.5CE8651FFBE1D750.quest_desc: [
 		"黄铜漏斗：输出量相比安山漏斗更大，且可以设置过滤"
 		""
@@ -276,6 +324,7 @@
 		"长按[W]可查看用法"
 	]
 	quest.5CE8651FFBE1D750.title: "高级物流系统"
+	quest.5EEC611BE589C5D6.title: "农场"
 	quest.5F1430224B8E87DB.title: "直升飞机"
 	quest.5F9B6C0597CC92D8.quest_desc: [
 		"通过传动杆与齿轮/大齿轮可以传递应力"
@@ -302,6 +351,7 @@
 		"（太多了，懒得写）"
 		"（这些东西是真的好用）"
 	]
+	quest.609EB1D82C25F15D.title: "智能红石元件"
 	quest.6137CDBE148CC666.quest_desc: [
 		"机械动力中，&d移动结构&r是最重要的一部分"
 		""
@@ -313,6 +363,12 @@
 		""
 		"Tps：原版的活塞不认&d移动结构&r"
 		"Tps：可以通过铁砧为&a强力胶&r打上耐久III和经验修补附魔"
+	]
+	quest.61D17F24C202CB19.quest_desc: ["更好的挖掘工具"]
+	quest.62AF180B02B9AF1E.quest_desc: [
+		"如果背部输入信号，其输出的信号强度缓慢增加"
+		""
+		"如果侧方输入信号，其输出的信号强度缓慢减少"
 	]
 	quest.6310FEC95461CAFE.quest_desc: [
 		"我有两块安山岩"
@@ -341,7 +397,7 @@
 		"推荐长按&e[W]&r键，观看模组制作者官方的演示教程，比任务线更加生动活泼"
 	]
 	quest.6D9916C069F8C992.quest_desc: [
-		"模组名 hotbaaar"
+		"模组名 hotbaaaar"
 		""
 		"可自行关闭，或通过config调整长度"
 	]
@@ -381,6 +437,8 @@
 		"如果模拟结构&d开始向前运动&r，从模拟结构的角度看，那么周围的空气就在&d向后运动&r。此时，&a螺旋桨&r因为其原理——空气的速度越快其提供的力越小——无法无限加速结构。"
 	]
 	quest.762731FF779D89ED.quest_desc: [
+		"如果你从未接触过机械动力，建议先完成&e机械动力章节&r的任务再来此处"
+		""
 		"将其放置在方块上时，拉下，你可以发现方块可以自由的旋转、滚动"
 		""
 		"这是因为它创造了&d模拟结构&r"
@@ -394,6 +452,13 @@
 		"3. 模拟结构中可以内嵌一个动态结构"
 	]
 	quest.762731FF779D89ED.title: "模拟结构"
+	quest.76EE44B9A618AE4C.quest_desc: [
+		"默认在屏幕左上角显示信息"
+		""
+		"&eH&r 关闭 "
+		""
+		"&eH+C&r 调整"
+	]
 	quest.77AF0FD1A5FC69AC.quest_desc: [
 		"在机械动力中，三废岩之一的安山岩获得了无与伦比的地位"
 		"他是一切机械的起点，工业的基石"
@@ -409,17 +474,25 @@
 	quest.7C7A87255557B601.title: "应力系统"
 	reward_table.566BC49E7BBA3AAD.title: "基础奖励包"
 	task.041A220AAD976C36.title: "传感器"
+	task.0A2A827BE90A517F.title: "游乐园"
 	task.1D8680DDD9A444BD.title: "高级应力掌控"
 	task.26C4D588F4958FB1.title: "高级红石系统"
 	task.2CC56084DC88EB32.title: "移动工作方块"
 	task.2E1871D0F80854E8.title: "交通工具"
+	task.2EE34941618F682C.title: "中键标点"
+	task.337A21B9AD6DD480.title: "BoccHUD"
+	task.37784A02819F7217.title: "空天母舰"
 	task.3F3C2C54EBBE24AB.title: "重力"
 	task.3F3F8FB6099D6E39.title: "应力源"
+	task.4F7533BD0A112406.title: "哈尔的移动城堡"
+	task.50E32799645D48BA.title: "tweakeroo"
 	task.5254AD5689BFFF99.title: "连接模拟结构"
 	task.5B7FF0D588B8CF8F.title: "物理学"
+	task.5C6196514E719EE7.title: "无人货船"
 	task.5D15309979E97CFB.title: "机械动力"
 	task.6074EA97E52731D3.title: "工作方块"
 	task.6706E3AF301F647C.title: "应力传输"
+	task.7193C1AAFF70DB86.title: "建造挑战"
 	task.75FFAC5C3348DB54.title: "移动结构"
 	task.7AA3F9F14D0931C4.title: "超长物品栏"
 	task.7C1AC755E5E3D25B.title: "相对运动"
