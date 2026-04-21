@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.5.1",
+  "versionId": "1.5.2",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -182,17 +182,17 @@
       "fileSize": 166931
     },
     {
-      "path": "mods/[A][农夫乐事] FarmersDelight-1.21.1-1.2.10.jar",
+      "path": "mods/[A][农夫乐事] FarmersDelight-1.21.1-1.2.11a.jar",
       "hashes": {
-        "sha1": "93f4de62fce2b90ee8c87e4f6d9b82edb132003d",
-        "sha512": "9c7bf1df38efe6167622938ecd9fcc9d2fb38de7457f3ef4ec189409a2268fd783c2e4a64c3da80ba67a463bb72c841f6510a57eadc88a078e44a085c299fa62"
+        "sha1": "a63092cb1e9cd1fb40a9bf1e9a5042d241eddb21",
+        "sha512": "30f2ececa454f34e700a6966dc65d396d8e104212097d631af32d15f737d792a8dbbec58e49426319395a32d0a7797d23e10840cd1fc349ade6d3e6757be9408"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7596/366/FarmersDelight-1.21.1-1.2.10.jar",
-        "https://edge.forgecdn.net/files/7596/366/FarmersDelight-1.21.1-1.2.10.jar",
-        "https://cdn.modrinth.com/data/R2OftAxM/versions/EVaDSbPj/FarmersDelight-1.21.1-1.2.10.jar"
+        "https://mediafilez.forgecdn.net/files/7953/736/FarmersDelight-1.21.1-1.2.11a.jar",
+        "https://edge.forgecdn.net/files/7953/736/FarmersDelight-1.21.1-1.2.11a.jar",
+        "https://cdn.modrinth.com/data/R2OftAxM/versions/rOESN0jP/FarmersDelight-1.21.1-1.2.11a.jar"
       ],
-      "fileSize": 2935025
+      "fileSize": 2944552
     },
     {
       "path": "mods/[A][创世神] worldedit-mod-7.3.8.jar",
@@ -804,15 +804,17 @@
       "fileSize": 401219
     },
     {
-      "path": "mods/[A][机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-7.5.0-NeoForge.jar",
+      "path": "mods/[A][机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-7.5.1-NeoForge.jar",
       "hashes": {
-        "sha1": "b164165d37989b3f7387cf4844e657abb5753054",
-        "sha512": "3c6a6bc0ff2cf5a1770d310c46d3156f30dc316f7f4ea8f617295f8d8adc308ab189899b4f25db9b93489f2b1cef5e0260e4e80953a2ec0c6d3bdc2c3160943c"
+        "sha1": "4b48f33a6d7eaf33e68308078f9666d600c42c6d",
+        "sha512": "11bb5bc49af7a61361746674e5cfd0f6a95bde58b08804996cfd170d060bdfbf713a7a2bc674621686ec18223033f95d81f4fd7d841e0108e6caa2aed2c06ff3"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/TlQAWQCY/versions/DlD6mrss/CreateCyberGoggles-1.21.1-7.5.0-NeoForge.jar"
+        "https://mediafilez.forgecdn.net/files/7956/323/CreateCyberGoggles-1.21.1-7.5.1-NeoForge.jar",
+        "https://edge.forgecdn.net/files/7956/323/CreateCyberGoggles-1.21.1-7.5.1-NeoForge.jar",
+        "https://cdn.modrinth.com/data/TlQAWQCY/versions/jB8NJoP8/CreateCyberGoggles-1.21.1-7.5.1-NeoForge.jar"
       ],
-      "fileSize": 439058
+      "fileSize": 439453
     },
     {
       "path": "mods/[A][机械动力：超级管道] create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
@@ -841,17 +843,17 @@
       "fileSize": 683005
     },
     {
-      "path": "mods/[A][机械动力：集成农业] create-integrated-farming-1.2.1.jar",
+      "path": "mods/[A][机械动力：集成农业] create-integrated-farming-1.2.2.jar",
       "hashes": {
-        "sha1": "e2119a2ed327d23cf5be44c62f7a0b7d64ed4a4d",
-        "sha512": "6d3e3ff527e13f8dedc16f62d2bdb47bdc0403343eaf40c36191e1fd9671599a53e17f69702ba9843c8045efb8973c23c6d508fe3dc9981fb2354d17d66c590d"
+        "sha1": "e6fb605b92f59fd91f57016d5666f618db740b1a",
+        "sha512": "eb1c1d314e6651dea81d3433b16160034c71ab218328c086bc844febbb23524f09495a6e489c8834889d46ba264cca26283c0ab82a389af3e3659c031275fd69"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7717/252/create-integrated-farming-1.2.1.jar",
-        "https://edge.forgecdn.net/files/7717/252/create-integrated-farming-1.2.1.jar",
-        "https://cdn.modrinth.com/data/9k1pAsfR/versions/MFfAXlSq/create-integrated-farming-1.2.1.jar"
+        "https://mediafilez.forgecdn.net/files/7957/107/create-integrated-farming-1.2.2.jar",
+        "https://edge.forgecdn.net/files/7957/107/create-integrated-farming-1.2.2.jar",
+        "https://cdn.modrinth.com/data/9k1pAsfR/versions/DKe4Owf4/create-integrated-farming-1.2.2.jar"
       ],
-      "fileSize": 408038
+      "fileSize": 408059
     },
     {
       "path": "mods/[A][机械动力：齿轮与酒馆] creategearsandtavern-1.1.0.jar",
@@ -880,17 +882,17 @@
       "fileSize": 917002
     },
     {
-      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.9.0.jar",
+      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.9.1.jar",
       "hashes": {
-        "sha1": "e2bb9769d9f0b525330e901589d12430f1ce1e46",
-        "sha512": "882edfa4b9791e4626eee9ea5931cc5f232bd44cc76687eb3340d801ead679e9a4e167308ab5af85bcdf9e7dfbfc07795582c2ae7d9535fd6db6767a5936c311"
+        "sha1": "9ac0a1936689a456cb0c4fb9ff242cb24a029ba2",
+        "sha512": "639406b74d0dd3648751b20f15f06b14d07ed7cb379b3616002e130647d6745466433cbfb5b341c8767003ffa21b606a5f2da975713077b4a6ab3f852bd2311f"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7954/455/CreateDragonsPlus-1.9.0.jar",
-        "https://edge.forgecdn.net/files/7954/455/CreateDragonsPlus-1.9.0.jar",
-        "https://cdn.modrinth.com/data/dzb1a5WV/versions/vssuT1YD/CreateDragonsPlus-1.9.0.jar"
+        "https://mediafilez.forgecdn.net/files/7957/81/CreateDragonsPlus-1.9.1.jar",
+        "https://edge.forgecdn.net/files/7957/81/CreateDragonsPlus-1.9.1.jar",
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/NcKneuv8/CreateDragonsPlus-1.9.1.jar"
       ],
-      "fileSize": 684905
+      "fileSize": 685918
     },
     {
       "path": "mods/[A][森罗物语：下界] kaleidoscope_nether-1.0.7-neoforge+mc1.21.1.jar",
@@ -971,16 +973,16 @@
       "fileSize": 725742
     },
     {
-      "path": "mods/[A][机械动力：线控驾驶] drivebywire-0.2.3.jar",
+      "path": "mods/[A][机械动力：线控驾驶] drivebywire-0.2.4.jar",
       "hashes": {
-        "sha1": "b0a928e2f616d234268af11ace2a369ee3157fe6",
-        "sha512": "609c37940e56664bb0490989402e4fa1ffe51f5618f63c15ebaf11efae0380489bc4ff90d2cdf8a567643910fc3eb5a6d87445f9bac41a1412b34c7259519d78"
+        "sha1": "b0a4075373093d130415acbc31022ec493c13f4c",
+        "sha512": "7e26d9fbbb33a3cc0dd3ce297f4c86ccc000373953254aca8508ccbe602ff22c8c01570eba11a8434d0b82201d65fcbc965f80943c38ac61513c54397d80093e"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7960/229/drivebywire-0.2.3.jar",
-        "https://edge.forgecdn.net/files/7960/229/drivebywire-0.2.3.jar"
+        "https://mediafilez.forgecdn.net/files/7961/135/drivebywire-0.2.4.jar",
+        "https://edge.forgecdn.net/files/7961/135/drivebywire-0.2.4.jar"
       ],
-      "fileSize": 235487
+      "fileSize": 243352
     },
     {
       "path": "mods/[A][生活调味料：胡萝卜版] solcarrot-1.21.1-1.16.6.jar",
