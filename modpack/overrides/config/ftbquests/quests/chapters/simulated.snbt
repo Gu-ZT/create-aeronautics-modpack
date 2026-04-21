@@ -41,8 +41,8 @@
 				item: { count: 1, id: "simulated:honey_glue" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: 1.0d
+			x: -2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["762731FF779D89ED"]
@@ -100,8 +100,8 @@
 				item: { count: 1, id: "simulated:contraption_diagram" }
 				type: "item"
 			}]
-			x: -1.0d
-			y: -1.0d
+			x: 7.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["0DC5480758952518"]
@@ -202,15 +202,25 @@
 		{
 			dependencies: ["0DC5480758952518"]
 			id: "3F361BD0D56B7A22"
-			rewards: [{
-				count: 32
-				id: "261AADB9128FF4F4"
-				item: {
-					count: 1
-					id: "aeronautics:white_envelope"
+			rewards: [
+				{
+					count: 32
+					id: "261AADB9128FF4F4"
+					item: {
+						count: 1
+						id: "aeronautics:white_envelope"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "5072C378D9C9F474"
+					item: {
+						count: 1
+						id: "aeronautics:steam_vent"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "66286CF8FCC2075C"
 				item: { count: 1, id: "aeronautics:adjustable_burner" }
@@ -286,7 +296,7 @@
 				id: "3F3C2C54EBBE24AB"
 				type: "checkmark"
 			}]
-			x: 6.0d
+			x: 9.0d
 			y: -5.0d
 		}
 		{
@@ -306,18 +316,28 @@
 				item: { count: 1, id: "simulated:white_symmetric_sail" }
 				type: "item"
 			}]
-			x: 7.0d
+			x: 10.0d
 			y: -5.0d
 		}
 		{
 			dependencies: ["445DB6B1473EAB84"]
 			id: "49E03C7D4CB2017F"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "61BEDF7B8762F7CF"
-				table_id: 6227287094729521837L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "61BEDF7B8762F7CF"
+					table_id: 6227287094729521837L
+					type: "random"
+				}
+				{
+					id: "3532500F31CEE450"
+					item: {
+						count: 1
+						id: "aeronautics:levitite_blend_bucket"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					id: "aeronautics:levitite"
@@ -328,7 +348,7 @@
 				to_observe: "aeronautics:levitite"
 				type: "observation"
 			}]
-			x: 8.0d
+			x: 11.0d
 			y: -5.0d
 		}
 		{
@@ -339,7 +359,7 @@
 				item: { count: 1, id: "aeronautics:adjustable_burner" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 12.0d
 			y: -5.0d
 		}
 		{
@@ -350,7 +370,7 @@
 				item: { count: 1, id: "aeronautics:wooden_propeller" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 13.0d
 			y: -5.0d
 		}
 		{
@@ -361,7 +381,7 @@
 				item: { count: 1, id: "simulated:redstone_magnet" }
 				type: "item"
 			}]
-			x: 11.0d
+			x: 14.0d
 			y: -5.0d
 		}
 		{
@@ -371,7 +391,7 @@
 				id: "7C1AC755E5E3D25B"
 				type: "checkmark"
 			}]
-			x: 13.0d
+			x: 6.0d
 			y: -5.0d
 		}
 		{
@@ -499,17 +519,6 @@
 		}
 		{
 			dependencies: ["73B9116328AFB7C9"]
-			id: "497C8F2B93E19817"
-			tasks: [{
-				id: "02D56102E050C57A"
-				item: { count: 1, id: "simulated:red_portable_engine" }
-				type: "item"
-			}]
-			x: 8.0d
-			y: -1.0d
-		}
-		{
-			dependencies: ["73B9116328AFB7C9"]
 			id: "59F1A24E46DB0920"
 			tasks: [{
 				id: "1EF020B9C1286E74"
@@ -546,19 +555,19 @@
 				item: { count: 1, id: "offroad:borehead_bearing" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: -1.0d
+			x: -1.5d
+			y: -2.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
+			dependencies: ["2BE7C0848650B5C1"]
 			id: "7BF98F973E22039B"
 			tasks: [{
 				id: "358D917417543EB6"
 				item: { count: 1, id: "simulated:auger_shaft" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 1.0d
+			x: 11.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["0EE438AA7894A017"]
@@ -627,7 +636,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["10701911A767A5D7"]
+			dependencies: ["0EE438AA7894A017"]
 			id: "1613CA6F686E835F"
 			rewards: [{
 				id: "0DCA488BE324088B"
@@ -642,8 +651,8 @@
 				item: { count: 1, id: "simulated:laser_sensor" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 3.0d
+			x: 13.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["10701911A767A5D7"]
@@ -653,7 +662,7 @@
 				item: { count: 1, id: "simulated:altitude_sensor" }
 				type: "item"
 			}]
-			x: 7.0d
+			x: 6.0d
 			y: 3.0d
 		}
 		{
@@ -664,7 +673,7 @@
 				item: { count: 1, id: "simulated:gimbal_sensor" }
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.0d
 			y: 3.0d
 		}
 		{
@@ -675,7 +684,7 @@
 				item: { count: 1, id: "simulated:navigation_table" }
 				type: "item"
 			}]
-			x: 9.0d
+			x: 8.0d
 			y: 3.0d
 		}
 		{
@@ -686,11 +695,11 @@
 				item: { count: 1, id: "simulated:optical_sensor" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 9.0d
 			y: 3.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
+			dependencies: ["73B9116328AFB7C9"]
 			id: "18F9E2D23345DF44"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -703,8 +712,192 @@
 				item: { count: 1, id: "simulated:red_portable_engine" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["762731FF779D89ED"]
+			id: "499203DED213F74D"
+			tasks: [{
+				id: "1B887496B99CFD88"
+				item: { count: 1, id: "simulated:swivel_bearing" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["762731FF779D89ED"]
+			id: "7384AECAB3D26E57"
+			tasks: [{
+				id: "41D9560C8C9CE177"
+				item: { count: 1, id: "simulated:white_nameplate" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["762731FF779D89ED"]
+			id: "4D218B982B03E7C7"
+			tasks: [{
+				id: "37D12C55ED6795EE"
+				item: { count: 1, id: "aeronautics:mounted_potato_cannon" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["762731FF779D89ED"]
+			id: "5944F1303FB54E5C"
+			tasks: [{
+				id: "5E9A596B3612E552"
+				item: { count: 1, id: "simulated:plunger_launcher" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["762731FF779D89ED"]
+			id: "26A04C4CFFEA0848"
+			tasks: [{
+				id: "0A984991BDFC76CD"
+				item: { count: 1, id: "aeronautics:aviators_goggles" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["762731FF779D89ED"]
+			id: "439EC2389BF6F610"
+			tasks: [{
+				id: "45F2217C5AEDF581"
+				item: { count: 1, id: "aeronautics:music_disc_cloud_skipper" }
+				type: "item"
+			}]
+			x: -5.5d
 			y: 0.0d
+		}
+		{
+			dependencies: [
+				"10701911A767A5D7"
+				"445DB6B1473EAB84"
+				"73B9116328AFB7C9"
+				"0EE438AA7894A017"
+				"0F2F5F6745AC153A"
+				"0DC5480758952518"
+			]
+			hide_dependent_lines: true
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "5238C448BD3F4AE4"
+			shape: "square"
+			tasks: [{
+				id: "7193C1AAFF70DB86"
+				type: "checkmark"
+			}]
+			x: 17.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5238C448BD3F4AE4"]
+			icon: {
+				id: "minecraft:oak_door"
+			}
+			id: "286000FDEA3EBA0A"
+			rewards: [{
+				id: "2737E7B88056EAF1"
+				item: {
+					components: {
+						"minecraft:custom_name": "\"粗制奖杯\""
+					}
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F7533BD0A112406"
+				type: "checkmark"
+			}]
+			x: 18.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5238C448BD3F4AE4"]
+			icon: {
+				id: "minecraft:black_dye"
+			}
+			id: "4892928D7FF99D9D"
+			rewards: [{
+				id: "48D59616CA1031A1"
+				item: {
+					components: {
+						"minecraft:custom_name": "\"粗制奖杯\""
+					}
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "37784A02819F7217"
+				type: "checkmark"
+			}]
+			x: 18.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5238C448BD3F4AE4"]
+			icon: {
+				id: "kaleidoscope_doll:doll_machine"
+			}
+			id: "19575E2CB2B76E7B"
+			rewards: [{
+				id: "669EB3A8A839B5E9"
+				item: {
+					components: {
+						"minecraft:custom_name": "\"粗制奖杯\""
+					}
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A2A827BE90A517F"
+				type: "checkmark"
+			}]
+			x: 18.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5238C448BD3F4AE4"]
+			icon: {
+				id: "minecraft:oak_chest_boat"
+			}
+			id: "4D77CC9B53A7ED11"
+			rewards: [{
+				id: "15496420A3CC14BB"
+				item: {
+					components: {
+						"minecraft:custom_name": "\"粗制奖杯\""
+					}
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C6196514E719EE7"
+				type: "checkmark"
+			}]
+			x: 18.5d
+			y: 2.5d
 		}
 	]
 }

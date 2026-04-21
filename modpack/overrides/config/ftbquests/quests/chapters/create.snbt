@@ -826,6 +826,9 @@
 		}
 		{
 			dependencies: ["07DC3DE21D2A3FB5"]
+			icon: {
+				id: "minecraft:redstone"
+			}
 			id: "609EB1D82C25F15D"
 			rewards: [
 				{
@@ -932,6 +935,7 @@
 		}
 		{
 			dependencies: ["16F79547701CB1AD"]
+			hide_dependent_lines: true
 			id: "38FE3E36F068A300"
 			rewards: [
 				{
@@ -985,7 +989,7 @@
 				type: "item"
 			}]
 			x: 26.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["095341F447027B99"]
@@ -1005,7 +1009,7 @@
 				type: "item"
 			}]
 			x: 30.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["29A817DF224BD246"]
@@ -1035,7 +1039,7 @@
 				type: "item"
 			}]
 			x: 30.5d
-			y: -2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["29A817DF224BD246"]
@@ -1054,7 +1058,7 @@
 				type: "item"
 			}]
 			x: 30.5d
-			y: -1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["3CE296642EC070A4"]
@@ -1109,7 +1113,7 @@
 				type: "item"
 			}]
 			x: 28.5d
-			y: 4.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["284F8C0690A925AC"]
@@ -1194,7 +1198,7 @@
 				}
 			]
 			x: 28.5d
-			y: 0.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["07DC3DE21D2A3FB5"]
@@ -1264,7 +1268,7 @@
 				type: "checkmark"
 			}]
 			x: 31.5d
-			y: -2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -1289,11 +1293,6 @@
 					count: 4L
 					id: "19126E60D58EE031"
 					item: { count: 1, id: "create:fluid_tank" }
-					type: "item"
-				}
-				{
-					id: "7C5DDF8E1708560A"
-					item: { count: 1, id: "create:empty_blaze_burner" }
 					type: "item"
 				}
 				{
@@ -1603,7 +1602,7 @@
 		{
 			dependencies: [
 				"03E5DB7AA68C7D6E"
-				"21838A9B28A32675"
+				"38FE3E36F068A300"
 			]
 			id: "40E3B933C1ADD68B"
 			rewards: [{
@@ -1619,8 +1618,8 @@
 				item: { count: 1, id: "minecraft:quartz" }
 				type: "item"
 			}]
-			x: 15.5d
-			y: 5.0d
+			x: 28.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["221F70ED534E912F"]
