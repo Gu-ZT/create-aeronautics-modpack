@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.4.3",
+  "versionId": "1.4.4",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -1262,20 +1262,20 @@
       "fileSize": 302750
     },
     {
-      "path": "mods/[C][物品栏排序-八角] anisum-neoforge-1.21.1-0.0.1+build.17.jar",
+      "path": "mods/[C][物品栏排序-八角] anisum-neoforge-1.21.1-0.0.1+build.18.jar",
       "hashes": {
-        "sha1": "926792323a4193edda7abc74a664cea1a8a19040",
-        "sha512": "bc1ef1ffae0de414650cc6d1e3564deebf348e45355b8ebc004fe0dbdc5ec3a93421701e441bc866c8ff7ee8c1b6e52520f665e071d5921a0ce864db97fc5d8d"
+        "sha1": "1e1b9366b88002f6e0d079115a86123d26e7c142",
+        "sha512": "43918c42392a1e2e5f4750e11116193a53210424de63066ecbed5cf4af5642e292b742336900c974e9a1ae25309fd7c1c03497b2783f27f52b5934dea24e5b23"
       },
       "env": {
         "client": "optional"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7954/855/anisum-neoforge-1.21.1-0.0.1%2bbuild.17.jar",
-        "https://edge.forgecdn.net/files/7954/855/anisum-neoforge-1.21.1-0.0.1%2bbuild.17.jar",
-        "https://cdn.modrinth.com/data/KikOIfnh/versions/f3ih0y9s/anisum-neoforge-1.21.1-0.0.1%2Bbuild.17.jar"
+        "https://mediafilez.forgecdn.net/files/7960/264/anisum-neoforge-1.21.1-0.0.1%2bbuild.18.jar",
+        "https://edge.forgecdn.net/files/7960/264/anisum-neoforge-1.21.1-0.0.1%2bbuild.18.jar",
+        "https://cdn.modrinth.com/data/KikOIfnh/versions/xpTR4xaQ/anisum-neoforge-1.21.1-0.0.1%2Bbuild.18.jar"
       ],
-      "fileSize": 108898
+      "fileSize": 110508
     },
     {
       "path": "mods/[C][物品模型修复] modelfix-1.21-1.10.jar",
