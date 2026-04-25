@@ -8,16 +8,16 @@
 	quest_links: [ ]
 	quests: [
 		{
+			hide_dependent_lines: true
 			id: "6B7200323CE89A5A"
 			rewards: [{
-				exclude_from_claim_all: true
-				id: "25BAAC1D371304EB"
-				table_id: 6227287094729521837L
-				type: "random"
-			}]
-			tasks: [{
-				id: "7F71D54DC8DF87D6"
-				type: "checkmark"
+				auto: "enabled"
+				id: "397A1E347C66D4ED"
+				item: {
+					count: 1
+					id: "ftbquests:book"
+				}
+				type: "item"
 			}]
 			x: 0.0d
 			y: 0.0d

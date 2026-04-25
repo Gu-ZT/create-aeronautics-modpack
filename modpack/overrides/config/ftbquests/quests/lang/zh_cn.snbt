@@ -456,6 +456,7 @@
 		""
 		"推荐长按&e[W]&r键，观看模组制作者官方的演示教程，比任务线更加生动活泼"
 	]
+	quest.6B7200323CE89A5A.title: "芜湖~起飞"
 	quest.6C842943E82DB163.quest_desc: ["鼓风机的风经过&a灵魂火/灵魂篝火&r可以批量缠魂，将沙子(物品形态)变为灵魂沙"]
 	quest.6D9916C069F8C992.quest_desc: [
 		"模组名 hotbaaaar"
@@ -566,5 +567,4 @@
 	task.7AA3F9F14D0931C4.title: "超长物品栏"
 	task.7B8CCCE441F406E7.title: "高级控制学"
 	task.7C1AC755E5E3D25B.title: "相对运动"
-	task.7F71D54DC8DF87D6.title: "机械动力：航空学整合包"
 }
