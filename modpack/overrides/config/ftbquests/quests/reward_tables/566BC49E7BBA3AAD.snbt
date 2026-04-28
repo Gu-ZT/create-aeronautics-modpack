@@ -13,7 +13,6 @@
 				count: 1
 				id: "minecraft:iron_ingot"
 			}
-			weight: 2.0f
 		}
 		{
 			count: 128
@@ -67,7 +66,7 @@
 				count: 1
 				id: "minecraft:diamond"
 			}
-			weight: 0.1f
+			weight: 0.2f
 		}
 		{
 			count: 48
@@ -86,6 +85,11 @@
 				id: "create:zinc_ingot"
 			}
 			weight: 0.5f
+		}
+		{
+			id: "06430941D88D9618"
+			type: "xp"
+			xp: 1000
 		}
 	]
 }

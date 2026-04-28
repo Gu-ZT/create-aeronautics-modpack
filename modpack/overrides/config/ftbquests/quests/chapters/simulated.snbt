@@ -11,7 +11,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			hide_dependent_lines: true
 			id: "762731FF779D89ED"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -41,12 +40,11 @@
 				item: { count: 1, id: "simulated:honey_glue" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 0.0d
+			x: 0.5d
+			y: 2.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
-			hide_dependent_lines: true
+			dependencies: ["54A1A39A51AB8869"]
 			icon: {
 				id: "minecraft:apple"
 			}
@@ -55,12 +53,14 @@
 				id: "5B7FF0D588B8CF8F"
 				type: "checkmark"
 			}]
-			x: 4.0d
-			y: -5.0d
+			x: 0.5d
+			y: 4.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
-			hide_dependent_lines: true
+			dependencies: [
+				"762731FF779D89ED"
+				"445DB6B1473EAB84"
+			]
 			icon: {
 				id: "offroad:tire"
 			}
@@ -69,12 +69,11 @@
 				id: "2E1871D0F80854E8"
 				type: "checkmark"
 			}]
-			x: 4.0d
-			y: -3.0d
+			x: 0.5d
+			y: 6.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
-			hide_dependent_lines: true
+			dependencies: ["3CE87D2D2EAFC88F"]
 			icon: {
 				id: "simulated:rope_coupling"
 			}
@@ -83,11 +82,11 @@
 				id: "5254AD5689BFFF99"
 				type: "checkmark"
 			}]
-			x: 4.0d
-			y: 5.0d
+			x: 0.5d
+			y: 14.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
+			dependencies: ["445DB6B1473EAB84"]
 			id: "46AFD6478731FDE7"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -100,8 +99,8 @@
 				item: { count: 1, id: "simulated:contraption_diagram" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -5.0d
+			x: 3.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["0DC5480758952518"]
@@ -117,8 +116,8 @@
 				item: { count: 1, id: "minecraft:wooden_shovel" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -3.0d
+			x: 2.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0DC5480758952518"]
@@ -137,12 +136,11 @@
 				item: { count: 1, id: "create:belt_connector" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -3.0d
+			x: 3.5d
+			y: 6.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
-			hide_dependent_lines: true
+			dependencies: ["3CE87D2D2EAFC88F"]
 			icon: {
 				id: "minecraft:redstone"
 			}
@@ -151,8 +149,8 @@
 				id: "26C4D588F4958FB1"
 				type: "checkmark"
 			}]
-			x: 4.0d
-			y: 1.0d
+			x: 2.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0DC5480758952518"]
@@ -196,8 +194,8 @@
 				item: { count: 1, id: "offroad:wheel_mount" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -3.0d
+			x: 4.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0DC5480758952518"]
@@ -226,8 +224,8 @@
 				item: { count: 1, id: "aeronautics:adjustable_burner" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -3.0d
+			x: 5.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0DC5480758952518"]
@@ -246,8 +244,8 @@
 				item: { count: 1, id: "aeronautics:gyroscopic_propeller_bearing" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -3.0d
+			x: 6.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["0DC5480758952518"]
@@ -283,8 +281,8 @@
 				item: { count: 1, id: "aeronautics:andesite_propeller" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: -3.0d
+			x: 7.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["445DB6B1473EAB84"]
@@ -296,8 +294,8 @@
 				id: "3F3C2C54EBBE24AB"
 				type: "checkmark"
 			}]
-			x: 9.0d
-			y: -5.0d
+			x: 5.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["445DB6B1473EAB84"]
@@ -316,8 +314,8 @@
 				item: { count: 1, id: "simulated:white_symmetric_sail" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -5.0d
+			x: 6.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["445DB6B1473EAB84"]
@@ -348,8 +346,8 @@
 				to_observe: "aeronautics:levitite"
 				type: "observation"
 			}]
-			x: 11.0d
-			y: -5.0d
+			x: 7.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["445DB6B1473EAB84"]
@@ -359,8 +357,8 @@
 				item: { count: 1, id: "aeronautics:adjustable_burner" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: -5.0d
+			x: 8.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["445DB6B1473EAB84"]
@@ -370,8 +368,8 @@
 				item: { count: 1, id: "aeronautics:wooden_propeller" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: -5.0d
+			x: 9.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["445DB6B1473EAB84"]
@@ -381,8 +379,8 @@
 				item: { count: 1, id: "simulated:redstone_magnet" }
 				type: "item"
 			}]
-			x: 14.0d
-			y: -5.0d
+			x: 10.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["445DB6B1473EAB84"]
@@ -391,8 +389,8 @@
 				id: "7C1AC755E5E3D25B"
 				type: "checkmark"
 			}]
-			x: 6.0d
-			y: -5.0d
+			x: 2.5d
+			y: 4.0d
 		}
 		{
 			dependencies: ["0F2F5F6745AC153A"]
@@ -420,12 +418,11 @@
 				item: { count: 1, id: "simulated:rope_connector" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 5.0d
+			x: 7.5d
+			y: 14.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
-			hide_dependent_lines: true
+			dependencies: ["3CE87D2D2EAFC88F"]
 			icon: {
 				id: "create:shaft"
 			}
@@ -434,12 +431,11 @@
 				id: "1D8680DDD9A444BD"
 				type: "checkmark"
 			}]
-			x: 4.0d
-			y: -1.0d
+			x: 2.5d
+			y: 8.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
-			hide_dependent_lines: true
+			dependencies: ["3CE87D2D2EAFC88F"]
 			icon: {
 				id: "minecraft:compass"
 			}
@@ -448,8 +444,8 @@
 				id: "041A220AAD976C36"
 				type: "checkmark"
 			}]
-			x: 4.0d
-			y: 3.0d
+			x: 2.5d
+			y: 12.0d
 		}
 		{
 			dependencies: ["0F2F5F6745AC153A"]
@@ -459,8 +455,8 @@
 				item: { count: 1, id: "simulated:redstone_magnet" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 5.0d
+			x: 8.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0F2F5F6745AC153A"]
@@ -470,8 +466,8 @@
 				item: { count: 1, id: "simulated:spring" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 5.0d
+			x: 6.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0F2F5F6745AC153A"]
@@ -481,8 +477,8 @@
 				item: { count: 1, id: "simulated:docking_connector" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 5.0d
+			x: 4.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["0F2F5F6745AC153A"]
@@ -492,8 +488,8 @@
 				item: { count: 1, id: "minecraft:slime_ball" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 5.0d
+			x: 10.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["73B9116328AFB7C9"]
@@ -503,8 +499,8 @@
 				item: { count: 1, id: "simulated:directional_gearshift" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: -1.0d
+			x: 4.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["73B9116328AFB7C9"]
@@ -514,8 +510,8 @@
 				item: { count: 1, id: "simulated:torsion_spring" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: -1.0d
+			x: 5.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["73B9116328AFB7C9"]
@@ -525,8 +521,8 @@
 				item: { count: 1, id: "simulated:steering_wheel" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: -1.0d
+			x: 7.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["73B9116328AFB7C9"]
@@ -536,8 +532,8 @@
 				item: { count: 1, id: "simulated:analog_transmission" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: -1.0d
+			x: 8.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["762731FF779D89ED"]
@@ -556,7 +552,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -2.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["2BE7C0848650B5C1"]
@@ -566,8 +562,8 @@
 				item: { count: 1, id: "simulated:auger_shaft" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: -1.0d
+			x: 9.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0EE438AA7894A017"]
@@ -577,8 +573,8 @@
 				item: { count: 1, id: "simulated:linked_typewriter" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 1.0d
+			x: 4.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EE438AA7894A017"]
@@ -588,8 +584,8 @@
 				item: { count: 1, id: "simulated:directional_linked_receiver" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 1.0d
+			x: 5.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EE438AA7894A017"]
@@ -599,8 +595,8 @@
 				item: { count: 1, id: "simulated:modulating_linked_receiver" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 1.0d
+			x: 6.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EE438AA7894A017"]
@@ -610,8 +606,8 @@
 				item: { count: 1, id: "simulated:throttle_lever" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 1.0d
+			x: 8.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EE438AA7894A017"]
@@ -621,8 +617,8 @@
 				item: { count: 1, id: "simulated:redstone_accumulator" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 1.0d
+			x: 9.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EE438AA7894A017"]
@@ -632,8 +628,8 @@
 				item: { count: 1, id: "simulated:redstone_inductor" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 1.0d
+			x: 10.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EE438AA7894A017"]
@@ -651,8 +647,8 @@
 				item: { count: 1, id: "simulated:laser_sensor" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: 1.0d
+			x: 11.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["10701911A767A5D7"]
@@ -662,8 +658,8 @@
 				item: { count: 1, id: "simulated:altitude_sensor" }
 				type: "item"
 			}]
-			x: 6.0d
-			y: 3.0d
+			x: 5.5d
+			y: 12.0d
 		}
 		{
 			dependencies: ["10701911A767A5D7"]
@@ -673,8 +669,8 @@
 				item: { count: 1, id: "simulated:gimbal_sensor" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 3.0d
+			x: 6.5d
+			y: 12.0d
 		}
 		{
 			dependencies: ["10701911A767A5D7"]
@@ -684,8 +680,8 @@
 				item: { count: 1, id: "simulated:navigation_table" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 3.0d
+			x: 7.5d
+			y: 12.0d
 		}
 		{
 			dependencies: ["10701911A767A5D7"]
@@ -695,8 +691,8 @@
 				item: { count: 1, id: "simulated:optical_sensor" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 3.0d
+			x: 8.5d
+			y: 12.0d
 		}
 		{
 			dependencies: ["73B9116328AFB7C9"]
@@ -712,19 +708,19 @@
 				item: { count: 1, id: "simulated:red_portable_engine" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: -1.0d
+			x: 6.5d
+			y: 8.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
+			dependencies: ["0F2F5F6745AC153A"]
 			id: "499203DED213F74D"
 			tasks: [{
 				id: "1B887496B99CFD88"
 				item: { count: 1, id: "simulated:swivel_bearing" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: -2.0d
+			x: 2.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["762731FF779D89ED"]
@@ -734,8 +730,8 @@
 				item: { count: 1, id: "simulated:white_nameplate" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 3.0d
+			x: 4.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["762731FF779D89ED"]
@@ -745,19 +741,19 @@
 				item: { count: 1, id: "aeronautics:mounted_potato_cannon" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 1.5d
+			x: 2.5d
+			y: 0.0d
 		}
 		{
-			dependencies: ["762731FF779D89ED"]
+			dependencies: ["0F2F5F6745AC153A"]
 			id: "5944F1303FB54E5C"
 			tasks: [{
 				id: "5E9A596B3612E552"
 				item: { count: 1, id: "simulated:plunger_launcher" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 1.5d
+			x: 11.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["762731FF779D89ED"]
@@ -767,8 +763,8 @@
 				item: { count: 1, id: "aeronautics:aviators_goggles" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 3.0d
+			x: 3.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["762731FF779D89ED"]
@@ -778,19 +774,11 @@
 				item: { count: 1, id: "aeronautics:music_disc_cloud_skipper" }
 				type: "item"
 			}]
-			x: -5.5d
+			x: 5.5d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"10701911A767A5D7"
-				"445DB6B1473EAB84"
-				"73B9116328AFB7C9"
-				"0EE438AA7894A017"
-				"0F2F5F6745AC153A"
-				"0DC5480758952518"
-			]
-			hide_dependent_lines: true
+			dependencies: ["0F2F5F6745AC153A"]
 			icon: {
 				id: "minecraft:nether_star"
 			}
@@ -800,8 +788,8 @@
 				id: "7193C1AAFF70DB86"
 				type: "checkmark"
 			}]
-			x: 17.0d
-			y: 0.0d
+			x: 0.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["5238C448BD3F4AE4"]
@@ -824,8 +812,8 @@
 				id: "4F7533BD0A112406"
 				type: "checkmark"
 			}]
-			x: 18.5d
-			y: -2.0d
+			x: 2.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["5238C448BD3F4AE4"]
@@ -848,8 +836,8 @@
 				id: "37784A02819F7217"
 				type: "checkmark"
 			}]
-			x: 18.5d
-			y: -0.5d
+			x: 4.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["5238C448BD3F4AE4"]
@@ -872,8 +860,8 @@
 				id: "0A2A827BE90A517F"
 				type: "checkmark"
 			}]
-			x: 18.5d
-			y: 1.0d
+			x: 5.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["5238C448BD3F4AE4"]
@@ -896,8 +884,43 @@
 				id: "5C6196514E719EE7"
 				type: "checkmark"
 			}]
-			x: 18.5d
-			y: 2.5d
+			x: 3.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0DC5480758952518"]
+			icon: {
+				id: "simulated:gyroscopic_mechanism"
+			}
+			id: "3CE87D2D2EAFC88F"
+			tasks: [{
+				id: "7B8CCCE441F406E7"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0F2F5F6745AC153A"]
+			id: "3D044F88E9AFEF75"
+			tasks: [{
+				id: "6B729CC610767CBA"
+				item: { count: 1, id: "create:sticker" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["10701911A767A5D7"]
+			id: "07BAE80A907BE62F"
+			tasks: [{
+				id: "4378259419CE0FC9"
+				item: { count: 1, id: "simulated:velocity_sensor" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 12.0d
 		}
 	]
 }
