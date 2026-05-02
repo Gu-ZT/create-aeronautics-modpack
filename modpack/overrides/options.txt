@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["pfm-asset-resources","vanilla","fabric","mod_resources","file/Squareful方纹v26.0.6.zip","file/CreatEnhanceDisplay.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","file/航空学汉化包.zip","file/整合包任务需求资源包.zip"]
+resourcePacks:["pfm-asset-resources","vanilla","fabric","mod_resources","file/Squareful方纹v26.0.6.zip","file/CreatEnhanceDisplay.zip","file/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip","file/整合包汉化包.zip","file/整合包任务需求资源包.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn

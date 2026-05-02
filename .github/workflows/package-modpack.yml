@@ -38,7 +38,7 @@ jobs:
         run: |
           cd translate
           mkdir -p ../modpack/overrides/resourcepacks
-          zip -r ../modpack/overrides/resourcepacks/航空学汉化包.zip .
+          zip -r ../modpack/overrides/resourcepacks/整合包汉化包.zip .
           cd ../ftb-quests
           zip -r ../modpack/overrides/resourcepacks/整合包任务需求资源包.zip .
 
@@ -52,7 +52,7 @@ jobs:
         run: |
           version="${{ steps.version.outputs.version }}"
           mv "机械动力航空学整合包 ${version}.zip" "机械动力航空学整合包 ${version}.mrpack"
-          cp "modpack/overrides/resourcepacks/航空学汉化包.zip" "机械动力航空学汉化包 ${version}.zip"
+          cp "modpack/overrides/resourcepacks/整合包汉化包.zip" "古镇天的 机械动力：航空学 整合包汉化包 ${version}.zip"
 
       - name: Upload assembled .mrpack artifact
         uses: actions/upload-artifact@v4
@@ -60,4 +60,4 @@ jobs:
           name: 机械动力航空学整合包-${{ steps.version.outputs.version }}
           path: |
             机械动力航空学整合包 ${{ steps.version.outputs.version }}.mrpack
-            机械动力航空学汉化包 ${{ steps.version.outputs.version }}.zip
+            古镇天的 机械动力：航空学 整合包汉化包 ${{ steps.version.outputs.version }}.zip

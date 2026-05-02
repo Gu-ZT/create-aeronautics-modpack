@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "6.1.0",
+  "versionId": "6.2.0",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -699,17 +699,30 @@
       "fileSize": 18140
     },
     {
-      "path": "mods/[A][机械动力：渔业] createfisheryindustry-5.0.1.jar",
+      "path": "mods/[A][机械动力：火炮] createbigcannons-5.11.3+mc.1.21.1.jar",
       "hashes": {
-        "sha1": "2a46fa91a0e979a6750077395a29047177be8e70",
-        "sha512": "f054f91820af787b1bf437f440ee571cf8a25d6d88d45b1800ae71a08aaff12c44363a039719fe0dbef8c0c644cb081a9d14afb1b7f3d09ed7142f1d42fd285e"
+        "sha1": "8b61fa850e260bdeb5d360576123f98c260afa50",
+        "sha512": "f75a8bbdc9fc67c09eac6d78e8ad92583a342d54ab70e91923c52cd9b42987765e9a84e43e9c3e175593982aed80fe960a96561d9cd1ed62c4c966818346b466"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7871/231/createfisheryindustry-5.0.1.jar",
-        "https://edge.forgecdn.net/files/7871/231/createfisheryindustry-5.0.1.jar",
-        "https://cdn.modrinth.com/data/u8OJnscr/versions/dCczPexe/createfisheryindustry-5.0.1.jar"
+        "https://mediafilez.forgecdn.net/files/8002/961/createbigcannons-5.11.3-mc.1.21.1.jar",
+        "https://edge.forgecdn.net/files/8002/961/createbigcannons-5.11.3-mc.1.21.1.jar",
+        "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar"
       ],
-      "fileSize": 929403
+      "fileSize": 3715787
+    },
+    {
+      "path": "mods/[A][机械动力：火炮][前置] ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "hashes": {
+        "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+        "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7587/771/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+        "https://edge.forgecdn.net/files/7587/771/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+        "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+      ],
+      "fileSize": 76369
     },
     {
       "path": "mods/[A][机械动力：炫彩金库] create_vibrant_vaults-0.3.2.jar",
@@ -1756,26 +1769,28 @@
       "fileSize": 3264862
     },
     {
-      "path": "mods/[A][机械动力：航空学] create-aeronautics-bundled-1.21.1-1.1.3.jar",
+      "path": "mods/[A][机械动力：航空学] create-aeronautics-bundled-1.21.1-1.2.1.jar",
       "hashes": {
-        "sha1": "320d5c580462fb4bdec3d99837f16e842c314ff6",
-        "sha512": "94831bc4702b3864524258fa0a73a50ab3cd37e9c157b5c6688a6845b866ec5838452804050b55e490549d91dad909fc37f0d619f354c5676e2e2651b9c15ec6"
+        "sha1": "fdf1ae69e8b6437e0196b3a35dd2325aa904aba9",
+        "sha512": "c7899f8a693cf1b4c17a31faf64e631383f6df331b82b517ed6abe01b0464a9f10b226f0336fa8611c5af514375716c4d009d55c7f92640445c68239b63ebc03"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/oWaK0Q19/versions/1sv6OtSz/create-aeronautics-bundled-1.21.1-1.1.3.jar"
+        "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar"
       ],
-      "fileSize": 33003314
+      "fileSize": 33030286
     },
     {
-      "path": "mods/[A][机械动力：航空学前置] sable-neoforge-1.21.1-1.1.3.jar",
+      "path": "mods/[A][机械动力：航空学前置] sable-neoforge-1.21.1-1.2.2.jar",
       "hashes": {
-        "sha1": "98b491efe417046ced3fc4b2e45f603b5007c972",
-        "sha512": "8180e214681c171c9e3b7fa307f7a92bd7de0b8125d671291425f04a4ba26b408758d8ea80a6386d8e73bb1e6b02caf3f20afb9b91ecedd48c37ed44363ac961"
+        "sha1": "c5ecd3fcf60a31d84112c708abe29e341b2d1b73",
+        "sha512": "eb7c46649f5aa359f688fecacfa348b205dff0cfc2d27694632c2e1e1f8f4dbab2c31bdc95b2577201529b2597afe49328c7ad8c348d25eaca109f1a02667534"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/T9PomCSv/versions/g8CObHcP/sable-neoforge-1.21.1-1.1.3.jar"
+        "https://mediafilez.forgecdn.net/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar",
+        "https://edge.forgecdn.net/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar",
+        "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar"
       ],
-      "fileSize": 24766579
+      "fileSize": 12719293
     },
     {
       "path": "mods/[A][机械动力：装饰] createdeco-2.1.2.jar",
