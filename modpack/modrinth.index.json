@@ -1601,17 +1601,16 @@
       "fileSize": 329754
     },
     {
-      "path": "resourcepacks/Squareful 方纹v3.8 for MC 1.20.2~1.21.8.zip",
+      "path": "resourcepacks/Squareful方纹v26.0.6.zip",
       "hashes": {
-        "sha1": "cc74b59b2bbba3374681a863e8129aa312631eaa",
-        "sha512": "c4ad12d5639adc577786e26a88f238e42143bff7f14ddd12ddce3971e12cc12e83e71cb765bb0b49f800fa4277508a5753e754e77eff0158c1c73b4a10f54043"
+        "sha1": "7581e0322e139e41d8d42721bfebb06a87fff714",
+        "sha512": "797cb8696c8d31a2977d7db453fa4fe6257dd52fa9fe49efc6eb61db93f0f4638997afe38cedf3acd13233029c74911e2311a5ca36420098efba1838937dc11d"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6805/854/Squareful%20%e6%96%b9%e7%ba%b9v3.8%20for%20MC%201.20.2%7e1.21.8.zip",
-        "https://edge.forgecdn.net/files/6805/854/Squareful%20%e6%96%b9%e7%ba%b9v3.8%20for%20MC%201.20.2%7e1.21.8.zip",
-        "https://cdn.modrinth.com/data/rq4lDGdf/versions/SbOQeT4B/Squareful%20%E6%96%B9%E7%BA%B9v3.8%20for%20MC%201.20.2~1.21.8.zip"
+        "https://cdn.modrinth.com/data/rq4lDGdf/versions/Oh5pG42o/Squareful%E6%96%B9%E7%BA%B9v26.0.6.zip",
+        "https://edge.forgecdn.net/files/7627/623/Squareful%e6%96%b9%e7%ba%b9v26.0.6.zip"
       ],
-      "fileSize": 6325186
+      "fileSize": 7022597
     },
     {
       "path": "resourcepacks/XKSP 姹紫嫣红 colorful leaves  v3.2.zip",

@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "intro"
 	group: ""
+	icon: {
+		id: "minecraft:grass_block"
+	}
 	id: "6001249E10CBD524"
 	order_index: 0
 	quest_links: [ ]
@@ -10,15 +13,26 @@
 		{
 			hide_dependent_lines: true
 			id: "6B7200323CE89A5A"
-			rewards: [{
-				auto: "enabled"
-				id: "397A1E347C66D4ED"
-				item: {
-					count: 1
-					id: "ftbquests:book"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "397A1E347C66D4ED"
+					item: {
+						count: 1
+						id: "ftbquests:book"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					auto: "enabled"
+					id: "6233A3DA9C217B44"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:netherite_backpack"
+					}
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 0.0d
 		}

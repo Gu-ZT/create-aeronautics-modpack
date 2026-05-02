@@ -1,6 +1,9 @@
 {
+	chapter.1FB664E97F26642F.title: "机械动力-子系统"
+	chapter.24D23670CF22DF13.title: "柴油动力"
+	chapter.3682E142935CEFE9.title: "附魔工业"
 	chapter.4768D92465F10FF3.title: "航空学"
-	chapter.5611A7EEFC896A91.title: "机械动力"
+	chapter.5611A7EEFC896A91.title: "机械动力-主线"
 	chapter.6001249E10CBD524.title: "整合包简介"
 	file.0000000000000001.title: "机械动力：航空学"
 	quest.00EC174CE65A4F3A.quest_desc: [
@@ -9,10 +12,15 @@
 		"&a对称帆&r更为特殊。其平行于运动方向时不会产生阻力，如若将其偏转，则会受到阻力。通过它可以调整飞行结构的运动方向"
 	]
 	quest.00EC174CE65A4F3A.title: "阻力"
+	quest.0101FB6EEC00E522.quest_desc: ["执行&e注液&r合成"]
+	quest.0207B32FB81D732F.quest_desc: ["传输红石信号"]
+	quest.0222C99C1C1B7A17.quest_desc: ["对物品按[W]寻思，学习如何搭建"]
+	quest.0303FD1278974F79.quest_desc: ["容易并联"]
 	quest.0395E43512E8A423.quest_desc: ["牵引结构向上或向下移动"]
 	quest.03E5DB7AA68C7D6E.quest_desc: ["通过动力钻头，原版刷石机，漏斗制作一个自动的小刷石机"]
 	quest.03E5DB7AA68C7D6E.title: "刷石机"
 	quest.05D5DE09C10EA9C1.title: "音乐家"
+	quest.068D7022EEFFFC3C.quest_desc: ["&a鼓风机&r的风经过它可以为物品进行批量终结，或对生物造成魔法伤害"]
 	quest.07DC3DE21D2A3FB5.quest_desc: [
 		"使用红石、石英合成玫瑰石英；用纸、沙子合成&a砂纸&r"
 		""
@@ -35,6 +43,8 @@
 		"则可获得精密构件（有概率失败，产生各种各样的废品）"
 	]
 	quest.095341F447027B99.title: "序列装配"
+	quest.0A12E416058EFC0A.quest_desc: ["来搭建你的全自动食品工厂吧！"]
+	quest.0A12E416058EFC0A.title: "食品加工厂"
 	quest.0B9E3C660647C17A.title: "轮式载具"
 	quest.0BCADE8B0B5966E6.quest_desc: ["砍倒接触到的一整颗树，对接触到的实体造成伤害"]
 	quest.0C83FF2F34349F3D.quest_desc: ["自定义输出的红石强度"]
@@ -43,13 +53,26 @@
 	quest.0DC5480758952518.quest_desc: ["选一个你喜欢的交通工具制造吧"]
 	quest.0E29CE1C8DB7FF46.title: "蓝图系统"
 	quest.0E336146AE210F59.quest_desc: ["检测结构&d倾斜情况&r"]
+	quest.0E409CCB68A3CDBB.quest_desc: [
+		"有了燃料后，就可以驱动引擎"
+		""
+		"注意，不同燃料，不同引擎，输出应力大小和转速不同"
+	]
+	quest.0E409CCB68A3CDBB.title: "使用燃油"
 	quest.0EE438AA7894A017.quest_desc: ["对红石信号进行各种运算/无线传输"]
 	quest.0F2F5F6745AC153A.title: "牵引与连接"
 	quest.10701911A767A5D7.quest_desc: ["将各种物理量转换为不同强度的红石信号"]
+	quest.10F50B0924FFB1E8.quest_desc: ["最小最便宜"]
 	quest.11A745B93068C191.quest_desc: [
 		"将物品丢入其上方 / 或使用漏斗从任意方向输入"
 		""
 		"用漏斗将产品取出 / 空手右键取出产品"
+	]
+	quest.127DEC5510E1328B.quest_desc: [
+		"将流体浇灌到世界中，或时从世界抽取大面积的流体"
+		""
+		"如果世界中的流体湖体积大于&d10000&r格时，可以从中无限的抽取且没有消耗"
+		"（默认只支持水和熔岩）"
 	]
 	quest.128A5A1B3E1B2BC9.quest_desc: ["总是竖直向上，且受到空气密度影响，海拔越高，力越小。因此，热气球最终会停留在一定高度。"]
 	quest.128A5A1B3E1B2BC9.title: "气球升力"
@@ -61,6 +84,7 @@
 		""
 		"对其按[W]查看用法"
 	]
+	quest.14049F65117E5E53.title: "购买海带"
 	quest.154650483A67C198.quest_desc: [
 		"本整合包主要为《机械动力：航空学》制作，所以机械动力本体的任务略写"
 		""
@@ -104,6 +128,7 @@
 		"提供 &e64 RPM | 4096 su&r"
 	]
 	quest.19575E2CB2B76E7B.quest_desc: ["复刻游乐园中的所有设施&m&7，然后去服务器大赚一笔"]
+	quest.1AB7E9DDA1118880.quest_desc: ["受红石信号控制"]
 	quest.1C02B0428FD7AAAC.quest_desc: ["加油，相信你可以自己查阅JEI了解量产方式"]
 	quest.1C1ACA6D9C37215E.quest_desc: ["移动结构上的接口与寻常放置的接口相对时会对接，此时外界可以向&d移动结构&r输入输出"]
 	quest.1D7C6B552ED09130.quest_desc: [
@@ -120,6 +145,7 @@
 		""
 		"&d朝上放置&r时，可以加工物品"
 	]
+	quest.1E3DEC09803110BE.quest_desc: ["安装在流体容器侧面，用于直接向流体容器手动存取流体"]
 	quest.1FBCFB2DB202F854.quest_desc: [
 		"可以横放/竖放/倒放"
 		""
@@ -155,6 +181,8 @@
 	]
 	quest.23570DCA2F325A2E.quest_desc: ["建议铺设自动化产线"]
 	quest.23570DCA2F325A2E.title: "圆石生万物"
+	quest.23680547ECFA45F7.quest_desc: ["最大，输出应力最强，发挥燃油全部地能量"]
+	quest.2409AB1434C81513.title: "剪刀剪切"
 	quest.24457C8610A96626.quest_desc: [
 		"通过&a鼓风机+分散网&r将怪物吸过来"
 		""
@@ -170,11 +198,20 @@
 		""
 		"同个系统中如果有多个应力源，&d应力&r可以叠加，&d转速&r取最大值"
 	]
+	quest.26C7FDC453C341B7.quest_desc: ["自选发出的红石信号强度"]
+	quest.273E611E53473B08.quest_subtitle: "天旋地转"
 	quest.284F8C0690A925AC.quest_desc: ["将&a去皮原木&r放置在地面上，再使用&a安山合金&r右键，获得安山机壳"]
 	quest.286000FDEA3EBA0A.quest_desc: ["将你的整个家变为模拟结构，并带着它遨游世界"]
-	quest.2895EAE6769E399F.quest_desc: ["提供巨量应力的紧凑结构"]
+	quest.2895EAE6769E399F.quest_desc: [
+		"提供巨量应力的紧凑结构"
+		""
+		"对蒸汽引擎按[W]思索查看如何搭建"
+	]
 	quest.2895EAE6769E399F.title: "蒸汽锅炉"
+	quest.28D85381CB00098B.quest_desc: ["批量且自动化地生产，复制，和使用附魔"]
+	quest.296DF29B036BEBDF.quest_desc: ["计算并改变红石信号"]
 	quest.29FEE8FF390855FA.quest_desc: ["移动结构上的&a接触式红石信号发射器&r与寻常放置的相对时，会发出红石信号"]
+	quest.2B6BB29D52ADC77B.quest_desc: ["任务仅展示，请多按[W]思索和查看tooltips"]
 	quest.2B6BB29D52ADC77B.title: "流体系统"
 	quest.2BBBEE2834D0185E.quest_desc: ["模拟结构上，如果传送带接触地面，其运动就可以带动结构运动"]
 	quest.2BBBEE2834D0185E.title: "履带式载具"
@@ -199,12 +236,25 @@
 	]
 	quest.30D9A170209B71FE.quest_desc: ["其方向总是平行于螺旋桨的轴，施力位置在螺旋桨所在处"]
 	quest.30D9A170209B71FE.title: "推进力"
+	quest.322EE14BB7165907.title: "列车系统"
 	quest.33A88FAEAE80F4D9.quest_desc: [
 		"破坏附着性方块，比如火把、拉杆和铁轨"
 		""
 		"将下方的土变为耕地"
 	]
+	quest.34427E53B702640A.quest_desc: [
+		"提取流体"
+		""
+		"&7&m或是当作不需要动力的传送带"
+	]
 	quest.34709BA239C468ED.quest_desc: ["对其按[W]查看用法"]
+	quest.3470BF6661B7FE2F.quest_desc: [
+		"液态染料是对应原版染料的流体，与熔岩接触时产生对应颜色的混凝土；"
+		""
+		"&a鼓风机&r的风经过它可以为物品和实体批量染色"
+	]
+	quest.368B56AADBA9FCD7.title: "收割"
+	quest.36BC73632E2317AD.quest_desc: ["对航空学的联动方块，击碎后应用其中液体的效果"]
 	quest.371445C88111AD89.quest_desc: ["除了放置风帆生产应力之外，也可以驱动其他方块旋转，但仍需要至少8个风帆以启动"]
 	quest.3897FE1B5E1B2F87.quest_desc: [
 		"模组名 tectonic"
@@ -233,6 +283,8 @@
 		"部分位于&d移动结构&r上的动力结构元件可以工作，且无需应力驱动"
 	]
 	quest.3CE87D2D2EAFC88F.quest_desc: ["让你的交通工具能够转向，甚至无人控制"]
+	quest.3D255ED0C224FBC6.quest_desc: ["&a鼓风机&r的风经过它可以为物品进行批量冷冻"]
+	quest.3E71F08A0D99C4DD.quest_desc: ["探测油田"]
 	quest.3EA183F891679413.title: "水洗"
 	quest.3F361BD0D56B7A22.quest_desc: [
 		"&d热空气燃烧室&r的功率和气球容积共同决定升力"
@@ -240,6 +292,13 @@
 		"你可以通过调整功率最大值和输入红石信号，决定&d热空气燃烧室&r的功率"
 	]
 	quest.3F361BD0D56B7A22.title: "飞艇"
+	quest.4008436BEDBB1F24.quest_desc: [
+		"需要经验才能工作"
+		""
+		"为物品和模板附魔"
+		""
+		"附魔模板时，可以用物品过滤。过滤物品的品质也会影响附魔的好坏，比如&d金装备&r的附魔能力更好"
+	]
 	quest.40E3B933C1ADD68B.quest_desc: [
 		"通过造石厂生产圆石"
 		""
@@ -251,6 +310,9 @@
 		""
 		"通过鼓风机洗涤灵魂沙->石英"
 	]
+	quest.4119D27D6ECCB04D.title: "烟熏"
+	quest.413AF6D7D20CA272.quest_subtitle: "可以随身携带流体"
+	quest.41C0FA723BF95C0E.title: "购买烈焰人"
 	quest.42A6D0D9CF19D6F2.quest_desc: ["据说有人找了一上午没找到仙人掌，所以加了这个"]
 	quest.42A6D0D9CF19D6F2.title: "购买仙人掌"
 	quest.43A82CB32EF98503.quest_desc: ["检测结构所在y轴&d高度&r"]
@@ -264,6 +326,13 @@
 		""
 		"如果看不懂，可以询问你的科学老师"
 	]
+	quest.44B49A930F4DFC23.quest_desc: [
+		"对物品按[W]寻思，学习如何搭建"
+		""
+		"最后从油泵抽取石油出来"
+	]
+	quest.44B49A930F4DFC23.title: "抽取原油"
+	quest.457828393A11053B.quest_desc: ["根据环境输出红石信号"]
 	quest.46AFD6478731FDE7.quest_desc: ["贴在模拟结构上，查看其物理量"]
 	quest.470DCD80315AAA2F.quest_desc: [
 		"所有&d运动锚点&r默认只让其有&d粘液贴图&r粘连的那一个方块移动"
@@ -280,6 +349,7 @@
 		""
 		"常与其他元件配合，用于控制结构的&d偏转方向&r"
 	]
+	quest.4C383D24D6E5A5D7.quest_desc: ["管道可以直接从满的蜂箱抽取蜂蜜"]
 	quest.4D77CC9B53A7ED11.quest_desc: ["建造无人货船&7（飞船）&r及其配套的装载/卸载港湾，可以自动地运输货物"]
 	quest.4D99BDBB2CE4C3C3.quest_desc: [
 		"通过JEI查看如何制作，在下提供一种方法："
@@ -296,6 +366,7 @@
 		""
 		"面团+黄绿色染料 -> 粘液球 [合成]"
 	]
+	quest.4DB85EED7781B0C5.quest_subtitle: "大杀器"
 	quest.4E1225F4D4D383E6.quest_desc: ["通过使用 动力锚点连接动力等原件，实现树木的自动砍伐"]
 	quest.4E1225F4D4D383E6.title: "树厂"
 	quest.4FF06B9A6CAA88E0.quest_desc: [
@@ -303,11 +374,13 @@
 		"&7可用扳手shift+右击装有移动结构的矿车，使其变为物品形式&r"
 		"&cTps&r：&7将大结构矿车放在背包中是危险的，在你下次登陆时很可能登陆失败&r"
 	]
+	quest.5027E43ADFFC5FFC.title: "砍树"
 	quest.5170430BD0DD9627.quest_desc: ["较轻的模拟结构可以浮在水上，此时用铲子点击水面就可以划船"]
 	quest.5170430BD0DD9627.title: "木筏"
 	quest.51F8369D22F37F27.quest_desc: ["如果动态结构里有容器，漏斗会吸收接触到的&d掉落物&r"]
 	quest.5238C448BD3F4AE4.quest_desc: ["全凭自觉勾选"]
 	quest.526AB509C8DFDC41.title: "粉碎"
+	quest.53FBED0DB368E59D.title: "搅拌"
 	quest.54451BD153754A10.quest_desc: ["需要在背部输入应力以驱动"]
 	quest.54A1A39A51AB8869.quest_desc: [
 		"虽然你可以通过对着模拟结构上的方块放置方块来扩展结构，但&a蜂蜜胶&r更加便捷"
@@ -318,6 +391,7 @@
 		""
 		"为了便于区分，建议将&a蜂蜜胶&r用于&d模拟结构&r；将&a强力胶&r用于&d移动结构&r"
 	]
+	quest.55A1CA7898DB374D.title: "挤奶"
 	quest.56535CE4BF11612B.quest_desc: [
 		"提供各种便捷功能"
 		""
@@ -335,7 +409,16 @@
 		""
 		"一个&a风车轴承&r最多提供 &e16 RPM | 8192 su&r"
 	]
+	quest.57C9F7080F40503B.quest_desc: [
+		"shift+右键快速拆除机械"
+		""
+		"右键旋转或调整机械的模式"
+	]
+	quest.57C9F7080F40503B.quest_subtitle: "工程师的好帮手"
+	quest.57C9F7080F40503B.title: "扳手"
 	quest.580AEB4DF1094CC9.quest_desc: [
+		"此系统较为深奥，光看思索不一定懂"
+		""
 		"推荐观看B站系列教程视频："
 		""
 		"专题精讲 &bhttps://www.bilibili.com/video/BV1CGdqYREfF"
@@ -345,6 +428,7 @@
 	quest.580AEB4DF1094CC9.title: "智能物流"
 	quest.580BD15704308603.quest_desc: ["同安山机壳，手持黄铜锭右键去皮原木"]
 	quest.585FF45F6EAB3E32.title: "破坏"
+	quest.58ADA54FF6D86BF1.quest_desc: ["指挥交通"]
 	quest.58D087734AD52547.quest_desc: ["破坏接触到的方块，对接触到的实体造成伤害"]
 	quest.5914F05FDA08DDF1.quest_desc: [
 		"1.传送带"
@@ -359,7 +443,7 @@
 		"Tps：可以通过&d红石信号&r关闭漏斗与智能溜槽"
 		"Tps：黄铜漏斗和智能溜槽才可以设置&d过滤器&r，但其需要黄铜（之后会提）"
 	]
-	quest.5914F05FDA08DDF1.title: "物流系统"
+	quest.5914F05FDA08DDF1.title: "基础物流"
 	quest.5AC5FBA95DC30DE4.quest_desc: [
 		"喂给烈焰人，使其超级燃烧，执行更多配方"
 		""
@@ -377,7 +461,10 @@
 		""
 		"长按[W]可查看用法"
 	]
-	quest.5CE8651FFBE1D750.title: "高级物流系统"
+	quest.5CE8651FFBE1D750.title: "高级物流"
+	quest.5D867081D356F24F.quest_desc: ["一些小玩意，让玩家更方便地管理经验"]
+	quest.5DA3BF3CDC238F7D.quest_desc: ["&a鼓风机&r的风经过它可以为物品进行批量喷砂"]
+	quest.5DDD977DC7FCC1D3.title: "抽取"
 	quest.5EEC611BE589C5D6.title: "农场"
 	quest.5F1430224B8E87DB.title: "直升飞机"
 	quest.5F9B6C0597CC92D8.quest_desc: [
@@ -393,8 +480,11 @@
 		""
 		"将物品扔到它的下方一格处，它会开始工作，将铁、铜等金属压成板"
 		""
+		"如果下方隔一格是&a传送带/置物台&r，也可以加工其承载的物品"
+		""
 		"Tps记得及时把东西拿走"
 	]
+	quest.6015C2D3B6D5B59F.title: "购买模板"
 	quest.601DDD1CC1F5F689.quest_desc: ["在背部放置活塞杆（放置多少根就能将面前物体推动多少格），在一侧接入应力以驱动，通过旋转的方向决定活塞臂伸出还是收回"]
 	quest.609EB1D82C25F15D.quest_desc: [
 		"智能侦测器、存量检测器、辉光管、接触式红石信号发生器、模拟拉杆、无限红石信号终端、脉冲延长器、脉冲中继器、锁存器、转换锁存器、玫瑰石英灯"
@@ -407,6 +497,7 @@
 		"（这些东西是真的好用）"
 	]
 	quest.609EB1D82C25F15D.title: "智能红石元件"
+	quest.6114732C47DECE7B.quest_desc: ["经验块被雷批一下即可转化，让&a避雷针&r来吸引雷电吧"]
 	quest.6137CDBE148CC666.quest_desc: [
 		"机械动力中，&d移动结构&r是最重要的一部分"
 		""
@@ -433,6 +524,7 @@
 		"安山合金"
 		"安山合金是一切的起点，游玩机械动力前请确保你获得了足够的安山合金"
 	]
+	quest.6363C546F4D4DF28.quest_desc: ["以液体的形式存储经验"]
 	quest.6583CCE9C31E5A57.quest_desc: ["箱子、木桶和保险库仍然可以储存物品和打开，其他动力元件破坏方块产生的掉落物会被自动存入其中"]
 	quest.674F36D8C1A90D62.quest_desc: ["软连接，力够大就能拆开两块被吸引的磁铁"]
 	quest.687B0F2D504691BE.title: "冶炼"
@@ -458,6 +550,13 @@
 	]
 	quest.6B7200323CE89A5A.title: "芜湖~起飞"
 	quest.6C842943E82DB163.quest_desc: ["鼓风机的风经过&a灵魂火/灵魂篝火&r可以批量缠魂，将沙子(物品形态)变为灵魂沙"]
+	quest.6D6D28778DD00EA9.quest_desc: [
+		"机械手/粉碎轮改动：机械手或粉碎轮击杀生物将掉落&a经验颗粒&r"
+		""
+		"&d横扫之刃&r可以在机械手使用的剑上生效。"
+		""
+		"传送带上修复：用注液器配合液态经验，修复传送带上具有&d经验修补&r的物品。"
+	]
 	quest.6D9916C069F8C992.quest_desc: [
 		"模组名 hotbaaaar"
 		""
@@ -465,6 +564,9 @@
 	]
 	quest.6DC3E3ECA0A85CBF.quest_desc: ["用力太大会把弹簧拉断"]
 	quest.6EDE8E24B12BCAE1.quest_desc: ["用&a鼓风机&r吹风，经过水，对物品形态的沙砾进行水洗，产生铁粒"]
+	quest.6F4045B841E7311E.quest_desc: ["外界与移动结构交互的必经之路"]
+	quest.7070FD2443EC40D3.quest_desc: ["可以承载附魔，类似于&a书&r"]
+	quest.7089A9921A18CC69.title: "注液"
 	quest.708EC2B23CD7C05B.title: "缠魂"
 	quest.719AE5E2C4034F5E.quest_desc: [
 		""
@@ -496,6 +598,7 @@
 		""
 		"按[W]可查看用法"
 	]
+	quest.739CB65758B4F0AA.quest_desc: ["选择哪些流体可以通过"]
 	quest.760E6D43C4E3D14E.quest_desc: [
 		"如果你开始跑步，在站着的别人眼里，你越来越远。但在你眼里，站着的人也在移动，这就是&d相对运动&r"
 		""
@@ -525,11 +628,13 @@
 		""
 		"&eH+C&r 调整"
 	]
+	quest.776D801FD322DFD7.quest_desc: ["附魔工业的前置，添加了一些特性和物品"]
 	quest.77AF0FD1A5FC69AC.quest_desc: [
 		"在机械动力中，三废岩之一的安山岩获得了无与伦比的地位"
 		"他是一切机械的起点，工业的基石"
 		"那么现在，去地下弄点原材料吧"
 	]
+	quest.77D4D1AE61C124E9.quest_desc: ["自动驾驶"]
 	quest.7C7A87255557B601.quest_desc: [
 		"机械动力提供了各种各样的加工方块&m&7，而不仅是各种熔炉&r。"
 		""
@@ -538,33 +643,54 @@
 		"所有加工方块的速度都和&d转速&r&7（单位RPM）&r相关，且转速越高，消耗的应力越多"
 	]
 	quest.7C7A87255557B601.title: "应力系统"
+	quest.7D3401E0DCADA459.title: "塑形"
+	quest.7D5A50BA8D6E6E2B.quest_subtitle: "流体储罐换了个材质"
 	quest.7E6E17EE92C7DFB8.title: "“电梯”"
+	quest.7EABE48D4B75BBB8.quest_desc: ["附魔工业提供了以附魔为主的大量功能，可以极大的帮助玩家批量地强化装备，管理经验"]
+	quest.7EFD2AD61CF106A2.quest_desc: ["&m美观性大于实用性"]
 	reward_table.566BC49E7BBA3AAD.title: "基础奖励包"
+	task.00D1FFFAEE7B2C2F.title: "逻辑单元"
 	task.01D1701457CB83E3.title: "刷铁机"
 	task.041A220AAD976C36.title: "传感器"
+	task.07B8DDF5811867ED.title: "传感单元"
 	task.0A2A827BE90A517F.title: "游乐园"
+	task.19786607A58837E6.title: "建筑工茶饮"
 	task.1D8680DDD9A444BD.title: "高级应力掌控"
+	task.253BA6DCD8D5CE10.title: "经验系统"
 	task.26C4D588F4958FB1.title: "高级红石系统"
 	task.2CC56084DC88EB32.title: "移动工作方块"
+	task.2DE59CD510D8AC16.title: "必需构成"
 	task.2E1871D0F80854E8.title: "交通工具"
+	task.2E4A08D02BCE6DF2.title: "执行单元"
 	task.2EE34941618F682C.title: "中键标点"
+	task.302F27F7B9930EE4.title: "改善饮食"
 	task.337A21B9AD6DD480.title: "BoccHUD"
+	task.3773855B168AB721.title: "机械动力：龙+"
 	task.37784A02819F7217.title: "空天母舰"
 	task.3F3C2C54EBBE24AB.title: "重力"
 	task.3F3F8FB6099D6E39.title: "应力源"
 	task.4041B654F8912EAC.title: "量产资源"
+	task.42630C090675EC4C.title: "引擎"
+	task.48EF57568D3C7CEE.title: "安山"
 	task.4A182550BFA4ADF5.title: "地形修改"
+	task.4DC8B94BEDC282C3.title: "树叶"
 	task.4F7533BD0A112406.title: "哈尔的移动城堡"
 	task.50E32799645D48BA.title: "tweakeroo"
 	task.5254AD5689BFFF99.title: "连接模拟结构"
+	task.5837E95B9D5E5191.title: "额外特性"
 	task.5B7FF0D588B8CF8F.title: "物理学"
 	task.5C6196514E719EE7.title: "无人货船"
 	task.5D15309979E97CFB.title: "机械动力"
+	task.5D78E6AC139DA395.title: "附魔系统"
+	task.5EEFD4A2889E5E3D.title: "无人控制"
 	task.6074EA97E52731D3.title: "工作方块"
+	task.65B8A0F7E1AC4002.title: "机械动力：附魔工业"
 	task.6706E3AF301F647C.title: "应力传输"
 	task.7193C1AAFF70DB86.title: "建造挑战"
 	task.75FFAC5C3348DB54.title: "移动结构"
+	task.7926C09351BE948D.title: "传输单元"
 	task.7AA3F9F14D0931C4.title: "超长物品栏"
 	task.7B8CCCE441F406E7.title: "高级控制学"
 	task.7C1AC755E5E3D25B.title: "相对运动"
+	task.7ED0BF829CAD029D.title: "更多传动方块"
 }

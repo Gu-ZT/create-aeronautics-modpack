@@ -1,0 +1,374 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchantment_industry"
+	group: ""
+	icon: {
+		id: "create_enchantment_industry:enchanting_template"
+	}
+	id: "3682E142935CEFE9"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7EABE48D4B75BBB8"]
+			icon: {
+				id: "create:experience_nugget"
+			}
+			id: "6D6D28778DD00EA9"
+			tasks: [{
+				id: "5837E95B9D5E5191"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7EABE48D4B75BBB8"]
+			hide_dependent_lines: true
+			id: "776D801FD322DFD7"
+			tasks: [{
+				id: "3773855B168AB721"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["221F70ED534E912F"]
+			icon: {
+				id: "create_enchantment_industry:blaze_enchanter"
+			}
+			id: "7EABE48D4B75BBB8"
+			tasks: [{
+				id: "65B8A0F7E1AC4002"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["776D801FD322DFD7"]
+			id: "36BC73632E2317AD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06EEEEACC0396599"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "58B70C701F4E29F5"
+					item: { count: 1, id: "create_dragons_plus:fragile_fluid_tank" }
+					type: "item"
+				}
+				{
+					id: "08603B46F2531AAC"
+					item: { count: 1, id: "create_dragons_plus:fragile_fluid_tank" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["776D801FD322DFD7"]
+			id: "3470BF6661B7FE2F"
+			tasks: [{
+				id: "6D6A8F5B9B3E5526"
+				item: { count: 1, id: "create_dragons_plus:white_dye_bucket" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["776D801FD322DFD7"]
+			id: "068D7022EEFFFC3C"
+			tasks: [{
+				id: "7E12E802E0A783DC"
+				item: { count: 1, id: "create_dragons_plus:dragon_breath_bucket" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["776D801FD322DFD7"]
+			id: "1E3DEC09803110BE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04CA5AA3CFA661F9"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "53F5E11258E1C84E"
+				item: { count: 1, id: "create_dragons_plus:fluid_hatch" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["776D801FD322DFD7"]
+			id: "3D255ED0C224FBC6"
+			tasks: [{
+				id: "1518B5C9E6D771BA"
+				item: { count: 1, id: "minecraft:powder_snow_bucket" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["776D801FD322DFD7"]
+			id: "5DA3BF3CDC238F7D"
+			tasks: [{
+				id: "4D09860221490952"
+				item: { count: 1, id: "minecraft:sand" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7EABE48D4B75BBB8"]
+			hide_dependent_lines: true
+			hide_lock_icon: true
+			id: "5D867081D356F24F"
+			tasks: [{
+				id: "253BA6DCD8D5CE10"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7EABE48D4B75BBB8"]
+			id: "28D85381CB00098B"
+			tasks: [{
+				id: "5D78E6AC139DA395"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5D867081D356F24F"]
+			id: "435B57CD0B77293C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "116328D8B529375D"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "04FD2A4B974CEED7"
+				item: { count: 1, id: "create_enchantment_industry:mechanical_grindstone" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5D867081D356F24F"]
+			id: "627946D9378C1F2B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "575F0331F2CF208B"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "35F76907A871B874"
+				item: { count: 1, id: "create_enchantment_industry:experience_lantern" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5D867081D356F24F"]
+			id: "597BD79EFE0D8E1B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59DE0926A9A1E2C3"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5B43801BA65B31C4"
+				item: { count: 1, id: "create_enchantment_industry:experience_hatch" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5D867081D356F24F"]
+			id: "6363C546F4D4DF28"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5BCE5623BC7DD405"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "513CCD9B287DA4EA"
+				item: { count: 1, id: "create_enchantment_industry:experience_bucket" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7070FD2443EC40D3"]
+			id: "4008436BEDBB1F24"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06CC3F7461C7D7CB"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0A2F2C07F2A5C2B1"
+				item: { count: 1, id: "create_enchantment_industry:blaze_enchanter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["28D85381CB00098B"]
+			id: "3480466E2D5ED4C0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "54A842CA5FD799D2"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6C512FE06AEDE118"
+				item: { count: 1, id: "create_enchantment_industry:printer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["7070FD2443EC40D3"]
+			id: "2F5665F1A8ED724C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EF8F2D74A97B11E"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "15DFD34DBEC6F4B5"
+				item: { count: 1, id: "create_enchantment_industry:blaze_forger" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"2F5665F1A8ED724C"
+				"4008436BEDBB1F24"
+			]
+			id: "24067A75B24AC8C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53BE9C4181F2C9B3"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2A885B643D0E51D4"
+				item: { count: 1, id: "create_enchantment_industry:experience_cake" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["24067A75B24AC8C8"]
+			id: "6114732C47DECE7B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "586CCF53B63A2975"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "241DC54690BFF832"
+				item: { count: 1, id: "create_enchantment_industry:super_experience_block" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["28D85381CB00098B"]
+			id: "7070FD2443EC40D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72659D5D8BE2CC2E"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "68FB81FCF45B803F"
+				item: { count: 1, id: "create_enchantment_industry:enchanting_template" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6114732C47DECE7B"]
+			id: "686AAC5351E145B7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "34D56969364FE5CA"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
+			tasks: [{
+				id: "14E326AA037F8F3B"
+				item: { count: 1, id: "create_enchantment_industry:super_enchanting_template" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -5.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["7EABE48D4B75BBB8"]
+			hide_dependency_lines: true
+			icon: {
+				id: "create_dragons_plus:blaze_upgrade_smithing_template"
+			}
+			id: "6015C2D3B6D5B59F"
+			optional: true
+			rewards: [{
+				id: "05228424709428FB"
+				item: {
+					count: 1
+					id: "create_dragons_plus:blaze_upgrade_smithing_template"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "0BF9BC20512ED915"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+	]
+}

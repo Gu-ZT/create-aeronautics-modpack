@@ -7,7 +7,7 @@
 		id: "simulated:physics_assembler"
 	}
 	id: "4768D92465F10FF3"
-	order_index: 2
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -494,6 +494,12 @@
 		{
 			dependencies: ["73B9116328AFB7C9"]
 			id: "4A33B612A7BA073B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76CE76A4398778F4"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
 			tasks: [{
 				id: "0D8E112B4025A4EA"
 				item: { count: 1, id: "simulated:directional_gearshift" }
@@ -505,6 +511,12 @@
 		{
 			dependencies: ["73B9116328AFB7C9"]
 			id: "1D7C6B552ED09130"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "406A59BFFC0C9922"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
 			tasks: [{
 				id: "60FE2A26EF99571D"
 				item: { count: 1, id: "simulated:torsion_spring" }
@@ -601,6 +613,12 @@
 		{
 			dependencies: ["0EE438AA7894A017"]
 			id: "0C83FF2F34349F3D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0AD5B4A406F544E8"
+				table_id: 6227287094729521837L
+				type: "random"
+			}]
 			tasks: [{
 				id: "70338C4B290A53C4"
 				item: { count: 1, id: "simulated:throttle_lever" }
