@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "6.2.1",
+  "versionId": "6.2.2",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -1814,15 +1814,15 @@
       "fileSize": 3328498
     },
     {
-      "path": "mods/[A][机械动力：重力学] gravitation-neoforge-1.21.1-0.0.5.jar",
+      "path": "mods/[A][机械动力：重力学] gravitation-neoforge-1.21.1-0.0.6.jar",
       "hashes": {
-        "sha1": "789fa6ac598112f7cd7a23a7f63779735d4848d3",
-        "sha512": "033d10285ec73897e2d6799f47c4e5cbf20799e0a12651c654917792d6003cc16708bf4d690cc2fe059c96819c68223b7e8da87112f1d2eef6de7d32f8330a33"
+        "sha1": "0bafb0b6a5cf33977c21ce7bbcc15e2fb1da069a",
+        "sha512": "0506c04aeac8a4746e6b1c2860f275f6836cd689638843e925d808ffd3a255f4fbf40a3ea1dd074edf6ccf8f5ad232aaee42b73a3214e9d129976f5b6b983771"
       },
       "downloads": [
-        "https://github.com/Gu-ZT/Gravitation/releases/download/0.0.5/gravitation-neoforge-1.21.1-0.0.5.jar"
+        "https://github.com/Gu-ZT/Gravitation/releases/download/0.0.6/gravitation-neoforge-1.21.1-0.0.6.jar"
       ],
-      "fileSize": 1622510
+      "fileSize": 1622920
     },
     {
       "path": "mods/[A][精妙存储] sophisticatedstorage-1.21.1-1.5.45.1697.jar",
