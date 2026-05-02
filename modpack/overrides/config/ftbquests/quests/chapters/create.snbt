@@ -106,6 +106,20 @@
 			x: 23.5d
 			y: 15.0d
 		}
+		{
+			id: "21F8C0D918AA25E5"
+			linked_quest: "7EABE48D4B75BBB8"
+			shape: "rsquare"
+			x: 20.5d
+			y: -1.0d
+		}
+		{
+			id: "2CDCA4E34D31C5CD"
+			linked_quest: "3E71F08A0D99C4DD"
+			shape: "rsquare"
+			x: 28.5d
+			y: 5.5d
+		}
 	]
 	quests: [
 		{
@@ -1435,7 +1449,7 @@
 				item: { count: 1, id: "create:wand_of_symmetry" }
 				type: "item"
 			}]
-			x: 28.5d
+			x: 28.0d
 			y: 4.5d
 		}
 		{
@@ -2484,8 +2498,8 @@
 				item: { count: 1, id: "create:extendo_grip" }
 				type: "item"
 			}]
-			x: 28.5d
-			y: 6.0d
+			x: 29.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["5F9B6C0597CC92D8"]
@@ -3256,6 +3270,32 @@
 			}]
 			x: 12.5d
 			y: 0.5d
+		}
+		{
+			can_repeat: true
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:blaze_spawn_egg"
+			}
+			id: "41C0FA723BF95C0E"
+			optional: true
+			rewards: [{
+				id: "54157413BC85B654"
+				item: {
+					count: 1
+					id: "minecraft:blaze_spawn_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "45B4C507AA1CBC17"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 2.5d
 		}
 	]
 }

@@ -35,6 +35,10 @@
 			y: -6.0d
 		}
 		{
+			dependencies: ["221F70ED534E912F"]
+			icon: {
+				id: "create_enchantment_industry:blaze_enchanter"
+			}
 			id: "7EABE48D4B75BBB8"
 			tasks: [{
 				id: "65B8A0F7E1AC4002"
@@ -339,6 +343,32 @@
 			}]
 			x: 10.0d
 			y: -5.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["7EABE48D4B75BBB8"]
+			hide_dependency_lines: true
+			icon: {
+				id: "create_dragons_plus:blaze_upgrade_smithing_template"
+			}
+			id: "6015C2D3B6D5B59F"
+			optional: true
+			rewards: [{
+				id: "05228424709428FB"
+				item: {
+					count: 1
+					id: "create_dragons_plus:blaze_upgrade_smithing_template"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 16L
+				id: "0BF9BC20512ED915"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
 		}
 	]
 }
