@@ -1413,6 +1413,9 @@
         "sha1": "e2a708e02e1fb0a473ba1bae1cc5757858d8f7ce",
         "sha512": "2709adf811cc2a097e3b9f39e77ea89e9151c224e0c759d4dbdfaef2dcc3f704f694b768bda0c145a20fd34af9d35ae980938f86105bfd29e7e99d5d5cbb2215"
       },
+      "env": {
+        "client": "optional"
+      },
       "downloads": [
         "https://cdn.modrinth.com/data/WMDesFsZ/versions/LUWp7TYH/IMBlocker-5.5.3-neoforge%2B1.20.6-1.21.8.jar",
         "https://mod.mcimirror.top/data/WMDesFsZ/versions/LUWp7TYH/IMBlocker-5.5.3-neoforge%2B1.20.6-1.21.8.jar"
