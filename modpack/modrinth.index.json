@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "6.3.0",
+  "versionId": "6.3.0m1",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -134,30 +134,30 @@
       "fileSize": 2138329
     },
     {
-      "path": "mods/[A][中键标点] middle_key_ping-neoforge-1.21.1-2.0.0+build.26.jar",
+      "path": "mods/[A][中键标点] middle_key_ping-neoforge-1.21.1-2.0.0+build.38.jar",
       "hashes": {
-        "sha1": "0abfaef9fa1f6e2d9262f21e29c3209e4542fa95",
-        "sha512": "ea8385cda26252a8dc157420d405399d72d06920b2bef63a8f4e60e51c9c9a105a6116f9dcedc4d215ffc802036c2009db2f4a0665b810dd6b53bc6c52540d84"
+        "sha1": "7fdfab9a17911cce4a082530fbf802898a0734f6",
+        "sha512": "4716ee30175dafe21321f8a52e9fba8a7e0c5799c5953634447fc2f6dcbfb1e3d2b8c326125850eabbf475decc4f541b36d39620df705e8795b8d5f7185caa9e"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7939/155/middle_key_ping-neoforge-1.21.1-2.0.0%2bbuild.26.jar",
-        "https://edge.forgecdn.net/files/7939/155/middle_key_ping-neoforge-1.21.1-2.0.0%2bbuild.26.jar",
-        "https://cdn.modrinth.com/data/X3RVoddI/versions/92I8iz4V/middle_key_ping-neoforge-1.21.1-2.0.0%2Bbuild.26.jar"
+        "https://mediafilez.forgecdn.net/files/7976/541/middle_key_ping-neoforge-1.21.1-2.0.0%2bbuild.38.jar",
+        "https://edge.forgecdn.net/files/7976/541/middle_key_ping-neoforge-1.21.1-2.0.0%2bbuild.38.jar",
+        "https://cdn.modrinth.com/data/X3RVoddI/versions/sQZTXqy6/middle_key_ping-neoforge-1.21.1-2.0.0%2Bbuild.38.jar"
       ],
-      "fileSize": 652950
+      "fileSize": 985318
     },
     {
-      "path": "mods/[A][农夫乐事 · 下界乐事] MyNethersDelight-1.21.1-1.9.jar",
+      "path": "mods/[A][农夫乐事 · 下界乐事] MyNethersDelight-1.21.1-1.10.2.jar",
       "hashes": {
-        "sha1": "146bc38650e09875c678a78014a3ed55d2fd4ca9",
-        "sha512": "0c32e35b573d9a15a1f1fdfdc3d0af8c59a38a41918ee6e6b00f6b9fd8f0997609aea8f372110caaa4d284e31583eeb9ccdbb8c29b6cd72b9fca81889ac8598f"
+        "sha1": "d2fb0de59b66a017a1a25f23acdbe6e241b08541",
+        "sha512": "2d16064b7cbbc1ef829c731d7ede5c680709ac6fe808c5bf2122443aa17862f86860b9d61f42b39847bebe6dfff42b883696503b986a9c88c5b6dfa82cd5d0fe"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6938/550/MyNethersDelight-1.21.1-1.9.jar",
-        "https://edge.forgecdn.net/files/6938/550/MyNethersDelight-1.21.1-1.9.jar",
-        "https://cdn.modrinth.com/data/O53VhQoZ/versions/n2vJCdff/MyNethersDelight-1.21.1-1.9.jar"
+        "https://mediafilez.forgecdn.net/files/8029/219/MyNethersDelight-1.21.1-1.10.2.jar",
+        "https://edge.forgecdn.net/files/8029/219/MyNethersDelight-1.21.1-1.10.2.jar",
+        "https://cdn.modrinth.com/data/O53VhQoZ/versions/qBUSJw5Z/MyNethersDelight-1.21.1-1.10.2.jar"
       ],
-      "fileSize": 798485
+      "fileSize": 825875
     },
     {
       "path": "mods/[A][农夫乐事 · 末地乐事] ends_delight-2.5.1+neoforge.1.21.1.jar",
@@ -186,17 +186,17 @@
       "fileSize": 166931
     },
     {
-      "path": "mods/[A][农夫乐事] FarmersDelight-1.21.1-1.2.11a.jar",
+      "path": "mods/[A][农夫乐事] FarmersDelight-1.21.1-1.3.1.jar",
       "hashes": {
-        "sha1": "a63092cb1e9cd1fb40a9bf1e9a5042d241eddb21",
-        "sha512": "30f2ececa454f34e700a6966dc65d396d8e104212097d631af32d15f737d792a8dbbec58e49426319395a32d0a7797d23e10840cd1fc349ade6d3e6757be9408"
+        "sha1": "49477fafca740e7ae348d934b552fb313358e8fe",
+        "sha512": "596340db019049e8da066df13cedb76eb06a8e877c86fd10b38332317b5fd5001cad485a6de87e3a8bf0423d87a1ffbdd51a86f6c06560f40995d68fe05edf95"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7953/736/FarmersDelight-1.21.1-1.2.11a.jar",
-        "https://edge.forgecdn.net/files/7953/736/FarmersDelight-1.21.1-1.2.11a.jar",
-        "https://cdn.modrinth.com/data/R2OftAxM/versions/rOESN0jP/FarmersDelight-1.21.1-1.2.11a.jar"
+        "https://mediafilez.forgecdn.net/files/8007/613/FarmersDelight-1.21.1-1.3.1.jar",
+        "https://edge.forgecdn.net/files/8007/613/FarmersDelight-1.21.1-1.3.1.jar",
+        "https://cdn.modrinth.com/data/R2OftAxM/versions/9gp7w8NC/FarmersDelight-1.21.1-1.3.1.jar"
       ],
-      "fileSize": 2944552
+      "fileSize": 3124506
     },
     {
       "path": "mods/[A][创世神] worldedit-mod-7.3.8.jar",
@@ -267,17 +267,17 @@
       "fileSize": 1538356
     },
     {
-      "path": "mods/[A][前置] lithostitched-1.7.0-neoforge-21.1.jar",
+      "path": "mods/[A][前置] lithostitched-1.7.3-neoforge-21.1.jar",
       "hashes": {
-        "sha1": "af79e2bdd58ecd0fd47bbc6667da1b8e345d224c",
-        "sha512": "2e23f7bc0265231820fdd633ff10a3e62fee32ad4d281e11df3125a29a498a754bf9f47c935e925c4d404a6232d31fcd31ab0f059669196e1035d6ac6a5c9656"
+        "sha1": "d4ec9689721502154dbd587642de142261688316",
+        "sha512": "d55d442c233d4d993aa30e0f281fd9c49579bd955c6d63460786b7687bff0b7be4e5ff5a7095d58cdb6c1de0ee8ff4d7465eee65757e3823ef1cec356051ed57"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7964/237/lithostitched-1.7.0-neoforge-21.1.jar",
-        "https://edge.forgecdn.net/files/7964/237/lithostitched-1.7.0-neoforge-21.1.jar",
-        "https://cdn.modrinth.com/data/XaDC71GB/versions/29zrKXCQ/lithostitched-1.7.0-neoforge-21.1.jar"
+        "https://mediafilez.forgecdn.net/files/8056/160/lithostitched-1.7.3-neoforge-21.1.jar",
+        "https://edge.forgecdn.net/files/8056/160/lithostitched-1.7.3-neoforge-21.1.jar",
+        "https://cdn.modrinth.com/data/XaDC71GB/versions/3yrFEAmj/lithostitched-1.7.3-neoforge-21.1.jar"
       ],
-      "fileSize": 810138
+      "fileSize": 821956
     },
     {
       "path": "mods/[A][前置] mechanicals-1.21.1-1.1.0.jar",
@@ -358,17 +358,17 @@
       "fileSize": 17179
     },
     {
-      "path": "mods/[A][摆放乐事] displaydelight-1.5.2.jar",
+      "path": "mods/[A][摆放乐事] displaydelight-1.6.0.jar",
       "hashes": {
-        "sha1": "bdae3416c296b4953518d3b06180277bc7c5994a",
-        "sha512": "35244906b6c09b9c237c7f753cd88b4e4b988e1c37022a6db8873e8a6d8b6a2d725c820c89ed9f13c80f3e4dd4533bf79a4e9d667567686854d9aecc0f60f5ae"
+        "sha1": "a53384fc7e66b1ed25f34fe8b168ba8174b69b2f",
+        "sha512": "217ea855795936973d7f4d689b9397e7edc1ffea179fb6483037e87b64e129fe65ca3b2f37846a0696d1df91856837d5fb238e27f2d8c0fd1504581697161d5a"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7948/38/displaydelight-1.5.2.jar",
-        "https://edge.forgecdn.net/files/7948/38/displaydelight-1.5.2.jar",
-        "https://cdn.modrinth.com/data/yXepZhp8/versions/pU6Dxie9/displaydelight-1.5.2.jar"
+        "https://mediafilez.forgecdn.net/files/8051/104/displaydelight-1.6.0.jar",
+        "https://edge.forgecdn.net/files/8051/104/displaydelight-1.6.0.jar",
+        "https://cdn.modrinth.com/data/yXepZhp8/versions/LhcOrDyJ/displaydelight-1.6.0.jar"
       ],
-      "fileSize": 1044065
+      "fileSize": 1050007
     },
     {
       "path": "mods/[A][救救我的答辩网络] smsn-neoforge-1.4.1-1.21.1.jar",
@@ -420,17 +420,17 @@
       "fileSize": 94429
     },
     {
-      "path": "mods/[A][机械动力：中央厨房] create-central-kitchen-2.3.0.jar",
+      "path": "mods/[A][机械动力：中央厨房] create-central-kitchen-2.4.0.jar",
       "hashes": {
-        "sha1": "93ec8d7d6a77f3ee8ba1533c81563cdbcc261293",
-        "sha512": "36c13e70c28efbf811c57c6fca76279aba7a1d94c8a3e85d6f78f525cb01deee56d7e52968b595b3193532c8f3a44cf9022d5a009e5c97cca16aabafb6d3d40e"
+        "sha1": "6a91f304a1e023e8b9b34ccf95f19dd74c3edd55",
+        "sha512": "adcdb5a85b2dd727fa2b0563aa9e73d26b58ee3ae57192e049f0c2a1e4a878dc9d07fe20589f6e52e6f4be2ba1bb5ab3a64f5fcf5f1f9a42b9518e7c2380fd23"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7714/245/create-central-kitchen-2.3.0.jar",
-        "https://edge.forgecdn.net/files/7714/245/create-central-kitchen-2.3.0.jar",
-        "https://cdn.modrinth.com/data/btq68HMO/versions/SpLHbsZw/create-central-kitchen-2.3.0.jar"
+        "https://mediafilez.forgecdn.net/files/8023/674/create-central-kitchen-2.4.0.jar",
+        "https://edge.forgecdn.net/files/8023/674/create-central-kitchen-2.4.0.jar",
+        "https://cdn.modrinth.com/data/btq68HMO/versions/TUJIHmUh/create-central-kitchen-2.4.0.jar"
       ],
-      "fileSize": 342206
+      "fileSize": 342464
     },
     {
       "path": "mods/[A][机械动力：交易站点] trading_floor-3.0.16.jar",
@@ -848,17 +848,17 @@
       "fileSize": 423111
     },
     {
-      "path": "mods/[A][机械动力：附魔工业] create-enchantment-industry-2.3.0.jar",
+      "path": "mods/[A][机械动力：附魔工业] create-enchantment-industry-2.3.1.jar",
       "hashes": {
-        "sha1": "d9cef051c5318d27c634184bfb1ef35550b96789",
-        "sha512": "fd16f1ba0b40d47f0ed23bc91a434c06935716f8c450a132c95d983d95c4a19afed4c6df7334e3fbac23a1c1c3a464ea9f348f7ffa0b4b6d9b727224669709b5"
+        "sha1": "e9a57b322459bda9905e4287d2582ad600909b11",
+        "sha512": "0e83fef0ae333a2bad9cff09cb661d72c0ab48a5b8a97a06c946d54da1eb967b7bd532e780845ff62d19f3bb094daed07f63daec7c1caaa1aeb5050ec4bfcd7c"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7656/384/create-enchantment-industry-2.3.0.jar",
-        "https://edge.forgecdn.net/files/7656/384/create-enchantment-industry-2.3.0.jar",
-        "https://cdn.modrinth.com/data/JWGBpFUP/versions/o56ltpU3/create-enchantment-industry-2.3.0.jar"
+        "https://mediafilez.forgecdn.net/files/7970/748/create-enchantment-industry-2.3.1.jar",
+        "https://edge.forgecdn.net/files/7970/748/create-enchantment-industry-2.3.1.jar",
+        "https://cdn.modrinth.com/data/JWGBpFUP/versions/zjSKnkVT/create-enchantment-industry-2.3.1.jar"
       ],
-      "fileSize": 683005
+      "fileSize": 684729
     },
     {
       "path": "mods/[A][机械动力：集成农业] create-integrated-farming-1.2.2.jar",
@@ -874,6 +874,19 @@
       "fileSize": 408059
     },
     {
+      "path": "mods/[A][机械动力：黄油猫]createbuttercat-1.2.jar",
+      "hashes": {
+        "sha1": "559aebb5b6a2462c54c02735bcc70b414d627246",
+        "sha512": "de9e7e1ac7011d526c8f822876a03bfabe0d2063a7ae8ba3619403fc947740abd514f8192fd9b5ba3585ea4bcee23c3a12932fcfcec244c6c538b49c94d4343f"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
+        "https://edge.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
+        "https://cdn.modrinth.com/data/3i1BRLA9/versions/ancqxeG4/createbuttercat-1.2.jar"
+      ],
+      "fileSize": 174743
+    },
+    {
       "path": "mods/[A][机械动力：齿轮与酒馆] creategearsandtavern-1.1.2.jar",
       "hashes": {
         "sha1": "38f169f389ce18b3c13702744cc538b9c94a484e",
@@ -887,28 +900,30 @@
       "fileSize": 500223
     },
     {
-      "path": "mods/[A][机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.3.9.jar",
+      "path": "mods/[A][机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.3.9-2.jar",
       "hashes": {
-        "sha1": "e2c01836fa8ae79529cb43687956cc6e67ee1712",
-        "sha512": "a256e83a1e6dd7aeb507abd53f5df236e1c9a9ff69f045074bd29d916337d354fb80ee9c7fcd0305d765d4afacb3d625a738bafb896ac3490251431628aa92fe"
+        "sha1": "1d4fc95a34bd9c18babc08be7e23100ddb9d05cd",
+        "sha512": "a9d2f4d891fb27e7e102e76b710779d996ac0316e2127ca887ee84fde5045621e63b4d462b607e2c262b9c48033ee660c2650263771398ac4c4d81b5dcabfa80"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
-        "https://edge.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
-        "https://cdn.modrinth.com/data/XM0ifg8q/versions/4jrYqs37/create_ratatouille-1.21.1-1.3.9.jar"
+        "https://mediafilez.forgecdn.net/files/8036/576/create_ratatouille-1.21.1-1.3.9-2.jar",
+        "https://edge.forgecdn.net/files/8036/576/create_ratatouille-1.21.1-1.3.9-2.jar",
+        "https://cdn.modrinth.com/data/XM0ifg8q/versions/Ovv4xLQg/create_ratatouille-1.21.1-1.3.9-2.jar"
       ],
-      "fileSize": 917002
+      "fileSize": 917618
     },
     {
-      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.9.2.jar",
+      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.10.0b.jar",
       "hashes": {
-        "sha1": "0dd3d5e00e5346902480aa8ec588ed27081fdaa1",
-        "sha512": "d36758c6cc86b01234f75fd263ca850beea31fa50f9868ef0b08855c49a9d9f00491ab243997efc77dc5b07c199e07319e9ead1a2f80490a4ef614a1f786de44"
+        "sha1": "e50ae4f50173b12232b8dbd6b85568b4b657c0cf",
+        "sha512": "e54e40f1d0f005693a2a165f15a694482c44406ee34f1658d687ad0397f173227be42cc208bafd6706ad0be547b8ee85cbad5b52f17c7fa7216fb729d4e81684"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/dzb1a5WV/versions/cBUCWZt8/CreateDragonsPlus-1.9.2.jar"
+        "https://mediafilez.forgecdn.net/files/7970/93/CreateDragonsPlus-1.10.0b.jar",
+        "https://edge.forgecdn.net/files/7970/93/CreateDragonsPlus-1.10.0b.jar",
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/ew6gKsnx/CreateDragonsPlus-1.10.0b.jar"
       ],
-      "fileSize": 740594
+      "fileSize": 756460
     },
     {
       "path": "mods/[A][森罗物语：下界] kaleidoscope_nether-1.1.1-neoforge+mc1.21.1.jar",
@@ -1387,6 +1402,9 @@
       "hashes": {
         "sha1": "d9c217b569345ae30a5271baa5e9482080c2e41d",
         "sha512": "ebfe770ef3e84e8ba83a9aecf5d29262720cc5c19b71a6f3727895407c52e1b14aa42685978bd37892141deef7fa807f9a8a2f523b90dd906ff1f24485237a3b"
+      },
+      "env": {
+        "client": "optional"
       },
       "downloads": [
         "https://mediafilez.forgecdn.net/files/7173/159/I18nUpdateMod-3.7.0-all.jar",
