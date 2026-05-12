@@ -66,16 +66,16 @@
       "fileSize": 209459
     },
     {
-      "path": "mods/[A][FTB · 连锁破坏] ftb-ultimine-neoforge-2101.1.13.jar",
+      "path": "mods/[A][FTB · 连锁破坏] ftb-ultimine-neoforge-2101.1.14.jar",
       "hashes": {
-        "sha1": "c6ca0360843e5dbac57f3c01aa80fba5a0518553",
-        "sha512": "3d493d3f48f98a0973ff701e0d2e4ec85d5312b8f4273624dcef0475022bcc9b54d52876faaa6b4f2bb8699ea1da0f6f03716e865e89ea3813f88c16e5fbbe72"
+        "sha1": "5ad3196e1aa68884065b1713d6754ff2f341059b",
+        "sha512": "a8fa101999169917760b5da13569cb7bec4c5babd90dda33778fb8e0e229b3ecdc9ac3375383c72b1b79388a3d45a37a76a57ccdb5373edc5d0ce3bca91f8649"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7570/482/ftb-ultimine-neoforge-2101.1.13.jar",
-        "https://edge.forgecdn.net/files/7570/482/ftb-ultimine-neoforge-2101.1.13.jar"
+        "https://mediafilez.forgecdn.net/files/8078/515/ftb-ultimine-neoforge-2101.1.14.jar",
+        "https://edge.forgecdn.net/files/8078/515/ftb-ultimine-neoforge-2101.1.14.jar"
       ],
-      "fileSize": 176935
+      "fileSize": 175976
     },
     {
       "path": "mods/[A][JEI物品管理器] jei-1.21.1-neoforge-19.27.0.340.jar",
@@ -798,15 +798,14 @@
     {
       "path": "mods/[A][机械动力：自动扶梯] escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
       "hashes": {
-        "sha1": "c0c2a66ecf4204972920bfd4d62314aea83dc64e",
-        "sha512": "239a2622d660c0b268e8327749d81b3b692c2b418abe1b7269eca948f84c7dba80ee65d7c7f9df4815cf5029d2bed2f105c8f590ea48b23be19dd1d71181bec5"
+        "sha1": "e1587a94282350c7ad80a854961c53b8a347c9c4",
+        "sha512": "1dce21c095761b6c93563d25ac9f3a5e52d19b8f6694104a89d5fc8c3c8a4f726b1a8d497aa3f02c3632df38192b52ea9411717c0ba5271cd3363ded2540c152"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
-        "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar",
-        "https://cdn.modrinth.com/data/LyOBYG8Q/versions/6DNGSw3t/escalated-1.2.1%2Bcreate.6.0.8-mc.1.21.1-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar",
+        "https://edge.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar"
       ],
-      "fileSize": 517830
+      "fileSize": 511143
     },
     {
       "path": "mods/[A][机械动力：自定义扳手] create-extended-wrenches-1.21.1-2.0.2.jar",
@@ -820,19 +819,17 @@
       "fileSize": 401219
     },
     {
-      "path": "mods/[A][机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-7.6.0-NeoForge.jar",
+      "path": "mods/[A][机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar",
       "hashes": {
-        "sha1": "6458ae31ee1090405ae75f2f0b7b848007b210ae",
-        "sha512": "a62f1d969bba265169469d1b519210b12cea3ef4d25c9ce97bba307f88fe6877bf92eedc838e6ff76f760e695fcd89aa09931e3d0ed3f2f0d045aef6277022b6"
+        "sha1": "99cf4ba7fdfbc62f99777173ab2c74a81fa407af",
+        "sha512": "085d39aa321acdc898e40a8c4a848559084f1cde7cc991c0e2d6dd33d84a051cd2c9fa20d6c2171d4ced4a8a1fffb4482b15f91fef2355592046349d867e709f"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/TlQAWQCY/versions/bnOqQbnO/CreateCyberGoggles-1.21.1-7.6.0-NeoForge.jar",
-        "https://mod.mcimirror.top/data/TlQAWQCY/versions/bnOqQbnO/CreateCyberGoggles-1.21.1-7.6.0-NeoForge.jar",
-        "https://edge.forgecdn.net/files/8058/316/CreateCyberGoggles-1.21.1-7.6.0-NeoForge.jar",
-        "https://mediafilez.forgecdn.net/files/8058/316/CreateCyberGoggles-1.21.1-7.6.0-NeoForge.jar",
-        "https://mod.mcimirror.top/files/8058/316/CreateCyberGoggles-1.21.1-7.6.0-NeoForge.jar"
+        "https://mediafilez.forgecdn.net/files/8077/179/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar",
+        "https://edge.forgecdn.net/files/8077/179/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar",
+        "https://cdn.modrinth.com/data/TlQAWQCY/versions/I3QLu0Rf/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar"
       ],
-      "fileSize": 455845
+      "fileSize": 456305
     },
     {
       "path": "mods/[A][机械动力：超级管道] create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
@@ -887,17 +884,17 @@
       "fileSize": 174743
     },
     {
-      "path": "mods/[A][机械动力：齿轮与酒馆] creategearsandtavern-1.1.2.jar",
+      "path": "mods/[A][机械动力：齿轮与酒馆] creategearsandtavern-1.1.3.jar",
       "hashes": {
-        "sha1": "38f169f389ce18b3c13702744cc538b9c94a484e",
-        "sha512": "26e66f9dde94b50bbad9b2e696cff671e7c9439ba6b28cb3d8432fe3bf85fbebfb0733e50492fab64972e9878ad7cac3dff06640b360a139be2e3afdf6addbce"
+        "sha1": "b65974a7789763ab49ab1c6eff667fd554234c32",
+        "sha512": "e2da4db11d76c2b4e6a4400ce58446da9872f54bd2bf9fea05a86287089e3328ed5e4e370dbed69cea5093091954ea309473b1b0cf8c0801e3fda5c8edca1cf3"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7980/871/creategearsandtavern-1.1.2.jar",
-        "https://edge.forgecdn.net/files/7980/871/creategearsandtavern-1.1.2.jar",
-        "https://cdn.modrinth.com/data/ZjAeukl9/versions/BXowwqij/creategearsandtavern-1.1.2.jar"
+        "https://mediafilez.forgecdn.net/files/8072/193/creategearsandtavern-1.1.3.jar",
+        "https://edge.forgecdn.net/files/8072/193/creategearsandtavern-1.1.3.jar",
+        "https://cdn.modrinth.com/data/ZjAeukl9/versions/7TWWpNfC/creategearsandtavern-1.1.3.jar"
       ],
-      "fileSize": 500223
+      "fileSize": 519467
     },
     {
       "path": "mods/[A][机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.3.9-2.jar",
@@ -939,15 +936,15 @@
       "fileSize": 1023387
     },
     {
-      "path": "mods/[A][森罗物语：兼容] kaleidoscope_compat-2.4.8-neoforge+mc1.21.1.jar",
+      "path": "mods/[A][森罗物语：兼容] kaleidoscope_compat-2.6.1-neoforge+mc1.21.1.jar",
       "hashes": {
-        "sha1": "37b4c4ece8d8efdca660973a8a34369faf9977b9",
-        "sha512": "ac71176869dad2f50372ccd42485f887558aa4c78657be38e12161b6d29cd8118eb975f76292dbfa973768ec7fc252f40b819d34f78280a6d6288b059f2847b0"
+        "sha1": "e9c75e844e1ed3d77f92989de321713a58ffb990",
+        "sha512": "6d70c0330580dadb5a08fe265708f4a1e6703c9bd81b100ebebc1beb4eefb42fc4c62274efb93a47524bc15bd8935eaaa84ee3f0e6037733ed11d209c2b876c2"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Xm1eP54z/versions/ctF5ge1x/kaleidoscope_compat-2.4.8-neoforge%2Bmc1.21.1.jar"
+        "https://cdn.modrinth.com/data/Xm1eP54z/versions/wf3UA8gg/kaleidoscope_compat-2.6.1-neoforge%2Bmc1.21.1.jar"
       ],
-      "fileSize": 866845
+      "fileSize": 919788
     },
     {
       "path": "mods/[A][森罗物语：厨房] kaleidoscopecookery-1.3.0-neoforge+mc1.21.1.jar",
@@ -1275,19 +1272,17 @@
       "fileSize": 471965
     },
     {
-      "path": "mods/[C][实体模型特性] entity_model_features-3.2.3-1.21-neoforge.jar",
+      "path": "mods/[C][实体模型特性] entity_model_features-3.2.4-1.21-neoforge.jar",
       "hashes": {
-        "sha1": "80e26c256fb0fe61bd99606b9d7294b36cc3c6a1",
-        "sha512": "9e925ddccd6ad621bd6edede025d5567501c56b2b96c4a7e83eb61bcaf75a16f010239c1c25f61a805630b7d1391d5f03e9be11b1eb246870c594d8b2c9fbdd9"
+        "sha1": "fcc0d7cfee5ace4dba159225edd151d90dd924b9",
+        "sha512": "840866c0b5168b04713652cf31d8a8bc6ed47d9748a78e0e9f07d201e03d2a276f0edfe727a8bffebe7396595876499d8d4f420fc2ff2e71fbc45128ca6c4e11"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/4I1XuqiY/versions/rQGC5BxR/entity_model_features-3.2.3-1.21-neoforge.jar",
-        "https://mod.mcimirror.top/data/4I1XuqiY/versions/rQGC5BxR/entity_model_features-3.2.3-1.21-neoforge.jar",
-        "https://edge.forgecdn.net/files/8061/138/entity_model_features-3.2.3-1.21-neoforge.jar",
-        "https://mediafilez.forgecdn.net/files/8061/138/entity_model_features-3.2.3-1.21-neoforge.jar",
-        "https://mod.mcimirror.top/files/8061/138/entity_model_features-3.2.3-1.21-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/8063/559/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "https://edge.forgecdn.net/files/8063/559/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/PAYgk63v/entity_model_features-3.2.4-1.21-neoforge.jar"
       ],
-      "fileSize": 566866
+      "fileSize": 567827
     },
     {
       "path": "mods/[C][实体纹理特性] entity_texture_features_1.21-neoforge-7.1.jar",
@@ -1586,17 +1581,17 @@
       "fileSize": 77555
     },
     {
-      "path": "mods/[C][飞轮 · 光影兼容] colorwheel-neoforge-1.2.4+mc1.21.1.jar",
+      "path": "mods/[C][飞轮 · 光影兼容] colorwheel-neoforge-1.2.5+mc1.21.1.jar",
       "hashes": {
-        "sha1": "e70b717b6e681b2fdb5cd1788110ab4959328b33",
-        "sha512": "c977d08a8a7f3512e7709d6ab57e627c56cfb904426fecfed5917cc94ef060030f3a3dbc7616ebece97ee83924fa5b8c155483bc4db1be4d1b9346b030a29d18"
+        "sha1": "378a042177a9751319a6b21f1aa235c264eff2ce",
+        "sha512": "1c7ae274389829e8213be1ad3387c2bdc50266badef75a497435e0afab7a1f9eefc9252d59aa6d7360091f70326fd396df6dab29e612c47a2d88fa1d85c24565"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7965/647/colorwheel-neoforge-1.2.4%2bmc1.21.1.jar",
-        "https://edge.forgecdn.net/files/7965/647/colorwheel-neoforge-1.2.4%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/BzHgFoGz/versions/OuwQlVxo/colorwheel-neoforge-1.2.4%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/8067/268/colorwheel-neoforge-1.2.5%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/8067/268/colorwheel-neoforge-1.2.5%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/BzHgFoGz/versions/qIo72EWB/colorwheel-neoforge-1.2.5%2Bmc1.21.1.jar"
       ],
-      "fileSize": 384085
+      "fileSize": 384109
     },
     {
       "path": "mods/[C][飞轮 · 光影兼容补丁] colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
@@ -1760,17 +1755,6 @@
         "https://cdn.modrinth.com/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip"
       ],
       "fileSize": 3737845
-    },
-    {
-      "path": "mods/[A][农夫乐事 · 妖怪们的归家] youkaishomecoming-3.0.8.jar",
-      "hashes": {
-        "sha1": "e25288594f06e43fead8002839fb561efee6565e",
-        "sha512": "80bf4859a5c1d0b9f9f88efb6db0b261c8b6fd47a84185c3d3457a7c1d45a74686354810a4ef6aefadd22666dc4a8ffe629ae34812f98b051554dc2fe098cf95"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uJT3ahxz/versions/vu5Xy9Dk/youkaishomecoming-3.0.8.jar"
-      ],
-      "fileSize": 2543939
     },
     {
       "path": "mods/[A][前置] kotlinforforge-5.11.0-all.jar",
