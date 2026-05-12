@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "6.3.1",
+  "versionId": "6.3.2",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -869,19 +869,6 @@
         "https://cdn.modrinth.com/data/9k1pAsfR/versions/DKe4Owf4/create-integrated-farming-1.2.2.jar"
       ],
       "fileSize": 408059
-    },
-    {
-      "path": "mods/[A][机械动力：黄油猫]createbuttercat-1.2.jar",
-      "hashes": {
-        "sha1": "559aebb5b6a2462c54c02735bcc70b414d627246",
-        "sha512": "de9e7e1ac7011d526c8f822876a03bfabe0d2063a7ae8ba3619403fc947740abd514f8192fd9b5ba3585ea4bcee23c3a12932fcfcec244c6c538b49c94d4343f"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
-        "https://edge.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
-        "https://cdn.modrinth.com/data/3i1BRLA9/versions/ancqxeG4/createbuttercat-1.2.jar"
-      ],
-      "fileSize": 174743
     },
     {
       "path": "mods/[A][机械动力：黄油猫]createbuttercat-1.2.jar",
