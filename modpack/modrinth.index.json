@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "6.3.0m1",
+  "versionId": "6.3.1",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -884,41 +884,39 @@
       "fileSize": 174743
     },
     {
-      "path": "mods/[A][机械动力：齿轮与酒馆] creategearsandtavern-1.1.3.jar",
+      "path": "mods/[A][机械动力：黄油猫]createbuttercat-1.2.jar",
       "hashes": {
-        "sha1": "b65974a7789763ab49ab1c6eff667fd554234c32",
-        "sha512": "e2da4db11d76c2b4e6a4400ce58446da9872f54bd2bf9fea05a86287089e3328ed5e4e370dbed69cea5093091954ea309473b1b0cf8c0801e3fda5c8edca1cf3"
+        "sha1": "559aebb5b6a2462c54c02735bcc70b414d627246",
+        "sha512": "de9e7e1ac7011d526c8f822876a03bfabe0d2063a7ae8ba3619403fc947740abd514f8192fd9b5ba3585ea4bcee23c3a12932fcfcec244c6c538b49c94d4343f"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8072/193/creategearsandtavern-1.1.3.jar",
-        "https://edge.forgecdn.net/files/8072/193/creategearsandtavern-1.1.3.jar",
-        "https://cdn.modrinth.com/data/ZjAeukl9/versions/7TWWpNfC/creategearsandtavern-1.1.3.jar"
+        "https://mediafilez.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
+        "https://edge.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
+        "https://cdn.modrinth.com/data/3i1BRLA9/versions/ancqxeG4/createbuttercat-1.2.jar"
       ],
-      "fileSize": 519467
+      "fileSize": 174743
     },
     {
-      "path": "mods/[A][机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.3.9-2.jar",
+      "path": "mods/[A][机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.3.9.jar",
       "hashes": {
-        "sha1": "1d4fc95a34bd9c18babc08be7e23100ddb9d05cd",
-        "sha512": "a9d2f4d891fb27e7e102e76b710779d996ac0316e2127ca887ee84fde5045621e63b4d462b607e2c262b9c48033ee660c2650263771398ac4c4d81b5dcabfa80"
+        "sha1": "e2c01836fa8ae79529cb43687956cc6e67ee1712",
+        "sha512": "a256e83a1e6dd7aeb507abd53f5df236e1c9a9ff69f045074bd29d916337d354fb80ee9c7fcd0305d765d4afacb3d625a738bafb896ac3490251431628aa92fe"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8036/576/create_ratatouille-1.21.1-1.3.9-2.jar",
-        "https://edge.forgecdn.net/files/8036/576/create_ratatouille-1.21.1-1.3.9-2.jar",
-        "https://cdn.modrinth.com/data/XM0ifg8q/versions/Ovv4xLQg/create_ratatouille-1.21.1-1.3.9-2.jar"
+        "https://mediafilez.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
+        "https://edge.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
+        "https://cdn.modrinth.com/data/XM0ifg8q/versions/4jrYqs37/create_ratatouille-1.21.1-1.3.9.jar"
       ],
-      "fileSize": 917618
+      "fileSize": 917002
     },
     {
-      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.10.0b.jar",
+      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.9.2.jar",
       "hashes": {
-        "sha1": "e50ae4f50173b12232b8dbd6b85568b4b657c0cf",
-        "sha512": "e54e40f1d0f005693a2a165f15a694482c44406ee34f1658d687ad0397f173227be42cc208bafd6706ad0be547b8ee85cbad5b52f17c7fa7216fb729d4e81684"
+        "sha1": "0dd3d5e00e5346902480aa8ec588ed27081fdaa1",
+        "sha512": "d36758c6cc86b01234f75fd263ca850beea31fa50f9868ef0b08855c49a9d9f00491ab243997efc77dc5b07c199e07319e9ead1a2f80490a4ef614a1f786de44"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7970/93/CreateDragonsPlus-1.10.0b.jar",
-        "https://edge.forgecdn.net/files/7970/93/CreateDragonsPlus-1.10.0b.jar",
-        "https://cdn.modrinth.com/data/dzb1a5WV/versions/ew6gKsnx/CreateDragonsPlus-1.10.0b.jar"
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/cBUCWZt8/CreateDragonsPlus-1.9.2.jar"
       ],
       "fileSize": 756460
     },
