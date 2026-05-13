@@ -897,13 +897,14 @@
       "fileSize": 917002
     },
     {
-      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.9.2.jar",
+      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.10.0b.jar",
       "hashes": {
-        "sha1": "0dd3d5e00e5346902480aa8ec588ed27081fdaa1",
-        "sha512": "d36758c6cc86b01234f75fd263ca850beea31fa50f9868ef0b08855c49a9d9f00491ab243997efc77dc5b07c199e07319e9ead1a2f80490a4ef614a1f786de44"
+        "sha1": "e50ae4f50173b12232b8dbd6b85568b4b657c0cf",
+        "sha512": "e54e40f1d0f005693a2a165f15a694482c44406ee34f1658d687ad0397f173227be42cc208bafd6706ad0be547b8ee85cbad5b52f17c7fa7216fb729d4e81684"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/dzb1a5WV/versions/cBUCWZt8/CreateDragonsPlus-1.9.2.jar"
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/ew6gKsnx/CreateDragonsPlus-1.10.0b.jar",
+        "https://mod.mcimirror.top/data/dzb1a5WV/versions/ew6gKsnx/CreateDragonsPlus-1.10.0b.jar"
       ],
       "fileSize": 756460
     },
