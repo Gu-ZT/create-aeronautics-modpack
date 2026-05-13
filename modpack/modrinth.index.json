@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "6.4.0",
+  "versionId": "6.4.1",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -12,8 +12,9 @@
         "sha512": "f23030b5f29704969cf9484e6133464c7c7064c8eae14d086d36fc313db35949638d94a1a0af57d6f9f430ddba070f6f3dfc891726f1fc703e462324e8c28fd2"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7878/289/ftb-quests-neoforge-2101.1.24.jar",
         "https://mediafilez.forgecdn.net/files/7878/289/ftb-quests-neoforge-2101.1.24.jar",
-        "https://edge.forgecdn.net/files/7878/289/ftb-quests-neoforge-2101.1.24.jar"
+        "https://mod.mcimirror.top/files/7878/289/ftb-quests-neoforge-2101.1.24.jar"
       ],
       "fileSize": 1466155
     },
@@ -24,8 +25,9 @@
         "sha512": "3d9781e10f40373b722f9f19a6e10e300e873e664bd9861b0b353c7a713c646288d6f31c5342b542d6879abd02a3534f08bda6c45f1d4c86b8fc187b1e21ed87"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7715/134/ftb-xmod-compat-neoforge-21.1.8.jar",
         "https://mediafilez.forgecdn.net/files/7715/134/ftb-xmod-compat-neoforge-21.1.8.jar",
-        "https://edge.forgecdn.net/files/7715/134/ftb-xmod-compat-neoforge-21.1.8.jar"
+        "https://mod.mcimirror.top/files/7715/134/ftb-xmod-compat-neoforge-21.1.8.jar"
       ],
       "fileSize": 141328
     },
@@ -36,8 +38,9 @@
         "sha512": "af7674d2d12b129b3841df1be8272606d480a6f707cd0b3b112f56068279e286fc5b4cc67e7f7c984d09e54bc5f7dde3fc55c15ff5fd901ad60f14ee9eb9eb01"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar",
         "https://mediafilez.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar",
-        "https://edge.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar"
+        "https://mod.mcimirror.top/files/7746/959/ftb-library-neoforge-2101.1.31.jar"
       ],
       "fileSize": 1411181
     },
@@ -48,8 +51,9 @@
         "sha512": "203269a3ef53b47f497ab621527c78e7ff1912c488cab9247d68df5fb01f6212530f9929599befca302889257bf3cd6dba9b9ee9070f1ef51785f1e44774639f"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar",
         "https://mediafilez.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar",
-        "https://edge.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar"
+        "https://mod.mcimirror.top/files/7878/281/ftb-teams-neoforge-2101.1.10.jar"
       ],
       "fileSize": 302712
     },
@@ -60,8 +64,9 @@
         "sha512": "28b4764e3065638febcf4551eda76916a1d54f77673fd27885b1b5085e23cab2458b32d6bee4d6ccc4cfe5f5bdb051a9bc1977cb56316603bcd4483c7848f6e9"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7608/733/ftb-essentials-neoforge-2101.1.9.jar",
         "https://mediafilez.forgecdn.net/files/7608/733/ftb-essentials-neoforge-2101.1.9.jar",
-        "https://edge.forgecdn.net/files/7608/733/ftb-essentials-neoforge-2101.1.9.jar"
+        "https://mod.mcimirror.top/files/7608/733/ftb-essentials-neoforge-2101.1.9.jar"
       ],
       "fileSize": 209459
     },
@@ -72,8 +77,9 @@
         "sha512": "a8fa101999169917760b5da13569cb7bec4c5babd90dda33778fb8e0e229b3ecdc9ac3375383c72b1b79388a3d45a37a76a57ccdb5373edc5d0ce3bca91f8649"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/8078/515/ftb-ultimine-neoforge-2101.1.14.jar",
         "https://mediafilez.forgecdn.net/files/8078/515/ftb-ultimine-neoforge-2101.1.14.jar",
-        "https://edge.forgecdn.net/files/8078/515/ftb-ultimine-neoforge-2101.1.14.jar"
+        "https://mod.mcimirror.top/files/8078/515/ftb-ultimine-neoforge-2101.1.14.jar"
       ],
       "fileSize": 175976
     },
@@ -84,9 +90,11 @@
         "sha512": "8bad8eb3c8e974f867e23e4d74598f603c5fbf03eb5356a386dd37cb9fa23e08ad1f58be6b7be50d2fbf9d3fbfaeac8584c70ced736df4b8f82c7c75be242998"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
+        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar",
+        "https://mod.mcimirror.top/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar",
         "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
-        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neoforge-19.27.0.340.jar"
+        "https://mediafilez.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar",
+        "https://mod.mcimirror.top/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar"
       ],
       "fileSize": 1529391
     },
@@ -97,9 +105,11 @@
         "sha512": "cd864205d328198d0e80756692fa5ebb72e80bc76a329119ed80ec582712dfd66f953482ba7d98dfc7c2f4fffd98de85d086864ec867087f9f913a0d748be44b"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6951/202/paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar",
+        "https://cdn.modrinth.com/data/SISz7Qd3/versions/U9HjuVCQ/paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar",
+        "https://mod.mcimirror.top/data/SISz7Qd3/versions/U9HjuVCQ/paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar",
         "https://edge.forgecdn.net/files/6951/202/paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar",
-        "https://cdn.modrinth.com/data/SISz7Qd3/versions/U9HjuVCQ/paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6951/202/paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar",
+        "https://mod.mcimirror.top/files/6951/202/paladin-furniture-mod-1.4.4-neoforge-mc1.21.1.jar"
       ],
       "fileSize": 6091385
     },
@@ -140,9 +150,11 @@
         "sha512": "4716ee30175dafe21321f8a52e9fba8a7e0c5799c5953634447fc2f6dcbfb1e3d2b8c326125850eabbf475decc4f541b36d39620df705e8795b8d5f7185caa9e"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7976/541/middle_key_ping-neoforge-1.21.1-2.0.0%2bbuild.38.jar",
+        "https://cdn.modrinth.com/data/X3RVoddI/versions/sQZTXqy6/middle_key_ping-neoforge-1.21.1-2.0.0%2Bbuild.38.jar",
+        "https://mod.mcimirror.top/data/X3RVoddI/versions/sQZTXqy6/middle_key_ping-neoforge-1.21.1-2.0.0%2Bbuild.38.jar",
         "https://edge.forgecdn.net/files/7976/541/middle_key_ping-neoforge-1.21.1-2.0.0%2bbuild.38.jar",
-        "https://cdn.modrinth.com/data/X3RVoddI/versions/sQZTXqy6/middle_key_ping-neoforge-1.21.1-2.0.0%2Bbuild.38.jar"
+        "https://mediafilez.forgecdn.net/files/7976/541/middle_key_ping-neoforge-1.21.1-2.0.0%2bbuild.38.jar",
+        "https://mod.mcimirror.top/files/7976/541/middle_key_ping-neoforge-1.21.1-2.0.0%2bbuild.38.jar"
       ],
       "fileSize": 985318
     },
@@ -153,9 +165,11 @@
         "sha512": "2d16064b7cbbc1ef829c731d7ede5c680709ac6fe808c5bf2122443aa17862f86860b9d61f42b39847bebe6dfff42b883696503b986a9c88c5b6dfa82cd5d0fe"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8029/219/MyNethersDelight-1.21.1-1.10.2.jar",
+        "https://cdn.modrinth.com/data/O53VhQoZ/versions/qBUSJw5Z/MyNethersDelight-1.21.1-1.10.2.jar",
+        "https://mod.mcimirror.top/data/O53VhQoZ/versions/qBUSJw5Z/MyNethersDelight-1.21.1-1.10.2.jar",
         "https://edge.forgecdn.net/files/8029/219/MyNethersDelight-1.21.1-1.10.2.jar",
-        "https://cdn.modrinth.com/data/O53VhQoZ/versions/qBUSJw5Z/MyNethersDelight-1.21.1-1.10.2.jar"
+        "https://mediafilez.forgecdn.net/files/8029/219/MyNethersDelight-1.21.1-1.10.2.jar",
+        "https://mod.mcimirror.top/files/8029/219/MyNethersDelight-1.21.1-1.10.2.jar"
       ],
       "fileSize": 825875
     },
@@ -166,9 +180,11 @@
         "sha512": "c36b4a7ac0d55bf18506846ae01dbfb3d89b9333d334d309319346b632aac55441240f8b766ab52b1e497d96d47a5ad8d357af7f5a763473f05ce0fe1b861814"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6180/429/ends_delight-2.5.1%2bneoforge.1.21.1.jar",
+        "https://cdn.modrinth.com/data/yHN0njMr/versions/YxSK1qNm/ends_delight-2.5.1%2Bneoforge.1.21.1.jar",
+        "https://mod.mcimirror.top/data/yHN0njMr/versions/YxSK1qNm/ends_delight-2.5.1%2Bneoforge.1.21.1.jar",
         "https://edge.forgecdn.net/files/6180/429/ends_delight-2.5.1%2bneoforge.1.21.1.jar",
-        "https://cdn.modrinth.com/data/yHN0njMr/versions/YxSK1qNm/ends_delight-2.5.1%2Bneoforge.1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6180/429/ends_delight-2.5.1%2bneoforge.1.21.1.jar",
+        "https://mod.mcimirror.top/files/6180/429/ends_delight-2.5.1%2bneoforge.1.21.1.jar"
       ],
       "fileSize": 263222
     },
@@ -179,9 +195,11 @@
         "sha512": "bc1618b6c9d38386f4df4c60ef1cc18447b9967ac7ca30e9012c7f771d2f6098c1873a9a974c8b728110e68e5561e25ba9b1e047c6373a1c3191aae825001e41"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7024/451/cratedelight-25.09.22-1.21-neoforge.jar",
+        "https://cdn.modrinth.com/data/9rlXSyLg/versions/YYynf5qc/cratedelight-25.09.22-1.21-neoforge.jar",
+        "https://mod.mcimirror.top/data/9rlXSyLg/versions/YYynf5qc/cratedelight-25.09.22-1.21-neoforge.jar",
         "https://edge.forgecdn.net/files/7024/451/cratedelight-25.09.22-1.21-neoforge.jar",
-        "https://cdn.modrinth.com/data/9rlXSyLg/versions/YYynf5qc/cratedelight-25.09.22-1.21-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/7024/451/cratedelight-25.09.22-1.21-neoforge.jar",
+        "https://mod.mcimirror.top/files/7024/451/cratedelight-25.09.22-1.21-neoforge.jar"
       ],
       "fileSize": 166931
     },
@@ -192,9 +210,11 @@
         "sha512": "596340db019049e8da066df13cedb76eb06a8e877c86fd10b38332317b5fd5001cad485a6de87e3a8bf0423d87a1ffbdd51a86f6c06560f40995d68fe05edf95"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8007/613/FarmersDelight-1.21.1-1.3.1.jar",
+        "https://cdn.modrinth.com/data/R2OftAxM/versions/9gp7w8NC/FarmersDelight-1.21.1-1.3.1.jar",
+        "https://mod.mcimirror.top/data/R2OftAxM/versions/9gp7w8NC/FarmersDelight-1.21.1-1.3.1.jar",
         "https://edge.forgecdn.net/files/8007/613/FarmersDelight-1.21.1-1.3.1.jar",
-        "https://cdn.modrinth.com/data/R2OftAxM/versions/9gp7w8NC/FarmersDelight-1.21.1-1.3.1.jar"
+        "https://mediafilez.forgecdn.net/files/8007/613/FarmersDelight-1.21.1-1.3.1.jar",
+        "https://mod.mcimirror.top/files/8007/613/FarmersDelight-1.21.1-1.3.1.jar"
       ],
       "fileSize": 3124506
     },
@@ -208,9 +228,11 @@
         "client": "optional"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5830/452/worldedit-mod-7.3.8.jar",
+        "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+        "https://mod.mcimirror.top/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
         "https://edge.forgecdn.net/files/5830/452/worldedit-mod-7.3.8.jar",
-        "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar"
+        "https://mediafilez.forgecdn.net/files/5830/452/worldedit-mod-7.3.8.jar",
+        "https://mod.mcimirror.top/files/5830/452/worldedit-mod-7.3.8.jar"
       ],
       "fileSize": 6222854
     },
@@ -221,9 +243,11 @@
         "sha512": "65e3664953385d880320dd6bb818bcb96d361c07c53e2a7f65e64c6a47720ee26b233224ae9cad465ef0b2bbaefdaf30fb0175a983cecd91de058817d6fcf57e"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
+        "https://mod.mcimirror.top/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar",
         "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
-        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ZxYGwlk0/architectury-13.0.8-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar",
+        "https://mod.mcimirror.top/files/5786/327/architectury-13.0.8-neoforge.jar"
       ],
       "fileSize": 584004
     },
@@ -234,9 +258,11 @@
         "sha512": "3def04f7f11ba743516594b69250ca7c54c11e0c4ffeeb718bfd9736096bfb25768642eb210f6cf716f33b8c12faf2e998df2db98cf495f0527620e8bec80a79"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+        "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+        "https://mod.mcimirror.top/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar",
         "https://edge.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
-        "https://cdn.modrinth.com/data/OfKzpbRU/versions/guIAbyuH/baguettelib-1.21.1-NeoForge-2.0.3.jar"
+        "https://mediafilez.forgecdn.net/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+        "https://mod.mcimirror.top/files/7880/467/baguettelib-1.21.1-NeoForge-2.0.3.jar"
       ],
       "fileSize": 74380
     },
@@ -247,9 +273,11 @@
         "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+        "https://mod.mcimirror.top/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
         "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
-        "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+        "https://mod.mcimirror.top/files/5729/127/cloth-config-15.0.140-neoforge.jar"
       ],
       "fileSize": 1163890
     },
@@ -260,9 +288,11 @@
         "sha512": "3d0168a9189adf81002533421d183d83f75c30523be5499416ee430288e10175df0d43027435600f4c49d5fffffd0f78b86b2bef5bd67f82b1c494ba2f8b5536"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7666/569/Kiwi-1.21.1-NeoForge-15.8.3.jar",
+        "https://cdn.modrinth.com/data/ufdDoWPd/versions/2flHQIzv/Kiwi-1.21.1-NeoForge-15.8.3.jar",
+        "https://mod.mcimirror.top/data/ufdDoWPd/versions/2flHQIzv/Kiwi-1.21.1-NeoForge-15.8.3.jar",
         "https://edge.forgecdn.net/files/7666/569/Kiwi-1.21.1-NeoForge-15.8.3.jar",
-        "https://cdn.modrinth.com/data/ufdDoWPd/versions/2flHQIzv/Kiwi-1.21.1-NeoForge-15.8.3.jar"
+        "https://mediafilez.forgecdn.net/files/7666/569/Kiwi-1.21.1-NeoForge-15.8.3.jar",
+        "https://mod.mcimirror.top/files/7666/569/Kiwi-1.21.1-NeoForge-15.8.3.jar"
       ],
       "fileSize": 1538356
     },
@@ -273,9 +303,11 @@
         "sha512": "d55d442c233d4d993aa30e0f281fd9c49579bd955c6d63460786b7687bff0b7be4e5ff5a7095d58cdb6c1de0ee8ff4d7465eee65757e3823ef1cec356051ed57"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8056/160/lithostitched-1.7.3-neoforge-21.1.jar",
+        "https://cdn.modrinth.com/data/XaDC71GB/versions/3yrFEAmj/lithostitched-1.7.3-neoforge-21.1.jar",
+        "https://mod.mcimirror.top/data/XaDC71GB/versions/3yrFEAmj/lithostitched-1.7.3-neoforge-21.1.jar",
         "https://edge.forgecdn.net/files/8056/160/lithostitched-1.7.3-neoforge-21.1.jar",
-        "https://cdn.modrinth.com/data/XaDC71GB/versions/3yrFEAmj/lithostitched-1.7.3-neoforge-21.1.jar"
+        "https://mediafilez.forgecdn.net/files/8056/160/lithostitched-1.7.3-neoforge-21.1.jar",
+        "https://mod.mcimirror.top/files/8056/160/lithostitched-1.7.3-neoforge-21.1.jar"
       ],
       "fileSize": 821956
     },
@@ -286,9 +318,11 @@
         "sha512": "6638860a9273ff656095a5c7de0c029ae2eb48928fcabe7b0f240e74d9bfa28d9c8da04f08cefdbe3feba682efbd46f887a80474b54c2d698f643db9f4477807"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7226/648/mechanicals-1.21.1-1.1.0.jar",
+        "https://cdn.modrinth.com/data/ProvjTA7/versions/z9HvpJMU/mechanicals-1.21.1-1.1.0.jar",
+        "https://mod.mcimirror.top/data/ProvjTA7/versions/z9HvpJMU/mechanicals-1.21.1-1.1.0.jar",
         "https://edge.forgecdn.net/files/7226/648/mechanicals-1.21.1-1.1.0.jar",
-        "https://cdn.modrinth.com/data/ProvjTA7/versions/z9HvpJMU/mechanicals-1.21.1-1.1.0.jar"
+        "https://mediafilez.forgecdn.net/files/7226/648/mechanicals-1.21.1-1.1.0.jar",
+        "https://mod.mcimirror.top/files/7226/648/mechanicals-1.21.1-1.1.0.jar"
       ],
       "fileSize": 507824
     },
@@ -299,9 +333,11 @@
         "sha512": "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
+        "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+        "https://mod.mcimirror.top/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
         "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
-        "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar",
+        "https://mod.mcimirror.top/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar"
       ],
       "fileSize": 1118651
     },
@@ -312,9 +348,11 @@
         "sha512": "a02d3f2bfd8aa099512005df23b45ec723694c397b4224a69ffd47b41cd06bb3d56a0f10bbfd81e8159e0fc55f61d0729656f91231410a74ed55e6fc16fd18ec"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7903/156/tectonic-3.0.22-neoforge-21.1.jar",
+        "https://cdn.modrinth.com/data/lWDHr9jE/versions/iCGkqnnx/tectonic-3.0.22-neoforge-21.1.jar",
+        "https://mod.mcimirror.top/data/lWDHr9jE/versions/iCGkqnnx/tectonic-3.0.22-neoforge-21.1.jar",
         "https://edge.forgecdn.net/files/7903/156/tectonic-3.0.22-neoforge-21.1.jar",
-        "https://cdn.modrinth.com/data/lWDHr9jE/versions/iCGkqnnx/tectonic-3.0.22-neoforge-21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7903/156/tectonic-3.0.22-neoforge-21.1.jar",
+        "https://mod.mcimirror.top/files/7903/156/tectonic-3.0.22-neoforge-21.1.jar"
       ],
       "fileSize": 337253
     },
@@ -325,9 +363,11 @@
         "sha512": "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar",
+        "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+        "https://mod.mcimirror.top/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar",
         "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar",
-        "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar",
+        "https://mod.mcimirror.top/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar"
       ],
       "fileSize": 174972
     },
@@ -338,9 +378,11 @@
         "sha512": "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar",
+        "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar",
+        "https://mod.mcimirror.top/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar",
         "https://edge.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar",
-        "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
+        "https://mediafilez.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar",
+        "https://mod.mcimirror.top/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar"
       ],
       "fileSize": 646777
     },
@@ -351,9 +393,11 @@
         "sha512": "c7bfb9f105eeb1ee94712a496006b679d7056a95f2b7109c5e2558b577850dafa454aa80b0b706c0e592ce3411c342f84c0e8fbb2e658e572de2948fc74e173f"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5734/403/HorBaaaar-0.2.0.jar",
+        "https://cdn.modrinth.com/data/3Fg1pSC5/versions/AuK1RRdk/HorBaaaar-0.2.0.jar",
+        "https://mod.mcimirror.top/data/3Fg1pSC5/versions/AuK1RRdk/HorBaaaar-0.2.0.jar",
         "https://edge.forgecdn.net/files/5734/403/HorBaaaar-0.2.0.jar",
-        "https://cdn.modrinth.com/data/3Fg1pSC5/versions/AuK1RRdk/HorBaaaar-0.2.0.jar"
+        "https://mediafilez.forgecdn.net/files/5734/403/HorBaaaar-0.2.0.jar",
+        "https://mod.mcimirror.top/files/5734/403/HorBaaaar-0.2.0.jar"
       ],
       "fileSize": 17179
     },
@@ -364,9 +408,11 @@
         "sha512": "217ea855795936973d7f4d689b9397e7edc1ffea179fb6483037e87b64e129fe65ca3b2f37846a0696d1df91856837d5fb238e27f2d8c0fd1504581697161d5a"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8051/104/displaydelight-1.6.0.jar",
+        "https://cdn.modrinth.com/data/yXepZhp8/versions/LhcOrDyJ/displaydelight-1.6.0.jar",
+        "https://mod.mcimirror.top/data/yXepZhp8/versions/LhcOrDyJ/displaydelight-1.6.0.jar",
         "https://edge.forgecdn.net/files/8051/104/displaydelight-1.6.0.jar",
-        "https://cdn.modrinth.com/data/yXepZhp8/versions/LhcOrDyJ/displaydelight-1.6.0.jar"
+        "https://mediafilez.forgecdn.net/files/8051/104/displaydelight-1.6.0.jar",
+        "https://mod.mcimirror.top/files/8051/104/displaydelight-1.6.0.jar"
       ],
       "fileSize": 1050007
     },
@@ -377,8 +423,9 @@
         "sha512": "fdfcaddd6b23643beb35199ef0550a4159feecb7fa84f6ba272c0e30589d07b4a89d8fa11d4205f9231e8a6e47febca292f75c6ffa2a72060131aa5b5bb4e01c"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/8012/314/smsn-neoforge-1.4.1-1.21.1.jar",
         "https://mediafilez.forgecdn.net/files/8012/314/smsn-neoforge-1.4.1-1.21.1.jar",
-        "https://edge.forgecdn.net/files/8012/314/smsn-neoforge-1.4.1-1.21.1.jar"
+        "https://mod.mcimirror.top/files/8012/314/smsn-neoforge-1.4.1-1.21.1.jar"
       ],
       "fileSize": 115237
     },
@@ -389,7 +436,8 @@
         "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+        "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+        "https://mod.mcimirror.top/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
       ],
       "fileSize": 19123767
     },
@@ -400,9 +448,11 @@
         "sha512": "147a2d2067918e8e3a70565c7f9a3a08c7040aedf767d31bc646343d2ef3701e3eab1bb4681a4adde1e8c7f8068daeb3170db575edfbc129fa09718d7ac7bc98"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
+        "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar",
+        "https://mod.mcimirror.top/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar",
         "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
-        "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar"
+        "https://mediafilez.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
+        "https://mod.mcimirror.top/files/7591/460/bits_n_bobs-0.0.44.jar"
       ],
       "fileSize": 1613264
     },
@@ -426,9 +476,11 @@
         "sha512": "adcdb5a85b2dd727fa2b0563aa9e73d26b58ee3ae57192e049f0c2a1e4a878dc9d07fe20589f6e52e6f4be2ba1bb5ab3a64f5fcf5f1f9a42b9518e7c2380fd23"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8023/674/create-central-kitchen-2.4.0.jar",
+        "https://cdn.modrinth.com/data/btq68HMO/versions/TUJIHmUh/create-central-kitchen-2.4.0.jar",
+        "https://mod.mcimirror.top/data/btq68HMO/versions/TUJIHmUh/create-central-kitchen-2.4.0.jar",
         "https://edge.forgecdn.net/files/8023/674/create-central-kitchen-2.4.0.jar",
-        "https://cdn.modrinth.com/data/btq68HMO/versions/TUJIHmUh/create-central-kitchen-2.4.0.jar"
+        "https://mediafilez.forgecdn.net/files/8023/674/create-central-kitchen-2.4.0.jar",
+        "https://mod.mcimirror.top/files/8023/674/create-central-kitchen-2.4.0.jar"
       ],
       "fileSize": 342464
     },
@@ -439,9 +491,11 @@
         "sha512": "6eaf42758446093c1923a9c325b955f7ec38933bc0b271559547b73b7dc9950e47a8256ca6f9baf13389ccc349da05a9e32d0f77e71a5f5b2c37080f3773148f"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar",
+        "https://cdn.modrinth.com/data/WROfLLvn/versions/K3nIvcWT/trading_floor-3.0.16.jar",
+        "https://mod.mcimirror.top/data/WROfLLvn/versions/K3nIvcWT/trading_floor-3.0.16.jar",
         "https://edge.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar",
-        "https://cdn.modrinth.com/data/WROfLLvn/versions/K3nIvcWT/trading_floor-3.0.16.jar"
+        "https://mediafilez.forgecdn.net/files/7625/579/trading_floor-3.0.16.jar",
+        "https://mod.mcimirror.top/files/7625/579/trading_floor-3.0.16.jar"
       ],
       "fileSize": 214343
     },
@@ -452,9 +506,11 @@
         "sha512": "0dafe82438143270a762f9bfff3483c56e85a5db0bb382dba15302b6d6f6a886f252dee42fca08fb46c7a76eb9401f90430d41994b20133e9c009d5b876b8bb5"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7999/916/powergrid-mc1.21.1-0.5.5.1.jar",
+        "https://cdn.modrinth.com/data/eWiBLJ9R/versions/8EtGIOFr/powergrid-mc1.21.1-0.5.5.1.jar",
+        "https://mod.mcimirror.top/data/eWiBLJ9R/versions/8EtGIOFr/powergrid-mc1.21.1-0.5.5.1.jar",
         "https://edge.forgecdn.net/files/7999/916/powergrid-mc1.21.1-0.5.5.1.jar",
-        "https://cdn.modrinth.com/data/eWiBLJ9R/versions/8EtGIOFr/powergrid-mc1.21.1-0.5.5.1.jar"
+        "https://mediafilez.forgecdn.net/files/7999/916/powergrid-mc1.21.1-0.5.5.1.jar",
+        "https://mod.mcimirror.top/files/7999/916/powergrid-mc1.21.1-0.5.5.1.jar"
       ],
       "fileSize": 6252168
     },
@@ -465,9 +521,11 @@
         "sha512": "ecc98e659be66a71af0aee66a9f4c7c8838f4f0101402644929079ce7280a572a000e7e417905e1869a51d6e49ebbd601008f54585e07ee4ed01f2c4bc752bfe"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7251/823/copycats-3.0.4%2bmc.1.21.1-neoforge.jar",
+        "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+        "https://mod.mcimirror.top/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
         "https://edge.forgecdn.net/files/7251/823/copycats-3.0.4%2bmc.1.21.1-neoforge.jar",
-        "https://cdn.modrinth.com/data/UT2M39wf/versions/kecZ0sl7/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/7251/823/copycats-3.0.4%2bmc.1.21.1-neoforge.jar",
+        "https://mod.mcimirror.top/files/7251/823/copycats-3.0.4%2bmc.1.21.1-neoforge.jar"
       ],
       "fileSize": 1791747
     },
@@ -478,9 +536,11 @@
         "sha512": "77741f2b77426bb24607221ea98e544280a81ba74cadb77334c3d0911f8ffbf63d3d3f268d435c1c1e0e5794cfc33f7fbb5fc0e43ba7a89098b4a97aa4396987"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7471/348/create_bb-1.0.7-1.21.1-Neoforge.jar",
+        "https://cdn.modrinth.com/data/j4ARnQwY/versions/rUu97B0K/create_bb-1.0.7-1.21.1-Neoforge.jar",
+        "https://mod.mcimirror.top/data/j4ARnQwY/versions/rUu97B0K/create_bb-1.0.7-1.21.1-Neoforge.jar",
         "https://edge.forgecdn.net/files/7471/348/create_bb-1.0.7-1.21.1-Neoforge.jar",
-        "https://cdn.modrinth.com/data/j4ARnQwY/versions/rUu97B0K/create_bb-1.0.7-1.21.1-Neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/7471/348/create_bb-1.0.7-1.21.1-Neoforge.jar",
+        "https://mod.mcimirror.top/files/7471/348/create_bb-1.0.7-1.21.1-Neoforge.jar"
       ],
       "fileSize": 2613213
     },
@@ -491,9 +551,11 @@
         "sha512": "22522c86d5ca798c9ee9f3c20f18f540be125fa1c76d736d1c2e876a31469b5ee61eef27829e7b69f16940675186519448f6b4978635b6010db1422da8edca0d"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
+        "https://cdn.modrinth.com/data/kU1G12Nn/versions/CP8Lhuwu/createaddition-1.5.10.jar",
+        "https://mod.mcimirror.top/data/kU1G12Nn/versions/CP8Lhuwu/createaddition-1.5.10.jar",
         "https://edge.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
-        "https://cdn.modrinth.com/data/kU1G12Nn/versions/CP8Lhuwu/createaddition-1.5.10.jar"
+        "https://mediafilez.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
+        "https://mod.mcimirror.top/files/7518/252/createaddition-1.5.10.jar"
       ],
       "fileSize": 1595173
     },
@@ -517,9 +579,11 @@
         "sha512": "5a642e6b13783c490e0d0f5c6da9c456f0fdb2edbda3e257145c57b301ce21e77ef8bd9a35eb9c3e829fe9b18cd5b46e870a67541b85f9ebb8b87da2f2756314"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7226/764/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
+        "https://cdn.modrinth.com/data/T1hmeGi9/versions/WlsTiEVK/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
+        "https://mod.mcimirror.top/data/T1hmeGi9/versions/WlsTiEVK/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
         "https://edge.forgecdn.net/files/7226/764/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
-        "https://cdn.modrinth.com/data/T1hmeGi9/versions/WlsTiEVK/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar"
+        "https://mediafilez.forgecdn.net/files/7226/764/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar",
+        "https://mod.mcimirror.top/files/7226/764/create_mechanical_spawner-1.21.1-1.3.0-6.0.8.jar"
       ],
       "fileSize": 1216413
     },
@@ -530,7 +594,8 @@
         "sha512": "599c0b65ec63202d23b3c61965b3e3267e7c31eeeb094b55c1c5bbf171002f740c3cbf54e8d6097537fd049f0a6bd7c54d534dbfcc336353d9f72e47e8a241a8"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/wPQ6GgFE/versions/MX6Eqw1t/create_power_loader-2.0.4-mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/wPQ6GgFE/versions/MX6Eqw1t/create_power_loader-2.0.4-mc1.21.1.jar",
+        "https://mod.mcimirror.top/data/wPQ6GgFE/versions/MX6Eqw1t/create_power_loader-2.0.4-mc1.21.1.jar"
       ],
       "fileSize": 439565
     },
@@ -541,8 +606,9 @@
         "sha512": "a4320a761319791a940aca07bc04d1eefcc3d812f5d9d40195b6d5a5e3a92c3172c2471f8721bd87699e6c2d897e79a70b7002c44d2b1e0478af0bbe9a8ad248"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7724/290/mechanicalmillstone-1.0.1-fix-1.21.1-neoforge.jar",
         "https://mediafilez.forgecdn.net/files/7724/290/mechanicalmillstone-1.0.1-fix-1.21.1-neoforge.jar",
-        "https://edge.forgecdn.net/files/7724/290/mechanicalmillstone-1.0.1-fix-1.21.1-neoforge.jar"
+        "https://mod.mcimirror.top/files/7724/290/mechanicalmillstone-1.0.1-fix-1.21.1-neoforge.jar"
       ],
       "fileSize": 31666
     },
@@ -553,8 +619,9 @@
         "sha512": "343d88caeb12c4e3ab73a3e0f8888259c9c786a187ba7de4ea297cedb4f992ce91ab9d60377c11e9d8e56fc8d40859b585e0b2cf9d69dc6674bae604e00e5ad3"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/8018/192/cugmod-0.0.4.jar",
         "https://mediafilez.forgecdn.net/files/8018/192/cugmod-0.0.4.jar",
-        "https://edge.forgecdn.net/files/8018/192/cugmod-0.0.4.jar"
+        "https://mod.mcimirror.top/files/8018/192/cugmod-0.0.4.jar"
       ],
       "fileSize": 1734475
     },
@@ -565,9 +632,11 @@
         "sha512": "2ae034cf410896460d09dd109ae9799d118ef23f3984eafb9d4c4a06dae32674fd6b2ab40c9e87a4116d58f3e5e0af5a26414d89baf1f295d775db9d45463db7"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8016/758/alloyed-3.0.9%2b1.21.1-neoforge.jar",
+        "https://cdn.modrinth.com/data/KUInlTFo/versions/mhmFlajn/alloyed-3.0.9%2B1.21.1-neoforge.jar",
+        "https://mod.mcimirror.top/data/KUInlTFo/versions/mhmFlajn/alloyed-3.0.9%2B1.21.1-neoforge.jar",
         "https://edge.forgecdn.net/files/8016/758/alloyed-3.0.9%2b1.21.1-neoforge.jar",
-        "https://cdn.modrinth.com/data/KUInlTFo/versions/mhmFlajn/alloyed-3.0.9%2B1.21.1-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/8016/758/alloyed-3.0.9%2b1.21.1-neoforge.jar",
+        "https://mod.mcimirror.top/files/8016/758/alloyed-3.0.9%2b1.21.1-neoforge.jar"
       ],
       "fileSize": 873568
     },
@@ -578,9 +647,11 @@
         "sha512": "d3d8bca23bc78de0efaef44da0dff5d6d441aad8797ac1aa85bcd4e35f6e2da41bb4faf78a6da74796f84b205fe6943781bdd2d9ce489fa38ed63501eb919f5a"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7285/435/create_jetpack-forge-5.1.2.jar",
+        "https://cdn.modrinth.com/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar",
+        "https://mod.mcimirror.top/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar",
         "https://edge.forgecdn.net/files/7285/435/create_jetpack-forge-5.1.2.jar",
-        "https://cdn.modrinth.com/data/UbFnAd4l/versions/4Ndp4d21/create_jetpack-forge-5.1.2.jar"
+        "https://mediafilez.forgecdn.net/files/7285/435/create_jetpack-forge-5.1.2.jar",
+        "https://mod.mcimirror.top/files/7285/435/create_jetpack-forge-5.1.2.jar"
       ],
       "fileSize": 481239
     },
@@ -591,9 +662,11 @@
         "sha512": "93511d32e8c7484fdcfd90646d48f297ba3188788e0ea6412900be38ae6b82e69bc131bbb011519b52ac0728a7dfd531c0ac356a7935335c06f691ad20e38c69"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7208/558/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+        "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+        "https://mod.mcimirror.top/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
         "https://edge.forgecdn.net/files/7208/558/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
-        "https://cdn.modrinth.com/data/RYJzdkDr/versions/ry1hvo4l/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
+        "https://mediafilez.forgecdn.net/files/7208/558/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+        "https://mod.mcimirror.top/files/7208/558/createthreadedtrains-neoforge-1.21.1-1.0.0.jar"
       ],
       "fileSize": 77249
     },
@@ -604,9 +677,11 @@
         "sha512": "5891c791e8764d5d1e572609e3e58a7798a416db37aa6b0be39e73d94c0128f19ab28477a85bdc3fa3c1f3fc162b34c3a3872dc9dc1ca0e89898b6f6a757df65"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6500/715/packagerspsic-1.0.0.jar",
+        "https://cdn.modrinth.com/data/MAWWVb2i/versions/e7XZY6Md/packagerspsic-1.0.0.jar",
+        "https://mod.mcimirror.top/data/MAWWVb2i/versions/e7XZY6Md/packagerspsic-1.0.0.jar",
         "https://edge.forgecdn.net/files/6500/715/packagerspsic-1.0.0.jar",
-        "https://cdn.modrinth.com/data/MAWWVb2i/versions/e7XZY6Md/packagerspsic-1.0.0.jar"
+        "https://mediafilez.forgecdn.net/files/6500/715/packagerspsic-1.0.0.jar",
+        "https://mod.mcimirror.top/files/6500/715/packagerspsic-1.0.0.jar"
       ],
       "fileSize": 62440
     },
@@ -617,9 +692,11 @@
         "sha512": "777cf4c533eba723baea1ef1fffcd2d47c8f4f8238ddc360973b41ae4946f7e733a24542a3691c4a1be2f41e55b07675f9ccfa633be186e72d11911ca67fa412"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar",
+        "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar",
+        "https://mod.mcimirror.top/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar",
         "https://edge.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar",
-        "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar"
+        "https://mediafilez.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar",
+        "https://mod.mcimirror.top/files/7951/368/createbetterfps-1.21.1-1.1.4.jar"
       ],
       "fileSize": 26547
     },
@@ -630,9 +707,11 @@
         "sha512": "f17dab936aa29a8a3583e2813a995ed080f28d9955f1644d2888d9b40a9d43e7224ae024b2161698ca6bf94dfbf026db74d688baf8ecda5479e120d36d14efed"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7869/591/createdieselgenerators-1.21.1-1.3.11.jar",
+        "https://cdn.modrinth.com/data/ZM3tt6p1/versions/uxgzKkcD/createdieselgenerators-1.21.1-1.3.11.jar",
+        "https://mod.mcimirror.top/data/ZM3tt6p1/versions/uxgzKkcD/createdieselgenerators-1.21.1-1.3.11.jar",
         "https://edge.forgecdn.net/files/7869/591/createdieselgenerators-1.21.1-1.3.11.jar",
-        "https://cdn.modrinth.com/data/ZM3tt6p1/versions/uxgzKkcD/createdieselgenerators-1.21.1-1.3.11.jar"
+        "https://mediafilez.forgecdn.net/files/7869/591/createdieselgenerators-1.21.1-1.3.11.jar",
+        "https://mod.mcimirror.top/files/7869/591/createdieselgenerators-1.21.1-1.3.11.jar"
       ],
       "fileSize": 3132480
     },
@@ -643,9 +722,11 @@
         "sha512": "c55e7d708aab59990ea123b32b5ecca3cdd8a0409e441257e87ac2bc414c15a4976ed06fb4aea3f4c216c4951f519295bb111c896642fd80520bcfc9227e24ee"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7155/413/create_pattern_schematics-2.0.10.jar",
+        "https://cdn.modrinth.com/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar",
+        "https://mod.mcimirror.top/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar",
         "https://edge.forgecdn.net/files/7155/413/create_pattern_schematics-2.0.10.jar",
-        "https://cdn.modrinth.com/data/cpqKG67r/versions/VSJhIkG2/create_pattern_schematics-2.0.10.jar"
+        "https://mediafilez.forgecdn.net/files/7155/413/create_pattern_schematics-2.0.10.jar",
+        "https://mod.mcimirror.top/files/7155/413/create_pattern_schematics-2.0.10.jar"
       ],
       "fileSize": 221764
     },
@@ -656,9 +737,11 @@
         "sha512": "e5ee20903fed9894a5d7d197fd0c1c8aabc3ff024f13e24a71777257ec20b2703ee2a7c1e091bd88f0878f3821afb6e08e0094d74208e3bd74d244d0401e4095"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7919/366/railways-0.2.0-beta.2%2bneoforge-mc1.21.1.jar",
+        "https://cdn.modrinth.com/data/L3Jv0QZI/versions/dZa50kut/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar",
+        "https://mod.mcimirror.top/data/L3Jv0QZI/versions/dZa50kut/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar",
         "https://edge.forgecdn.net/files/7919/366/railways-0.2.0-beta.2%2bneoforge-mc1.21.1.jar",
-        "https://cdn.modrinth.com/data/L3Jv0QZI/versions/dZa50kut/railways-0.2.0-beta.2%2Bneoforge-mc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7919/366/railways-0.2.0-beta.2%2bneoforge-mc1.21.1.jar",
+        "https://mod.mcimirror.top/files/7919/366/railways-0.2.0-beta.2%2bneoforge-mc1.21.1.jar"
       ],
       "fileSize": 11904503
     },
@@ -669,9 +752,11 @@
         "sha512": "58355044261db8e0483037bc42c8661b1487d6077e49d0b2dd5183001977174d1dd23d60761ba1f2dcd746228fb665277ca179bc4dc0f5af8175939a097851c6"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7952/693/create_bic_bit-1.0.2C.jar",
+        "https://cdn.modrinth.com/data/16DuAG4k/versions/15wUZ9Rw/create_bic_bit-1.0.2C.jar",
+        "https://mod.mcimirror.top/data/16DuAG4k/versions/15wUZ9Rw/create_bic_bit-1.0.2C.jar",
         "https://edge.forgecdn.net/files/7952/693/create_bic_bit-1.0.2C.jar",
-        "https://cdn.modrinth.com/data/16DuAG4k/versions/15wUZ9Rw/create_bic_bit-1.0.2C.jar"
+        "https://mediafilez.forgecdn.net/files/7952/693/create_bic_bit-1.0.2C.jar",
+        "https://mod.mcimirror.top/files/7952/693/create_bic_bit-1.0.2C.jar"
       ],
       "fileSize": 395943
     },
@@ -697,9 +782,11 @@
         "sha512": "01a8995f09105e1c4cfe001a4674c208c3ed0e82a7612ea3891b2482a9fcbe1ccec185125cf40fd5802d153bbed5f1d7a057aefe40ba750476f3000936d3c71e"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6521/990/createliquidfuel-2.1.1-1.21.1.jar",
+        "https://cdn.modrinth.com/data/sH9tXU9f/versions/7oNrI3y9/createliquidfuel-2.1.1-1.21.1.jar",
+        "https://mod.mcimirror.top/data/sH9tXU9f/versions/7oNrI3y9/createliquidfuel-2.1.1-1.21.1.jar",
         "https://edge.forgecdn.net/files/6521/990/createliquidfuel-2.1.1-1.21.1.jar",
-        "https://cdn.modrinth.com/data/sH9tXU9f/versions/7oNrI3y9/createliquidfuel-2.1.1-1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6521/990/createliquidfuel-2.1.1-1.21.1.jar",
+        "https://mod.mcimirror.top/files/6521/990/createliquidfuel-2.1.1-1.21.1.jar"
       ],
       "fileSize": 18140
     },
@@ -710,9 +797,11 @@
         "sha512": "f75a8bbdc9fc67c09eac6d78e8ad92583a342d54ab70e91923c52cd9b42987765e9a84e43e9c3e175593982aed80fe960a96561d9cd1ed62c4c966818346b466"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8002/961/createbigcannons-5.11.3-mc.1.21.1.jar",
+        "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar",
+        "https://mod.mcimirror.top/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar",
         "https://edge.forgecdn.net/files/8002/961/createbigcannons-5.11.3-mc.1.21.1.jar",
-        "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/8002/961/createbigcannons-5.11.3-mc.1.21.1.jar",
+        "https://mod.mcimirror.top/files/8002/961/createbigcannons-5.11.3-mc.1.21.1.jar"
       ],
       "fileSize": 3715787
     },
@@ -723,9 +812,11 @@
         "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7587/771/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+        "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+        "https://mod.mcimirror.top/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
         "https://edge.forgecdn.net/files/7587/771/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
-        "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/7587/771/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+        "https://mod.mcimirror.top/files/7587/771/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
       ],
       "fileSize": 76369
     },
@@ -736,9 +827,11 @@
         "sha512": "3bd53097482e614dc4e5e635778af25020fa27c1c453d4928d1d8baa6767c93cb300810a5ac0c49af86813749a180e3f092ab2e65b07e7741c2b12aaebd47006"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6463/890/create_vibrant_vaults-0.3.2.jar",
+        "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar",
+        "https://mod.mcimirror.top/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar",
         "https://edge.forgecdn.net/files/6463/890/create_vibrant_vaults-0.3.2.jar",
-        "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar"
+        "https://mediafilez.forgecdn.net/files/6463/890/create_vibrant_vaults-0.3.2.jar",
+        "https://mod.mcimirror.top/files/6463/890/create_vibrant_vaults-0.3.2.jar"
       ],
       "fileSize": 2687938
     },
@@ -749,9 +842,11 @@
         "sha512": "0223a647558844c2a8c02ce63c78abade83f63013dbd4e09a5edbdb6e05a16f2c504f7328a113e5dca088cc112dc59f102f08e839ed1ebc5d9ed40a83481cb8a"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7460/280/createadditionallogistics-1.21.1-1.4.5.jar",
+        "https://cdn.modrinth.com/data/CZaz7aje/versions/soesZiME/createadditionallogistics-1.21.1-1.4.5.jar",
+        "https://mod.mcimirror.top/data/CZaz7aje/versions/soesZiME/createadditionallogistics-1.21.1-1.4.5.jar",
         "https://edge.forgecdn.net/files/7460/280/createadditionallogistics-1.21.1-1.4.5.jar",
-        "https://cdn.modrinth.com/data/CZaz7aje/versions/soesZiME/createadditionallogistics-1.21.1-1.4.5.jar"
+        "https://mediafilez.forgecdn.net/files/7460/280/createadditionallogistics-1.21.1-1.4.5.jar",
+        "https://mod.mcimirror.top/files/7460/280/createadditionallogistics-1.21.1-1.4.5.jar"
       ],
       "fileSize": 953230
     },
@@ -762,9 +857,11 @@
         "sha512": "844ae32ff0d22f4d3c83db3bae2f6edc0f74cd1a530f900bf18829838d5a354b1e439e52688416130d9fd9a52c3310458bbdbc7458f4c1c1d8ffb088ae802d32"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7199/305/createoreexcavation-1.21-1.6.8.jar",
+        "https://cdn.modrinth.com/data/ResbpANg/versions/tivxiPTo/createoreexcavation-1.21-1.6.8.jar",
+        "https://mod.mcimirror.top/data/ResbpANg/versions/tivxiPTo/createoreexcavation-1.21-1.6.8.jar",
         "https://edge.forgecdn.net/files/7199/305/createoreexcavation-1.21-1.6.8.jar",
-        "https://cdn.modrinth.com/data/ResbpANg/versions/tivxiPTo/createoreexcavation-1.21-1.6.8.jar"
+        "https://mediafilez.forgecdn.net/files/7199/305/createoreexcavation-1.21-1.6.8.jar",
+        "https://mod.mcimirror.top/files/7199/305/createoreexcavation-1.21-1.6.8.jar"
       ],
       "fileSize": 476990
     },
@@ -775,8 +872,9 @@
         "sha512": "7b85874a56a2f6d9dc0af18095ef62b65da4485ad183a9a668f10ec6f93a7600651ea0e04cbc197c267a4e9beaa7c0b3c02bf202e62714f4086ccfd2a58bd98d"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7974/820/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
         "https://mediafilez.forgecdn.net/files/7974/820/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
-        "https://edge.forgecdn.net/files/7974/820/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
+        "https://mod.mcimirror.top/files/7974/820/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
       ],
       "fileSize": 133451
     },
@@ -802,8 +900,9 @@
         "sha512": "1dce21c095761b6c93563d25ac9f3a5e52d19b8f6694104a89d5fc8c3c8a4f726b1a8d497aa3f02c3632df38192b52ea9411717c0ba5271cd3363ded2540c152"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar",
         "https://mediafilez.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar",
-        "https://edge.forgecdn.net/files/8069/135/escalated-1.3.0-mc.1.21.1.jar"
+        "https://mod.mcimirror.top/files/8069/135/escalated-1.3.0-mc.1.21.1.jar"
       ],
       "fileSize": 511143
     },
@@ -814,7 +913,8 @@
         "sha512": "dfd0f7e343bf5232a43eea440ff0734db80ca011121d461b22a9247e46a9a3377a2fe0f78cfb84986e92ce4b9f3ccc7c630d452396ce9c615d741e21c6e9e4c3"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/WNRCHiE5/versions/g0PyoRas/create-extended-wrenches-1.21.1-2.0.2.jar"
+        "https://cdn.modrinth.com/data/WNRCHiE5/versions/g0PyoRas/create-extended-wrenches-1.21.1-2.0.2.jar",
+        "https://mod.mcimirror.top/data/WNRCHiE5/versions/g0PyoRas/create-extended-wrenches-1.21.1-2.0.2.jar"
       ],
       "fileSize": 401219
     },
@@ -825,9 +925,11 @@
         "sha512": "085d39aa321acdc898e40a8c4a848559084f1cde7cc991c0e2d6dd33d84a051cd2c9fa20d6c2171d4ced4a8a1fffb4482b15f91fef2355592046349d867e709f"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8077/179/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar",
+        "https://cdn.modrinth.com/data/TlQAWQCY/versions/I3QLu0Rf/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar",
+        "https://mod.mcimirror.top/data/TlQAWQCY/versions/I3QLu0Rf/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar",
         "https://edge.forgecdn.net/files/8077/179/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar",
-        "https://cdn.modrinth.com/data/TlQAWQCY/versions/I3QLu0Rf/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar"
+        "https://mediafilez.forgecdn.net/files/8077/179/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar",
+        "https://mod.mcimirror.top/files/8077/179/CreateCyberGoggles-1.21.1-7.6.1-NeoForge.jar"
       ],
       "fileSize": 456305
     },
@@ -838,9 +940,11 @@
         "sha512": "6f0d365b6cd55ffd4694c8f46c485428385995e5ddc709c89ac59adc838b57b4234506291beba6d346ce224f0dc5345ea5c546aed6d7dcd723ca1a1f5dd695ff"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7948/263/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+        "https://cdn.modrinth.com/data/ATDdrG1y/versions/SdEofplJ/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+        "https://mod.mcimirror.top/data/ATDdrG1y/versions/SdEofplJ/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
         "https://edge.forgecdn.net/files/7948/263/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
-        "https://cdn.modrinth.com/data/ATDdrG1y/versions/SdEofplJ/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar"
+        "https://mediafilez.forgecdn.net/files/7948/263/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+        "https://mod.mcimirror.top/files/7948/263/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar"
       ],
       "fileSize": 423111
     },
@@ -851,9 +955,11 @@
         "sha512": "0e83fef0ae333a2bad9cff09cb661d72c0ab48a5b8a97a06c946d54da1eb967b7bd532e780845ff62d19f3bb094daed07f63daec7c1caaa1aeb5050ec4bfcd7c"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7970/748/create-enchantment-industry-2.3.1.jar",
+        "https://cdn.modrinth.com/data/JWGBpFUP/versions/zjSKnkVT/create-enchantment-industry-2.3.1.jar",
+        "https://mod.mcimirror.top/data/JWGBpFUP/versions/zjSKnkVT/create-enchantment-industry-2.3.1.jar",
         "https://edge.forgecdn.net/files/7970/748/create-enchantment-industry-2.3.1.jar",
-        "https://cdn.modrinth.com/data/JWGBpFUP/versions/zjSKnkVT/create-enchantment-industry-2.3.1.jar"
+        "https://mediafilez.forgecdn.net/files/7970/748/create-enchantment-industry-2.3.1.jar",
+        "https://mod.mcimirror.top/files/7970/748/create-enchantment-industry-2.3.1.jar"
       ],
       "fileSize": 684729
     },
@@ -864,9 +970,11 @@
         "sha512": "eb1c1d314e6651dea81d3433b16160034c71ab218328c086bc844febbb23524f09495a6e489c8834889d46ba264cca26283c0ab82a389af3e3659c031275fd69"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7957/107/create-integrated-farming-1.2.2.jar",
+        "https://cdn.modrinth.com/data/9k1pAsfR/versions/DKe4Owf4/create-integrated-farming-1.2.2.jar",
+        "https://mod.mcimirror.top/data/9k1pAsfR/versions/DKe4Owf4/create-integrated-farming-1.2.2.jar",
         "https://edge.forgecdn.net/files/7957/107/create-integrated-farming-1.2.2.jar",
-        "https://cdn.modrinth.com/data/9k1pAsfR/versions/DKe4Owf4/create-integrated-farming-1.2.2.jar"
+        "https://mediafilez.forgecdn.net/files/7957/107/create-integrated-farming-1.2.2.jar",
+        "https://mod.mcimirror.top/files/7957/107/create-integrated-farming-1.2.2.jar"
       ],
       "fileSize": 408059
     },
@@ -877,9 +985,11 @@
         "sha512": "de9e7e1ac7011d526c8f822876a03bfabe0d2063a7ae8ba3619403fc947740abd514f8192fd9b5ba3585ea4bcee23c3a12932fcfcec244c6c538b49c94d4343f"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
+        "https://cdn.modrinth.com/data/3i1BRLA9/versions/ancqxeG4/createbuttercat-1.2.jar",
+        "https://mod.mcimirror.top/data/3i1BRLA9/versions/ancqxeG4/createbuttercat-1.2.jar",
         "https://edge.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
-        "https://cdn.modrinth.com/data/3i1BRLA9/versions/ancqxeG4/createbuttercat-1.2.jar"
+        "https://mediafilez.forgecdn.net/files/8008/328/createbuttercat-1.2.jar",
+        "https://mod.mcimirror.top/files/8008/328/createbuttercat-1.2.jar"
       ],
       "fileSize": 174743
     },
@@ -890,9 +1000,11 @@
         "sha512": "a256e83a1e6dd7aeb507abd53f5df236e1c9a9ff69f045074bd29d916337d354fb80ee9c7fcd0305d765d4afacb3d625a738bafb896ac3490251431628aa92fe"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
+        "https://cdn.modrinth.com/data/XM0ifg8q/versions/4jrYqs37/create_ratatouille-1.21.1-1.3.9.jar",
+        "https://mod.mcimirror.top/data/XM0ifg8q/versions/4jrYqs37/create_ratatouille-1.21.1-1.3.9.jar",
         "https://edge.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
-        "https://cdn.modrinth.com/data/XM0ifg8q/versions/4jrYqs37/create_ratatouille-1.21.1-1.3.9.jar"
+        "https://mediafilez.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
+        "https://mod.mcimirror.top/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar"
       ],
       "fileSize": 917002
     },
@@ -915,9 +1027,11 @@
         "sha512": "6b0d8e338eeae850aa260f8a5638a75e41f9287a67681f9476c26baee4085e35b45fded75c82e72870f8a10878b005a587bf6711d033803072367100ed94704e"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8018/696/kaleidoscope_nether-1.1.1-neoforge%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/O4YuhMsI/versions/wTsbWt17/kaleidoscope_nether-1.1.1-neoforge%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/O4YuhMsI/versions/wTsbWt17/kaleidoscope_nether-1.1.1-neoforge%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/8018/696/kaleidoscope_nether-1.1.1-neoforge%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/O4YuhMsI/versions/wTsbWt17/kaleidoscope_nether-1.1.1-neoforge%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/8018/696/kaleidoscope_nether-1.1.1-neoforge%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/8018/696/kaleidoscope_nether-1.1.1-neoforge%2bmc1.21.1.jar"
       ],
       "fileSize": 1023387
     },
@@ -928,7 +1042,8 @@
         "sha512": "6d70c0330580dadb5a08fe265708f4a1e6703c9bd81b100ebebc1beb4eefb42fc4c62274efb93a47524bc15bd8935eaaa84ee3f0e6037733ed11d209c2b876c2"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Xm1eP54z/versions/wf3UA8gg/kaleidoscope_compat-2.6.1-neoforge%2Bmc1.21.1.jar"
+        "https://cdn.modrinth.com/data/Xm1eP54z/versions/wf3UA8gg/kaleidoscope_compat-2.6.1-neoforge%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/Xm1eP54z/versions/wf3UA8gg/kaleidoscope_compat-2.6.1-neoforge%2Bmc1.21.1.jar"
       ],
       "fileSize": 919788
     },
@@ -939,9 +1054,11 @@
         "sha512": "a710f73786d1144ecec011da6c1155ea2b8853a2e3d7f82004dee40a82fadfa625730e9b3333dba8e9e1c7e52110b2204db0b036e96e53b73a6800537d39bc9e"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7966/281/kaleidoscopecookery-1.3.0-neoforge%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/v17FatAc/versions/x2qaC31Q/kaleidoscopecookery-1.3.0-neoforge%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/v17FatAc/versions/x2qaC31Q/kaleidoscopecookery-1.3.0-neoforge%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/7966/281/kaleidoscopecookery-1.3.0-neoforge%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/v17FatAc/versions/x2qaC31Q/kaleidoscopecookery-1.3.0-neoforge%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7966/281/kaleidoscopecookery-1.3.0-neoforge%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/7966/281/kaleidoscopecookery-1.3.0-neoforge%2bmc1.21.1.jar"
       ],
       "fileSize": 2987644
     },
@@ -952,9 +1069,11 @@
         "sha512": "215f7a1fd7e84d005c8ea22eaf97760e605966872012ac6243f767a6a90c48f1c0539ca22feda3b5b0b3c39daf1aae994683ccd88d386d699838bd4d09c21a17"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7738/926/kaleidoscopedoll-1.3.1-neoforge%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/vQLjjxNs/versions/cETCPY25/kaleidoscopedoll-1.3.1-neoforge%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/vQLjjxNs/versions/cETCPY25/kaleidoscopedoll-1.3.1-neoforge%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/7738/926/kaleidoscopedoll-1.3.1-neoforge%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/vQLjjxNs/versions/cETCPY25/kaleidoscopedoll-1.3.1-neoforge%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7738/926/kaleidoscopedoll-1.3.1-neoforge%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/7738/926/kaleidoscopedoll-1.3.1-neoforge%2bmc1.21.1.jar"
       ],
       "fileSize": 3249801
     },
@@ -965,9 +1084,11 @@
         "sha512": "b2d3888001bd174a5262a9946637dd9d8da88c0ac7fed534e531491f442b190b6752622f4d201e3d0bbb012dd55690b949de5e068252fa39e099af2394528d1c"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7785/542/kaleidoscopetavern-1.0.1-neoforge%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/r9RZvhiJ/versions/Ir0kL6FM/kaleidoscopetavern-1.0.1-neoforge%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/r9RZvhiJ/versions/Ir0kL6FM/kaleidoscopetavern-1.0.1-neoforge%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/7785/542/kaleidoscopetavern-1.0.1-neoforge%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/r9RZvhiJ/versions/Ir0kL6FM/kaleidoscopetavern-1.0.1-neoforge%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7785/542/kaleidoscopetavern-1.0.1-neoforge%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/7785/542/kaleidoscopetavern-1.0.1-neoforge%2bmc1.21.1.jar"
       ],
       "fileSize": 896399
     },
@@ -978,9 +1099,11 @@
         "sha512": "dcf1135718e74c55d4b01116c9955b88a8c8a5180e61dc51d292479aff3d2fff38c8ca0f1b4a6e42e54644f1c8907846a61799491df455b71541aa342d8b8896"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6315/149/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+        "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+        "https://mod.mcimirror.top/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
         "https://edge.forgecdn.net/files/6315/149/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
-        "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+        "https://mediafilez.forgecdn.net/files/6315/149/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+        "https://mod.mcimirror.top/files/6315/149/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
       ],
       "fileSize": 74419
     },
@@ -991,9 +1114,11 @@
         "sha512": "678b998677a3d73f98f82dac4093893bfc8a3c2335ec627b4147811c381a040475decdb8db31cc3cbe600abb5a7a6dedcd356eed0ba471af0becdcf49bf5b137"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar",
+        "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar",
+        "https://mod.mcimirror.top/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar",
         "https://edge.forgecdn.net/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar",
-        "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar"
+        "https://mediafilez.forgecdn.net/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar",
+        "https://mod.mcimirror.top/files/7545/219/Jade-1.21.1-NeoForge-15.10.5.jar"
       ],
       "fileSize": 725742
     },
@@ -1017,8 +1142,9 @@
         "sha512": "41a98cbc3bce02d66c448496af853c351cb669e97ffb31b12d52c7ef84cbf8aa5a85d59e100b49d4c939d2ca093d96f413d8a6a155db43ab1d6f62f41f7289b3"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7374/98/solcarrot-1.21.1-1.16.6.jar",
         "https://mediafilez.forgecdn.net/files/7374/98/solcarrot-1.21.1-1.16.6.jar",
-        "https://edge.forgecdn.net/files/7374/98/solcarrot-1.21.1-1.16.6.jar"
+        "https://mod.mcimirror.top/files/7374/98/solcarrot-1.21.1-1.16.6.jar"
       ],
       "fileSize": 105355
     },
@@ -1029,9 +1155,11 @@
         "sha512": "11628cf575b5ef2a073befa08908d76bcd1378fe7a6b828f125b01904c7bd0afa4773c83551082eef36707b63f40909d2a76a9c1ce3020d7302f4a20b9e9a4fb"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7849/939/NotEnoughBandwidth-0.3.18%2bprototype%2bteacon.jar",
+        "https://cdn.modrinth.com/data/c7sFoV9J/versions/tbBqTIJY/NotEnoughBandwidth-0.3.18%2Bprototype%2Bteacon.jar",
+        "https://mod.mcimirror.top/data/c7sFoV9J/versions/tbBqTIJY/NotEnoughBandwidth-0.3.18%2Bprototype%2Bteacon.jar",
         "https://edge.forgecdn.net/files/7849/939/NotEnoughBandwidth-0.3.18%2bprototype%2bteacon.jar",
-        "https://cdn.modrinth.com/data/c7sFoV9J/versions/tbBqTIJY/NotEnoughBandwidth-0.3.18%2Bprototype%2Bteacon.jar"
+        "https://mediafilez.forgecdn.net/files/7849/939/NotEnoughBandwidth-0.3.18%2bprototype%2bteacon.jar",
+        "https://mod.mcimirror.top/files/7849/939/NotEnoughBandwidth-0.3.18%2bprototype%2bteacon.jar"
       ],
       "fileSize": 7448357
     },
@@ -1042,9 +1170,11 @@
         "sha512": "d0acfaa6ef394fc7d9e677022bda06a6c8be7851ba8860897999775b657b5e10878578fe626505b0c9dbc01d26f559dbb1214aabb081d076824648047094e2e1"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7221/528/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+        "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+        "https://mod.mcimirror.top/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
         "https://edge.forgecdn.net/files/7221/528/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-        "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+        "https://mediafilez.forgecdn.net/files/7221/528/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+        "https://mod.mcimirror.top/files/7221/528/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
       ],
       "fileSize": 46623
     },
@@ -1067,9 +1197,11 @@
         "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "https://mod.mcimirror.top/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
         "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
-        "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar"
+        "https://mediafilez.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "https://mod.mcimirror.top/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar"
       ],
       "fileSize": 75804
     },
@@ -1080,9 +1212,11 @@
         "sha512": "3a75b28b4bf25d775c399c8b5eff1f186020957332f3698d4e313cd0c0785c8b5814ca7fd7194e8b938e276073bab99e8d22aa2c5c10ca78763945db825059fe"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7891/800/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+        "https://cdn.modrinth.com/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+        "https://mod.mcimirror.top/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
         "https://edge.forgecdn.net/files/7891/800/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
-        "https://cdn.modrinth.com/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar"
+        "https://mediafilez.forgecdn.net/files/7891/800/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+        "https://mod.mcimirror.top/files/7891/800/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar"
       ],
       "fileSize": 23659
     },
@@ -1093,9 +1227,11 @@
         "sha512": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
+        "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
+        "https://mod.mcimirror.top/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
         "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
-        "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar",
+        "https://mod.mcimirror.top/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar"
       ],
       "fileSize": 410690
     },
@@ -1106,9 +1242,11 @@
         "sha512": "86f0905074d2b754c324bc8f0c4c3d35eafeb6475b3080ebc6db1e072ce017f8b6328d2074c92c08b96352fc8b8bd99cba08a2dfca3cf49ea033921c425ff5b4"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6955/881/RollingGate-neoforge-1.21.1-1.1.0%2bbuild.64.jar",
+        "https://cdn.modrinth.com/data/HXsmHiKu/versions/zAhnjym7/RollingGate-neoforge-1.21.1-1.1.0%2Bbuild.64.jar",
+        "https://mod.mcimirror.top/data/HXsmHiKu/versions/zAhnjym7/RollingGate-neoforge-1.21.1-1.1.0%2Bbuild.64.jar",
         "https://edge.forgecdn.net/files/6955/881/RollingGate-neoforge-1.21.1-1.1.0%2bbuild.64.jar",
-        "https://cdn.modrinth.com/data/HXsmHiKu/versions/zAhnjym7/RollingGate-neoforge-1.21.1-1.1.0%2Bbuild.64.jar"
+        "https://mediafilez.forgecdn.net/files/6955/881/RollingGate-neoforge-1.21.1-1.1.0%2bbuild.64.jar",
+        "https://mod.mcimirror.top/files/6955/881/RollingGate-neoforge-1.21.1-1.1.0%2bbuild.64.jar"
       ],
       "fileSize": 355729
     },
@@ -1119,9 +1257,11 @@
         "sha512": "f86ce34f2759c69df82578c397ff55b666c84626229a98f598458b960c21b38c95d6bfef4772af7f963c4f4868e5e2d9aef6b99c1d51bab55bf45e0e6e6b5ed4"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6225/208/spark-1.10.124-neoforge.jar",
+        "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
+        "https://mod.mcimirror.top/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
         "https://edge.forgecdn.net/files/6225/208/spark-1.10.124-neoforge.jar",
-        "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/6225/208/spark-1.10.124-neoforge.jar",
+        "https://mod.mcimirror.top/files/6225/208/spark-1.10.124-neoforge.jar"
       ],
       "fileSize": 3642581
     },
@@ -1132,9 +1272,11 @@
         "sha512": "9f09fbb8fe9d98b3813bee81695f7eb36521deb94bd7804e6e96b130038425c7b2e1ae2072eeb8e8d70bf424a28468b63180dbf4136c0117d7cc607afc9ec421"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6067/146/badpackets-neo-0.8.2.jar",
+        "https://cdn.modrinth.com/data/ftdbN0KK/versions/RNyYl9M3/badpackets-neo-0.8.2.jar",
+        "https://mod.mcimirror.top/data/ftdbN0KK/versions/RNyYl9M3/badpackets-neo-0.8.2.jar",
         "https://edge.forgecdn.net/files/6067/146/badpackets-neo-0.8.2.jar",
-        "https://cdn.modrinth.com/data/ftdbN0KK/versions/RNyYl9M3/badpackets-neo-0.8.2.jar"
+        "https://mediafilez.forgecdn.net/files/6067/146/badpackets-neo-0.8.2.jar",
+        "https://mod.mcimirror.top/files/6067/146/badpackets-neo-0.8.2.jar"
       ],
       "fileSize": 54641
     },
@@ -1145,9 +1287,11 @@
         "sha512": "b28b0552022ba22a729c917b848d119b84236689b550b99ba1fe11f2353551abcd2d9e23b190689be82376a9b2a47ffc22cdb116f413d6f76a5d19f075a9e78d"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7493/644/mafglib-0.4.3%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/SKI34J7B/versions/CgDQ0u0Q/mafglib-0.4.3%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/SKI34J7B/versions/CgDQ0u0Q/mafglib-0.4.3%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/7493/644/mafglib-0.4.3%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/SKI34J7B/versions/CgDQ0u0Q/mafglib-0.4.3%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7493/644/mafglib-0.4.3%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/7493/644/mafglib-0.4.3%2bmc1.21.1.jar"
       ],
       "fileSize": 1314767
     },
@@ -1158,9 +1302,11 @@
         "sha512": "1fa17cb3b01bb205f38b42c10c30ac5d941d8bd4630e03ce89467fded748086434229ac715ce2258bb4033140547cb678d53f5a2082875026bfaff4b12250e16"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7965/440/bocchud-0.4.1%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/zfPoD7Tm/versions/tOP74nwE/bocchud-0.4.1%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/zfPoD7Tm/versions/tOP74nwE/bocchud-0.4.1%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/7965/440/bocchud-0.4.1%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/zfPoD7Tm/versions/tOP74nwE/bocchud-0.4.1%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7965/440/bocchud-0.4.1%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/7965/440/bocchud-0.4.1%2bmc1.21.1.jar"
       ],
       "fileSize": 921351
     },
@@ -1171,9 +1317,11 @@
         "sha512": "3cf496cd275da1e05382dde8018245569c632ba3dee4e54c6e0d40a1ee89438d083dda8e4770403652cf1e8620fa6b264a4eae10fe7d20b194664be7baae3a22"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7971/130/tweakerge-0.4.3%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/yke6wdGF/versions/701i2Xre/tweakerge-0.4.3%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/yke6wdGF/versions/701i2Xre/tweakerge-0.4.3%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/7971/130/tweakerge-0.4.3%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/yke6wdGF/versions/701i2Xre/tweakerge-0.4.3%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7971/130/tweakerge-0.4.3%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/7971/130/tweakerge-0.4.3%2bmc1.21.1.jar"
       ],
       "fileSize": 674125
     },
@@ -1184,9 +1332,11 @@
         "sha512": "eec8e52cf74fabc17f38421a0b5fb0d9d2e66cc147e731d661a8eac4de84c15068d3c4b82dbdfa9460bc5777303b6faa9e2888222b6d1033b62143499c9f4f76"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6944/92/rocknroller-0.4.0%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/hYq29QmW/versions/vsVKkDaQ/rocknroller-0.4.0%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/hYq29QmW/versions/vsVKkDaQ/rocknroller-0.4.0%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/6944/92/rocknroller-0.4.0%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/hYq29QmW/versions/vsVKkDaQ/rocknroller-0.4.0%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6944/92/rocknroller-0.4.0%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/6944/92/rocknroller-0.4.0%2bmc1.21.1.jar"
       ],
       "fileSize": 218863
     },
@@ -1209,9 +1359,11 @@
         "sha512": "57b8026a3c3c433cf6123d63dc6ce7e11f6d480a72926370db1fc7f2b06059bc16a753ecd7e7af659c19e90b592103196b0e89585ce4f0744a4ca433f59bcf1a"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6661/598/iris-neoforge-1.8.12%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/6661/598/iris-neoforge-1.8.12%2bmc1.21.1.jar"
       ],
       "fileSize": 2438548
     },
@@ -1222,9 +1374,11 @@
         "sha512": "d0824bac1900142ac9a53e68f7ec3b4c0d33d9366bbd3f1d0d93eed860e5eb6b5e6f5a215a69bfffa70bcb48573ff49b5a12bbaa96096ceac6636000d506027a"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
+        "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
+        "https://mod.mcimirror.top/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
         "https://edge.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
-        "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar"
+        "https://mediafilez.forgecdn.net/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar",
+        "https://mod.mcimirror.top/files/5831/692/Searchables-neoforge-1.21.1-1.0.2.jar"
       ],
       "fileSize": 77326
     },
@@ -1235,9 +1389,11 @@
         "sha512": "656cd5746fe1b3a2cc7c516619d9f88556f37387e672bb0f362c8aecefc6f1d06705d3a84564c8779856fbbf69fee67b6038a24ffcf46f36f2c478a1aff43a57"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6533/725/txnilib-neoforge-1.0.24-1.21.1.jar",
+        "https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar",
+        "https://mod.mcimirror.top/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar",
         "https://edge.forgecdn.net/files/6533/725/txnilib-neoforge-1.0.24-1.21.1.jar",
-        "https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6533/725/txnilib-neoforge-1.0.24-1.21.1.jar",
+        "https://mod.mcimirror.top/files/6533/725/txnilib-neoforge-1.0.24-1.21.1.jar"
       ],
       "fileSize": 6276522
     },
@@ -1251,9 +1407,11 @@
         "client": "optional"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7342/942/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+        "https://cdn.modrinth.com/data/DfECZO3a/versions/cNOung9q/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+        "https://mod.mcimirror.top/data/DfECZO3a/versions/cNOung9q/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
         "https://edge.forgecdn.net/files/7342/942/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
-        "https://cdn.modrinth.com/data/DfECZO3a/versions/cNOung9q/acceleratedrendering-1.0.8-1.21.1-alpha.jar"
+        "https://mediafilez.forgecdn.net/files/7342/942/acceleratedrendering-1.0.8-1.21.1-alpha.jar",
+        "https://mod.mcimirror.top/files/7342/942/acceleratedrendering-1.0.8-1.21.1-alpha.jar"
       ],
       "fileSize": 471965
     },
@@ -1264,9 +1422,11 @@
         "sha512": "840866c0b5168b04713652cf31d8a8bc6ed47d9748a78e0e9f07d201e03d2a276f0edfe727a8bffebe7396595876499d8d4f420fc2ff2e71fbc45128ca6c4e11"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8063/559/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "https://cdn.modrinth.com/data/4I1XuqiY/versions/PAYgk63v/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "https://mod.mcimirror.top/data/4I1XuqiY/versions/PAYgk63v/entity_model_features-3.2.4-1.21-neoforge.jar",
         "https://edge.forgecdn.net/files/8063/559/entity_model_features-3.2.4-1.21-neoforge.jar",
-        "https://cdn.modrinth.com/data/4I1XuqiY/versions/PAYgk63v/entity_model_features-3.2.4-1.21-neoforge.jar"
+        "https://mediafilez.forgecdn.net/files/8063/559/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "https://mod.mcimirror.top/files/8063/559/entity_model_features-3.2.4-1.21-neoforge.jar"
       ],
       "fileSize": 567827
     },
@@ -1277,9 +1437,11 @@
         "sha512": "fc4b6a75ad57defb944d188fac78e45a33342a2c2a2b0e673c81ac370df09335d4371c8e10bea8f593da4b1f1c2fcc361c124b274ee4b3c2ae75571f00742059"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7930/620/entity_texture_features_1.21-neoforge-7.1.jar",
+        "https://cdn.modrinth.com/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar",
+        "https://mod.mcimirror.top/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar",
         "https://edge.forgecdn.net/files/7930/620/entity_texture_features_1.21-neoforge-7.1.jar",
-        "https://cdn.modrinth.com/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar"
+        "https://mediafilez.forgecdn.net/files/7930/620/entity_texture_features_1.21-neoforge-7.1.jar",
+        "https://mod.mcimirror.top/files/7930/620/entity_texture_features_1.21-neoforge-7.1.jar"
       ],
       "fileSize": 752334
     },
@@ -1293,9 +1455,11 @@
         "client": "optional"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5593/116/screenshot-to-clipboard-neoforge-1.0.10.jar",
+        "https://cdn.modrinth.com/data/1KiJRrTg/versions/tnP4eg1K/screenshot-to-clipboard-neoforge-1.0.10.jar",
+        "https://mod.mcimirror.top/data/1KiJRrTg/versions/tnP4eg1K/screenshot-to-clipboard-neoforge-1.0.10.jar",
         "https://edge.forgecdn.net/files/5593/116/screenshot-to-clipboard-neoforge-1.0.10.jar",
-        "https://cdn.modrinth.com/data/1KiJRrTg/versions/tnP4eg1K/screenshot-to-clipboard-neoforge-1.0.10.jar"
+        "https://mediafilez.forgecdn.net/files/5593/116/screenshot-to-clipboard-neoforge-1.0.10.jar",
+        "https://mod.mcimirror.top/files/5593/116/screenshot-to-clipboard-neoforge-1.0.10.jar"
       ],
       "fileSize": 14146
     },
@@ -1306,9 +1470,11 @@
         "sha512": "301362230f1e66a6725eb20fae106435f2d9561df631a54091956b052f9a2111a230b238dbeb0ae58a5bfa261be43474ab40315e50eebeeacef5a592e2c3bfbb"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5936/660/BetterPingDisplay-1.21.1-1.1.jar",
+        "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar",
+        "https://mod.mcimirror.top/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar",
         "https://edge.forgecdn.net/files/5936/660/BetterPingDisplay-1.21.1-1.1.jar",
-        "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar"
+        "https://mediafilez.forgecdn.net/files/5936/660/BetterPingDisplay-1.21.1-1.1.jar",
+        "https://mod.mcimirror.top/files/5936/660/BetterPingDisplay-1.21.1-1.1.jar"
       ],
       "fileSize": 13871
     },
@@ -1319,8 +1485,9 @@
         "sha512": "32a29b34b4c25a9fce98fca9a31ee8061fd73533c09f935ff7f6207fd0a2417a60f8641656e15524e1736f3e8e149a8cfa03ec7e73667f8af016bae40adf1921"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/6926/815/catalogue-neoforge-1.21.1-1.11.2.jar",
         "https://mediafilez.forgecdn.net/files/6926/815/catalogue-neoforge-1.21.1-1.11.2.jar",
-        "https://edge.forgecdn.net/files/6926/815/catalogue-neoforge-1.21.1-1.11.2.jar"
+        "https://mod.mcimirror.top/files/6926/815/catalogue-neoforge-1.21.1-1.11.2.jar"
       ],
       "fileSize": 302750
     },
@@ -1334,9 +1501,11 @@
         "client": "optional"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7960/264/anisum-neoforge-1.21.1-0.0.1%2bbuild.18.jar",
+        "https://cdn.modrinth.com/data/KikOIfnh/versions/xpTR4xaQ/anisum-neoforge-1.21.1-0.0.1%2Bbuild.18.jar",
+        "https://mod.mcimirror.top/data/KikOIfnh/versions/xpTR4xaQ/anisum-neoforge-1.21.1-0.0.1%2Bbuild.18.jar",
         "https://edge.forgecdn.net/files/7960/264/anisum-neoforge-1.21.1-0.0.1%2bbuild.18.jar",
-        "https://cdn.modrinth.com/data/KikOIfnh/versions/xpTR4xaQ/anisum-neoforge-1.21.1-0.0.1%2Bbuild.18.jar"
+        "https://mediafilez.forgecdn.net/files/7960/264/anisum-neoforge-1.21.1-0.0.1%2bbuild.18.jar",
+        "https://mod.mcimirror.top/files/7960/264/anisum-neoforge-1.21.1-0.0.1%2bbuild.18.jar"
       ],
       "fileSize": 110508
     },
@@ -1347,9 +1516,11 @@
         "sha512": "647cab9a1bed84e10cfe77732a66bdfe116a6371dcceadcf896083654f7ab39542df4152674b5a3a653e3b36f517f5c1bff4c25db37dd789df9eeb1e1d799c07"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5591/286/modelfix-1.21-1.10.jar",
+        "https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar",
+        "https://mod.mcimirror.top/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar",
         "https://edge.forgecdn.net/files/5591/286/modelfix-1.21-1.10.jar",
-        "https://cdn.modrinth.com/data/QdG47OkI/versions/X2U8ceG9/modelfix-1.21-1.10.jar"
+        "https://mediafilez.forgecdn.net/files/5591/286/modelfix-1.21-1.10.jar",
+        "https://mod.mcimirror.top/files/5591/286/modelfix-1.21-1.10.jar"
       ],
       "fileSize": 47035
     },
@@ -1372,9 +1543,11 @@
         "sha512": "779c264a4ad54f9fe462c313ba40968ae7fc206d282d5895c433136d510bfa29a86a3ba32e83bbe819c07fc06e75cf8cb2e4606120d8038b6b24378fd556f11d"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7875/229/chat_heads-0.15.1-neoforge-1.21.jar",
+        "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8oDa7chj/chat_heads-0.15.1-neoforge-1.21.jar",
+        "https://mod.mcimirror.top/data/Wb5oqrBJ/versions/8oDa7chj/chat_heads-0.15.1-neoforge-1.21.jar",
         "https://edge.forgecdn.net/files/7875/229/chat_heads-0.15.1-neoforge-1.21.jar",
-        "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/8oDa7chj/chat_heads-0.15.1-neoforge-1.21.jar"
+        "https://mediafilez.forgecdn.net/files/7875/229/chat_heads-0.15.1-neoforge-1.21.jar",
+        "https://mod.mcimirror.top/files/7875/229/chat_heads-0.15.1-neoforge-1.21.jar"
       ],
       "fileSize": 89272
     },
@@ -1388,9 +1561,11 @@
         "client": "optional"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7173/159/I18nUpdateMod-3.7.0-all.jar",
+        "https://cdn.modrinth.com/data/PWERr14M/versions/4ihDUjWs/I18nUpdateMod-3.7.0-all.jar",
+        "https://mod.mcimirror.top/data/PWERr14M/versions/4ihDUjWs/I18nUpdateMod-3.7.0-all.jar",
         "https://edge.forgecdn.net/files/7173/159/I18nUpdateMod-3.7.0-all.jar",
-        "https://cdn.modrinth.com/data/PWERr14M/versions/4ihDUjWs/I18nUpdateMod-3.7.0-all.jar"
+        "https://mediafilez.forgecdn.net/files/7173/159/I18nUpdateMod-3.7.0-all.jar",
+        "https://mod.mcimirror.top/files/7173/159/I18nUpdateMod-3.7.0-all.jar"
       ],
       "fileSize": 49726
     },
@@ -1401,8 +1576,9 @@
         "sha512": "3364e420baf55fcf7f671543cd2f098446f16cb315c02b52f3a23a53990d73279503a1306ed5e579bf9dded66f77222abb20cc6280b72b2958b6b69f4e732552"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/6250/427/citresewn-neoforge-1.21.1-0.jar",
         "https://mediafilez.forgecdn.net/files/6250/427/citresewn-neoforge-1.21.1-0.jar",
-        "https://edge.forgecdn.net/files/6250/427/citresewn-neoforge-1.21.1-0.jar"
+        "https://mod.mcimirror.top/files/6250/427/citresewn-neoforge-1.21.1-0.jar"
       ],
       "fileSize": 203987
     },
@@ -1428,9 +1604,11 @@
         "sha512": "f5c187ce95c60d98ccddc2565bd8c2ae514eb2545a26113347a1dc87f16b1d9e38175fbc01322d89e026e06bad3b39678675ae37b72a484bdc50db7ace1ea41a"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7178/602/continuity-3.0.0%2b0.0.1%2b1.21.1.neoforge-all.jar",
+        "https://cdn.modrinth.com/data/t9w23vii/versions/ZORcYr2t/continuity-3.0.0%2B0.0.1%2B1.21.1.neoforge-all.jar",
+        "https://mod.mcimirror.top/data/t9w23vii/versions/ZORcYr2t/continuity-3.0.0%2B0.0.1%2B1.21.1.neoforge-all.jar",
         "https://edge.forgecdn.net/files/7178/602/continuity-3.0.0%2b0.0.1%2b1.21.1.neoforge-all.jar",
-        "https://cdn.modrinth.com/data/t9w23vii/versions/ZORcYr2t/continuity-3.0.0%2B0.0.1%2B1.21.1.neoforge-all.jar"
+        "https://mediafilez.forgecdn.net/files/7178/602/continuity-3.0.0%2b0.0.1%2b1.21.1.neoforge-all.jar",
+        "https://mod.mcimirror.top/files/7178/602/continuity-3.0.0%2b0.0.1%2b1.21.1.neoforge-all.jar"
       ],
       "fileSize": 1172399
     },
@@ -1441,9 +1619,11 @@
         "sha512": "0cbb89bf40d8b89c54fb9683b74891b852a5c6197803a7b9ede9a9d5a74df8d6f8e4a171514033265a5617a51551b419ed1e067cc773ee497526cf3f4a792e52"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7320/33/jecharacters-1.21-neoforge-4.5.23.jar",
+        "https://cdn.modrinth.com/data/I7k4B65h/versions/TdUA8TeZ/jecharacters-1.21-neoforge-4.5.23.jar",
+        "https://mod.mcimirror.top/data/I7k4B65h/versions/TdUA8TeZ/jecharacters-1.21-neoforge-4.5.23.jar",
         "https://edge.forgecdn.net/files/7320/33/jecharacters-1.21-neoforge-4.5.23.jar",
-        "https://cdn.modrinth.com/data/I7k4B65h/versions/TdUA8TeZ/jecharacters-1.21-neoforge-4.5.23.jar"
+        "https://mediafilez.forgecdn.net/files/7320/33/jecharacters-1.21-neoforge-4.5.23.jar",
+        "https://mod.mcimirror.top/files/7320/33/jecharacters-1.21-neoforge-4.5.23.jar"
       ],
       "fileSize": 243572
     },
@@ -1454,8 +1634,9 @@
         "sha512": "1e5037fc7aa998d372ee22868f422e78f375a199307114493bc0a3cbd198e3c171c3d086f4f4bd063763cb35304f72f0d72867f2cd28ec83e8e27b55c8dea203"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
         "https://mediafilez.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar",
-        "https://edge.forgecdn.net/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar"
+        "https://mod.mcimirror.top/files/7276/577/configured-neoforge-1.21.1-2.6.3.jar"
       ],
       "fileSize": 428793
     },
@@ -1466,9 +1647,11 @@
         "sha512": "d66b5d30e1bb8316cb75d52ba8485c6c1cfb0d03624288f39c1826b92de9da9c3d79351be9d7303ca3226176255921f35063139da118c755cf9a709186129744"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6091/21/reeses-sodium-options-neoforge-1.8.3%2bmc1.21.4.jar",
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
+        "https://mod.mcimirror.top/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
         "https://edge.forgecdn.net/files/6091/21/reeses-sodium-options-neoforge-1.8.3%2bmc1.21.4.jar",
-        "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar"
+        "https://mediafilez.forgecdn.net/files/6091/21/reeses-sodium-options-neoforge-1.8.3%2bmc1.21.4.jar",
+        "https://mod.mcimirror.top/files/6091/21/reeses-sodium-options-neoforge-1.8.3%2bmc1.21.4.jar"
       ],
       "fileSize": 78451
     },
@@ -1482,9 +1665,11 @@
         "client": "optional"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5964/65/sodium-shadowy-path-blocks-neoforge-4.0.0.jar",
+        "https://cdn.modrinth.com/data/EIa1eiMm/versions/jDjIPlDS/sodium-shadowy-path-blocks-neoforge-4.0.0.jar",
+        "https://mod.mcimirror.top/data/EIa1eiMm/versions/jDjIPlDS/sodium-shadowy-path-blocks-neoforge-4.0.0.jar",
         "https://edge.forgecdn.net/files/5964/65/sodium-shadowy-path-blocks-neoforge-4.0.0.jar",
-        "https://cdn.modrinth.com/data/EIa1eiMm/versions/jDjIPlDS/sodium-shadowy-path-blocks-neoforge-4.0.0.jar"
+        "https://mediafilez.forgecdn.net/files/5964/65/sodium-shadowy-path-blocks-neoforge-4.0.0.jar",
+        "https://mod.mcimirror.top/files/5964/65/sodium-shadowy-path-blocks-neoforge-4.0.0.jar"
       ],
       "fileSize": 58071
     },
@@ -1495,9 +1680,11 @@
         "sha512": "ab26233cb68962ac64922ad18fcf4f1e0405c9e663074be9343b2c60c8cbadae232de7cfbc97baff6a8bfb07081324620d109d5f9c7607a2780d5ce579cabcf9"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6929/971/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+        "https://cdn.modrinth.com/data/Yg1VT27P/versions/iPZbtcZJ/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+        "https://mod.mcimirror.top/data/Yg1VT27P/versions/iPZbtcZJ/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
         "https://edge.forgecdn.net/files/6929/971/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
-        "https://cdn.modrinth.com/data/Yg1VT27P/versions/iPZbtcZJ/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6929/971/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+        "https://mod.mcimirror.top/files/6929/971/sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
       ],
       "fileSize": 180622
     },
@@ -1508,9 +1695,11 @@
         "sha512": "583e92e13e3296b3bc8f83a310d9fc5c4fa67daa60503ed6fb242102958172a5ed8f82aa5652033590d908d73f39b7466c5d390c6bd40a5cafbdfa52a224bc49"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7978/327/sclp-neoforge-3.6.jar",
+        "https://cdn.modrinth.com/data/5vV6tCDu/versions/ddMM5fXY/sclp-neoforge-3.6.jar",
+        "https://mod.mcimirror.top/data/5vV6tCDu/versions/ddMM5fXY/sclp-neoforge-3.6.jar",
         "https://edge.forgecdn.net/files/7978/327/sclp-neoforge-3.6.jar",
-        "https://cdn.modrinth.com/data/5vV6tCDu/versions/ddMM5fXY/sclp-neoforge-3.6.jar"
+        "https://mediafilez.forgecdn.net/files/7978/327/sclp-neoforge-3.6.jar",
+        "https://mod.mcimirror.top/files/7978/327/sclp-neoforge-3.6.jar"
       ],
       "fileSize": 109338
     },
@@ -1521,9 +1710,11 @@
         "sha512": "f2f022183f300961d7d0503461daa59e3e606c32f189f1cb3307edaf765986c541929205b7bf6f40c4c88319696e9d863c1bf711bd441dc9b7081c198ddb445b"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+        "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+        "https://mod.mcimirror.top/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
         "https://edge.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-        "https://cdn.modrinth.com/data/Es5v4eyq/versions/lrsX3TMS/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+        "https://mod.mcimirror.top/files/6100/815/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar"
       ],
       "fileSize": 309122
     },
@@ -1534,9 +1725,11 @@
         "sha512": "6f7383ef3f4b572c76d3371a7441bc3d625db9d404cf61b249fab018bc3ffd1fa82e735ec21916df3f4072f0927dad3673efbc40bf8d11846c3d6fecc9329bb7"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/5913/377/sodium-extra-neoforge-0.6.0%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/5913/377/sodium-extra-neoforge-0.6.0%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/5913/377/sodium-extra-neoforge-0.6.0%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/5913/377/sodium-extra-neoforge-0.6.0%2bmc1.21.1.jar"
       ],
       "fileSize": 367047
     },
@@ -1547,9 +1740,11 @@
         "sha512": "ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/6382/651/sodium-neoforge-0.6.13%2bmc1.21.1.jar"
       ],
       "fileSize": 1162994
     },
@@ -1560,9 +1755,11 @@
         "sha512": "bd01b2a38a869ea38e5f2a8fcd601e67ea9b132b9883c6ae752bc35dff6e94f6d47b965e31c1ee5c2f6a1221653549680da779fcb5319d199aec261d221d179e"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+        "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
+        "https://mod.mcimirror.top/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar",
         "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
-        "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar"
+        "https://mediafilez.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar",
+        "https://mod.mcimirror.top/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar"
       ],
       "fileSize": 77555
     },
@@ -1573,9 +1770,11 @@
         "sha512": "1c7ae274389829e8213be1ad3387c2bdc50266badef75a497435e0afab7a1f9eefc9252d59aa6d7360091f70326fd396df6dab29e612c47a2d88fa1d85c24565"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8067/268/colorwheel-neoforge-1.2.5%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/BzHgFoGz/versions/qIo72EWB/colorwheel-neoforge-1.2.5%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/BzHgFoGz/versions/qIo72EWB/colorwheel-neoforge-1.2.5%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/8067/268/colorwheel-neoforge-1.2.5%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/BzHgFoGz/versions/qIo72EWB/colorwheel-neoforge-1.2.5%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/8067/268/colorwheel-neoforge-1.2.5%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/8067/268/colorwheel-neoforge-1.2.5%2bmc1.21.1.jar"
       ],
       "fileSize": 384109
     },
@@ -1586,9 +1785,11 @@
         "sha512": "902bca40ac980f4aab2564d64cf47a698b18f44234f9757c9125f755f9890d3350ca4e28e25e601ea8031139cab5b6bf897298bc4033e39ef86c9d7054705cb2"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7924/942/colorwheel_patcher-neoforge-1.0.5%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/KPsw5jDu/versions/dQqV3sci/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar",
+        "https://mod.mcimirror.top/data/KPsw5jDu/versions/dQqV3sci/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar",
         "https://edge.forgecdn.net/files/7924/942/colorwheel_patcher-neoforge-1.0.5%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/KPsw5jDu/versions/dQqV3sci/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7924/942/colorwheel_patcher-neoforge-1.0.5%2bmc1.21.1.jar",
+        "https://mod.mcimirror.top/files/7924/942/colorwheel_patcher-neoforge-1.0.5%2bmc1.21.1.jar"
       ],
       "fileSize": 210569
     },
@@ -1599,9 +1800,11 @@
         "sha512": "a008268b3f116e8901a730072fb48eda6706c24441c679b479c397524e864fcaaf6e1ed622c64442e29d0407bd0e563a12713692e82ce4a3065895cd621ecbac"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6459/817/BetterTab-neoforge-1.21.1-1.0.0%2bbuild.11.jar",
+        "https://cdn.modrinth.com/data/woulhAPh/versions/VVw4TROM/BetterTab-neoforge-1.21.1-1.0.0%2Bbuild.11.jar",
+        "https://mod.mcimirror.top/data/woulhAPh/versions/VVw4TROM/BetterTab-neoforge-1.21.1-1.0.0%2Bbuild.11.jar",
         "https://edge.forgecdn.net/files/6459/817/BetterTab-neoforge-1.21.1-1.0.0%2bbuild.11.jar",
-        "https://cdn.modrinth.com/data/woulhAPh/versions/VVw4TROM/BetterTab-neoforge-1.21.1-1.0.0%2Bbuild.11.jar"
+        "https://mediafilez.forgecdn.net/files/6459/817/BetterTab-neoforge-1.21.1-1.0.0%2bbuild.11.jar",
+        "https://mod.mcimirror.top/files/6459/817/BetterTab-neoforge-1.21.1-1.0.0%2bbuild.11.jar"
       ],
       "fileSize": 338633
     },
@@ -1612,9 +1815,11 @@
         "sha512": "e698fec1af324fd54f18eb8d231bed9a412579399e518155f8c4b9abe52168cb0c4f47e99ee0c6462f48d3bac2aa636aa3c20a6bed1728be4548c66b8b680afa"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6463/415/server_plus_plus-neoforge-1.21.1-0.0.1%2bbuild.8.jar",
+        "https://cdn.modrinth.com/data/LDvlgsZf/versions/zxnMGfzP/server_plus_plus-neoforge-1.21.1-0.0.1%2Bbuild.8.jar",
+        "https://mod.mcimirror.top/data/LDvlgsZf/versions/zxnMGfzP/server_plus_plus-neoforge-1.21.1-0.0.1%2Bbuild.8.jar",
         "https://edge.forgecdn.net/files/6463/415/server_plus_plus-neoforge-1.21.1-0.0.1%2bbuild.8.jar",
-        "https://cdn.modrinth.com/data/LDvlgsZf/versions/zxnMGfzP/server_plus_plus-neoforge-1.21.1-0.0.1%2Bbuild.8.jar"
+        "https://mediafilez.forgecdn.net/files/6463/415/server_plus_plus-neoforge-1.21.1-0.0.1%2bbuild.8.jar",
+        "https://mod.mcimirror.top/files/6463/415/server_plus_plus-neoforge-1.21.1-0.0.1%2bbuild.8.jar"
       ],
       "fileSize": 148287
     },
@@ -1625,9 +1830,11 @@
         "sha512": "0c32aa31874162ea8f88515bd6a06a6e6a690d3bf1d1f4f2131214e35d188081a25defc5e8d08ad3adb4f5f83a91430d5c7696e73785eabd820261da27b8d43f"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6475/856/SiliconeDolls-neoforge-1.21.1-1.0.0%2bbuild.49.jar",
+        "https://cdn.modrinth.com/data/7rBlSqmp/versions/RVgca7dO/SiliconeDolls-neoforge-1.21.1-1.0.0%2Bbuild.49.jar",
+        "https://mod.mcimirror.top/data/7rBlSqmp/versions/RVgca7dO/SiliconeDolls-neoforge-1.21.1-1.0.0%2Bbuild.49.jar",
         "https://edge.forgecdn.net/files/6475/856/SiliconeDolls-neoforge-1.21.1-1.0.0%2bbuild.49.jar",
-        "https://cdn.modrinth.com/data/7rBlSqmp/versions/RVgca7dO/SiliconeDolls-neoforge-1.21.1-1.0.0%2Bbuild.49.jar"
+        "https://mediafilez.forgecdn.net/files/6475/856/SiliconeDolls-neoforge-1.21.1-1.0.0%2bbuild.49.jar",
+        "https://mod.mcimirror.top/files/6475/856/SiliconeDolls-neoforge-1.21.1-1.0.0%2bbuild.49.jar"
       ],
       "fileSize": 329754
     },
@@ -1639,7 +1846,10 @@
       },
       "downloads": [
         "https://cdn.modrinth.com/data/rq4lDGdf/versions/Oh5pG42o/Squareful%E6%96%B9%E7%BA%B9v26.0.6.zip",
-        "https://edge.forgecdn.net/files/7627/623/Squareful%e6%96%b9%e7%ba%b9v26.0.6.zip"
+        "https://mod.mcimirror.top/data/rq4lDGdf/versions/Oh5pG42o/Squareful%E6%96%B9%E7%BA%B9v26.0.6.zip",
+        "https://edge.forgecdn.net/files/7627/623/Squareful%e6%96%b9%e7%ba%b9v26.0.6.zip",
+        "https://mediafilez.forgecdn.net/files/7627/623/Squareful%e6%96%b9%e7%ba%b9v26.0.6.zip",
+        "https://mod.mcimirror.top/files/7627/623/Squareful%e6%96%b9%e7%ba%b9v26.0.6.zip"
       ],
       "fileSize": 7022597
     },
@@ -1650,8 +1860,9 @@
         "sha512": "28501f9d7a94714651e0fb2eb9343f5508f93b9b525210fb087a95946e3fea1e59515d76dcfa4724f8ff2497119634c21ae9c2014bad2c2651454fbe2cd4d3c4"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/4957/995/XKSP%20%e5%a7%b9%e7%b4%ab%e5%ab%a3%e7%ba%a2%20colorful%20leaves%20%20v3.2.zip",
         "https://mediafilez.forgecdn.net/files/4957/995/XKSP%20%e5%a7%b9%e7%b4%ab%e5%ab%a3%e7%ba%a2%20colorful%20leaves%20%20v3.2.zip",
-        "https://edge.forgecdn.net/files/4957/995/XKSP%20%e5%a7%b9%e7%b4%ab%e5%ab%a3%e7%ba%a2%20colorful%20leaves%20%20v3.2.zip"
+        "https://mod.mcimirror.top/files/4957/995/XKSP%20%e5%a7%b9%e7%b4%ab%e5%ab%a3%e7%ba%a2%20colorful%20leaves%20%20v3.2.zip"
       ],
       "fileSize": 216148
     },
@@ -1662,8 +1873,9 @@
         "sha512": "e083e082c9f951872b6b7aa698dc00d1e9438e779cfc7b2490b40f9eb8c64e771c11e302e3a303e50d005f33ca18c0ff3a55b5b1b75b5fe7764340b2e0640631"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/4957/993/XKSP%20%e6%9e%9d%e7%b9%81%e5%8f%b6%e8%8c%82%20lush%20foliage%20%20v3.2.zip",
         "https://mediafilez.forgecdn.net/files/4957/993/XKSP%20%e6%9e%9d%e7%b9%81%e5%8f%b6%e8%8c%82%20lush%20foliage%20%20v3.2.zip",
-        "https://edge.forgecdn.net/files/4957/993/XKSP%20%e6%9e%9d%e7%b9%81%e5%8f%b6%e8%8c%82%20lush%20foliage%20%20v3.2.zip"
+        "https://mod.mcimirror.top/files/4957/993/XKSP%20%e6%9e%9d%e7%b9%81%e5%8f%b6%e8%8c%82%20lush%20foliage%20%20v3.2.zip"
       ],
       "fileSize": 195377
     },
@@ -1674,8 +1886,9 @@
         "sha512": "9ab593f6f715559c6fa3fa800b751cfb0dadae64a8be745381701471c6202eb1596a82a6d852778a9265f72080698eb1c82d7705f1076826a07dd97b5e3eae10"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/4643/485/XKSPv3.13%e7%91%b6%e8%8d%89%e7%90%aa%e8%8a%b1%20lush%20plants.zip",
         "https://mediafilez.forgecdn.net/files/4643/485/XKSPv3.13%e7%91%b6%e8%8d%89%e7%90%aa%e8%8a%b1%20lush%20plants.zip",
-        "https://edge.forgecdn.net/files/4643/485/XKSPv3.13%e7%91%b6%e8%8d%89%e7%90%aa%e8%8a%b1%20lush%20plants.zip"
+        "https://mod.mcimirror.top/files/4643/485/XKSPv3.13%e7%91%b6%e8%8d%89%e7%90%aa%e8%8a%b1%20lush%20plants.zip"
       ],
       "fileSize": 447205
     },
@@ -1686,8 +1899,9 @@
         "sha512": "e3bc9b3a2b90cde3f8273b5cdb1a9bc78a3a52bc6f488930759efd34125743c2a88a35156d17bd2de3938ff67737a3da1bfcee2ff07515633a4be65db64e438f"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/4643/483/XKSPv3.13%e7%b2%be%e9%9b%95%e7%bb%86%e7%90%a2%20detail%20models.zip",
         "https://mediafilez.forgecdn.net/files/4643/483/XKSPv3.13%e7%b2%be%e9%9b%95%e7%bb%86%e7%90%a2%20detail%20models.zip",
-        "https://edge.forgecdn.net/files/4643/483/XKSPv3.13%e7%b2%be%e9%9b%95%e7%bb%86%e7%90%a2%20detail%20models.zip"
+        "https://mod.mcimirror.top/files/4643/483/XKSPv3.13%e7%b2%be%e9%9b%95%e7%bb%86%e7%90%a2%20detail%20models.zip"
       ],
       "fileSize": 532525
     },
@@ -1698,8 +1912,9 @@
         "sha512": "f74421576a4c68355e7cd63adb049a4164150b1e2311af87294e04a88c65ad3386a8b5f914c302503a87c31d87a076bd28646e18bd6fd6410bc2af7c9d881d5e"
       },
       "downloads": [
+        "https://edge.forgecdn.net/files/4643/488/XKSPv3.13%e8%87%aa%e7%84%b6%e9%99%84%e7%9d%80%20naturalize.zip",
         "https://mediafilez.forgecdn.net/files/4643/488/XKSPv3.13%e8%87%aa%e7%84%b6%e9%99%84%e7%9d%80%20naturalize.zip",
-        "https://edge.forgecdn.net/files/4643/488/XKSPv3.13%e8%87%aa%e7%84%b6%e9%99%84%e7%9d%80%20naturalize.zip"
+        "https://mod.mcimirror.top/files/4643/488/XKSPv3.13%e8%87%aa%e7%84%b6%e9%99%84%e7%9d%80%20naturalize.zip"
       ],
       "fileSize": 195636
     },
@@ -1710,9 +1925,11 @@
         "sha512": "17eaf20f8d09a83cc4cd81eb52f463a04dcd73b73e7ecf09fdc9f4933eacfe3497161b1734f255e4be2f5589d8aa16142465cdc2c75a2d8f6e9d2d833032d9ff"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6964/703/Bliss_v2.1.1_(Chocapic13_Shaders_edit).zip",
+        "https://cdn.modrinth.com/data/ZvMtQlho/versions/VObMy7ML/Bliss_v2.1.1_%28Chocapic13_Shaders_edit%29.zip",
+        "https://mod.mcimirror.top/data/ZvMtQlho/versions/VObMy7ML/Bliss_v2.1.1_%28Chocapic13_Shaders_edit%29.zip",
         "https://edge.forgecdn.net/files/6964/703/Bliss_v2.1.1_(Chocapic13_Shaders_edit).zip",
-        "https://cdn.modrinth.com/data/ZvMtQlho/versions/VObMy7ML/Bliss_v2.1.1_%28Chocapic13_Shaders_edit%29.zip"
+        "https://mediafilez.forgecdn.net/files/6964/703/Bliss_v2.1.1_(Chocapic13_Shaders_edit).zip",
+        "https://mod.mcimirror.top/files/6964/703/Bliss_v2.1.1_(Chocapic13_Shaders_edit).zip"
       ],
       "fileSize": 1801687
     },
@@ -1723,9 +1940,11 @@
         "sha512": "3c46b335faf0dde03666571d23bdc3aa04cdd30fa9ea3fd01214203a7a80bbf52ffa648b44d9c06c62308c234138da48a69ac381196de0683c57ec452ff68f41"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7090/228/ComplementaryUnbound_r5.6.1.zip",
+        "https://cdn.modrinth.com/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip",
+        "https://mod.mcimirror.top/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip",
         "https://edge.forgecdn.net/files/7090/228/ComplementaryUnbound_r5.6.1.zip",
-        "https://cdn.modrinth.com/data/R6NEzAwj/versions/LXrX6oqm/ComplementaryUnbound_r5.6.1.zip"
+        "https://mediafilez.forgecdn.net/files/7090/228/ComplementaryUnbound_r5.6.1.zip",
+        "https://mod.mcimirror.top/files/7090/228/ComplementaryUnbound_r5.6.1.zip"
       ],
       "fileSize": 500699
     },
@@ -1736,9 +1955,11 @@
         "sha512": "6dd3e8078c5a7958638259a3472ce1192e549e0683c5c668df25bfcff5d282af5fe791e423490561c4a2e68f3933f4ff2ef2ef689f13a4774bfdef86d7994db4"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/6803/741/photon_v1.2a.zip",
+        "https://cdn.modrinth.com/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip",
+        "https://mod.mcimirror.top/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip",
         "https://edge.forgecdn.net/files/6803/741/photon_v1.2a.zip",
-        "https://cdn.modrinth.com/data/lLqFfGNs/versions/rz2vlXVm/photon_v1.2a.zip"
+        "https://mediafilez.forgecdn.net/files/6803/741/photon_v1.2a.zip",
+        "https://mod.mcimirror.top/files/6803/741/photon_v1.2a.zip"
       ],
       "fileSize": 3737845
     },
@@ -1749,7 +1970,8 @@
         "sha512": "b32faa6d616511aff4f8b32197877c53b9f8bee103884ec37c632b5d017bb59a498ec971b68d8d94787043b0c5be666a330b61d285033c341bff83ac28a90992"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar"
+        "https://cdn.modrinth.com/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar",
+        "https://mod.mcimirror.top/data/ordsPcFz/versions/NrSebcsG/kotlinforforge-5.11.0-all.jar"
       ],
       "fileSize": 6869790
     },
@@ -1760,7 +1982,8 @@
         "sha512": "b0f9f1a324c30cd6b29aa8f1c3f5dfd0fdc6fd5e050ecc066f66c97146ce403e569ea686e97aca11877f9b9dcddbe3c28374eea2e4c67b5c4ab7a8dd2897761e"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Sy4Box1J/versions/rW8MeyAL/create_compressed-2.2.0-neoforge-1.21.1.jar"
+        "https://cdn.modrinth.com/data/Sy4Box1J/versions/rW8MeyAL/create_compressed-2.2.0-neoforge-1.21.1.jar",
+        "https://mod.mcimirror.top/data/Sy4Box1J/versions/rW8MeyAL/create_compressed-2.2.0-neoforge-1.21.1.jar"
       ],
       "fileSize": 158961
     },
@@ -1771,7 +1994,8 @@
         "sha512": "4aedb1e3a3fe67b391b5c877e094c6cbb5eb395b4f3173b860c90e2ea4e803d1367fd6593bb378184ad46991cf2d5c656444e60edebecf9887e053f29e9e5a9f"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar"
+        "https://cdn.modrinth.com/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar",
+        "https://mod.mcimirror.top/data/x49wilh8/versions/m6PCLHcp/Design-n-Decor-1.21.1-2.1.0.jar"
       ],
       "fileSize": 3264862
     },
@@ -1782,7 +2006,8 @@
         "sha512": "c7899f8a693cf1b4c17a31faf64e631383f6df331b82b517ed6abe01b0464a9f10b226f0336fa8611c5af514375716c4d009d55c7f92640445c68239b63ebc03"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+        "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+        "https://mod.mcimirror.top/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar"
       ],
       "fileSize": 33030286
     },
@@ -1793,9 +2018,11 @@
         "sha512": "eb7c46649f5aa359f688fecacfa348b205dff0cfc2d27694632c2e1e1f8f4dbab2c31bdc95b2577201529b2597afe49328c7ad8c348d25eaca109f1a02667534"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar",
+        "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar",
+        "https://mod.mcimirror.top/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar",
         "https://edge.forgecdn.net/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar",
-        "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar"
+        "https://mediafilez.forgecdn.net/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar",
+        "https://mod.mcimirror.top/files/8007/5/sable-neoforge-1.21.1-1.2.2.jar"
       ],
       "fileSize": 12719293
     },
@@ -1806,7 +2033,8 @@
         "sha512": "c536662f9d47ad57a37419165ded14835b23ad6c3e82a920298ecd7ee074244b0b6062ef9cc7ea4501ddd35919a840faccd7fc64e43eb8df31e12076681c3c0d"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar"
+        "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
+        "https://mod.mcimirror.top/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar"
       ],
       "fileSize": 3328498
     },
@@ -1876,7 +2104,8 @@
         "sha512": "473aafd82008c1e041e3b4a5a177507d555c8bc9dd1f121f252f1e81bc0c69c79a91cb64be0df343babcb3d4db76efbaa7aa2adaeaae29337808a368bc290ad0"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/WrpuIfhw/versions/Zwf8nv8y/corpse-neoforge-1.21.1-1.1.13.jar"
+        "https://cdn.modrinth.com/data/WrpuIfhw/versions/Zwf8nv8y/corpse-neoforge-1.21.1-1.1.13.jar",
+        "https://mod.mcimirror.top/data/WrpuIfhw/versions/Zwf8nv8y/corpse-neoforge-1.21.1-1.1.13.jar"
       ],
       "fileSize": 253694
     },
@@ -1887,7 +2116,8 @@
         "sha512": "cdd870541a7c1dcea5252bbb29858cba1b4a0f379357fa49ea4eb416fe1a068c654864f8ff5b4aca5079fc65f6f4f272e70b0e3cd50981dcc332a7d2cd80cee4"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar"
+        "https://cdn.modrinth.com/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+        "https://mod.mcimirror.top/data/zV5r3pPn/versions/lWa5oHuK/skinlayers3d-neoforge-1.11.1-mc1.21.1.jar"
       ],
       "fileSize": 1974380
     },
@@ -1898,7 +2128,8 @@
         "sha512": "534d369aa7786f94f82590da7dd69d531e46c73cb486e75c6797eae648da6a40c5b04343219f7d3dea18cc22c9b6a3442775fa4abef03a26c6dd38abc18beda5"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/J5EYn4B4/versions/SyJRU75W/CreatEnhanceDisplay.zip"
+        "https://cdn.modrinth.com/data/J5EYn4B4/versions/SyJRU75W/CreatEnhanceDisplay.zip",
+        "https://mod.mcimirror.top/data/J5EYn4B4/versions/SyJRU75W/CreatEnhanceDisplay.zip"
       ],
       "fileSize": 242124
     },
@@ -1909,7 +2140,8 @@
         "sha512": "840149dd8aff5d5d06d0d5a4ea83d4ea7f72eab3cb2b02de513c1f3eaa6e4627f68d9c0915b86fa37edad73cafd4648f156f373da52810cd34c67d797e0f6aef"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip"
+        "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip",
+        "https://mod.mcimirror.top/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip"
       ],
       "fileSize": 522970
     }
